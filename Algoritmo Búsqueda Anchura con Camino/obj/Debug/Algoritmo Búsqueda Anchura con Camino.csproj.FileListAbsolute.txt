@@ -1,0 +1,7 @@
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\bin\Debug\Algoritmo Búsqueda Anchura con Camino.exe.config
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\bin\Debug\Algoritmo Búsqueda Anchura con Camino.exe
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\bin\Debug\Algoritmo Búsqueda Anchura con Camino.pdb
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\obj\Debug\Algoritmo Búsqueda Anchura con Camino.csproj.AssemblyReference.cache
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\obj\Debug\Algoritmo Búsqueda Anchura con Camino.csproj.CoreCompileInputs.cache
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\obj\Debug\Algoritmo Búsqueda Anchura con Camino.exe
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\obj\Debug\Algoritmo Búsqueda Anchura con Camino.pdb
