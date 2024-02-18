@@ -496,7 +496,7 @@ namespace PuzzleIA_01
                 }
             }
 
-            //Console.WriteLine("Número de nodos en el camino: " + caminoInverso.Count);           
+            Console.WriteLine("Número de nodos en el camino: " + caminoInverso.Count);           
 
             //Creado el camino, se recorre en orden contrario para mostrar la solución al puzzle
 

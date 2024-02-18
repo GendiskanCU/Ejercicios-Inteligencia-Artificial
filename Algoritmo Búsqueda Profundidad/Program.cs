@@ -317,9 +317,9 @@ namespace PuzzleIA_01
     {
         static void Main(string[] args)
         {
-            Nodo nodoInicial = new Nodo(2, 1, 6,
-                                        4, 0, 8,
-                                        7, 5, 3);
+            Nodo nodoInicial = new Nodo(1, 0, 2,
+                                        3, 4, 5,
+                                        7, 6, 8);
 
             Console.WriteLine("NODO INICIAL:\n" + nodoInicial.Dibujar());
 
@@ -497,7 +497,7 @@ namespace PuzzleIA_01
                 }
             }
 
-            //Console.WriteLine("Número de nodos en el camino: " + caminoInverso.Count);           
+            Console.WriteLine("Número de nodos en el camino: " + caminoInverso.Count);           
 
             //Creado el camino, se recorre en orden contrario para mostrar la solución al puzzle
 
@@ -506,9 +506,9 @@ namespace PuzzleIA_01
 
             for (int i = caminoInverso.Count - 1; i >= 0; i--)
             {
-                Thread.Sleep(100); //Hace una pausa                
-                Console.Clear();
-                Console.SetCursorPosition(0, 1);
+                //Thread.Sleep(300); //Hace una pausa                
+                //Console.Clear();
+                //Console.SetCursorPosition(0, 1);
                 Console.WriteLine("\n=========\n" + caminoInverso[i].Dibujar() + "=========");
             }
         }
