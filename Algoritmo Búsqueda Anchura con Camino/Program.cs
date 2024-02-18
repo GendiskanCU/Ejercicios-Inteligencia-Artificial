@@ -387,6 +387,7 @@ namespace PuzzleIA_01
 
                     RecorreCamino(nodosCerrados, nodoActual);
 
+
                     return nodoActual;
                 }
                 else //Si todavía no se ha llegado al nodo meta
@@ -403,7 +404,7 @@ namespace PuzzleIA_01
                     {
                         n.EstableceNodoPadre(nodoActual);//Guarda el nodo padre para poder recuperar el camino
 
-                        //Si algún sucesor ya es el META, se finaliza con éxito
+                        /*//Si algún sucesor ya es el META, se finaliza con éxito
                         if (n.EsMeta())
                         {
                             ficheroPruebas.Close();
@@ -411,7 +412,7 @@ namespace PuzzleIA_01
                             RecorreCamino(nodosCerrados, n);
 
                             return n;
-                        }
+                        }*/
 
                         if (!EstaEnLaLista(n, nodosCerrados) && !EstaEnLaLista(n, nodosAbiertos))
                         {                            
@@ -446,12 +447,22 @@ namespace PuzzleIA_01
 
             Nodo nodoPadre = new Nodo();
 
+            Nodo nuevoNodo = new Nodo();
+
             caminoInverso.Add(nodoFinal);
 
             if (nodoFinal.Padre() != null)
             {
+               
                 nodoPadre.CopiaEstado(nodoFinal.Padre());
-                caminoInverso.Add(nodoPadre);
+                nuevoNodo.CopiaEstado(nodoPadre);
+                caminoInverso.Add(nuevoNodo);
+                Console.WriteLine("Entra aquí, y añade a: " + nodoFinal.Padre().Dibujar());
+            }
+
+            foreach (Nodo nod in caminoInverso)
+            {
+                Console.WriteLine(nod.Dibujar() + "\n");
             }
 
             Console.WriteLine("Número de nodos visitados: " + nodosVisitados.Count);
@@ -469,7 +480,15 @@ namespace PuzzleIA_01
                         if (n.Padre() != null)
                         {  
                             Console.WriteLine("Añadiendo al camino a:\n" + n.Padre().Dibujar());
-                            caminoInverso.Add(n.Padre());
+                            Nodo nodoCamino = new Nodo();
+                            nodoCamino.CopiaEstado(n.Padre());
+                            caminoInverso.Add(nodoCamino);
+
+                            foreach (Nodo nod in caminoInverso)
+                            {
+                                Console.WriteLine(nod.Dibujar() + "\n");
+                            }
+
                             nodoPadre.CopiaEstado(n.Padre());
                         }
                         else
@@ -480,8 +499,9 @@ namespace PuzzleIA_01
                 }
             }
 
-            Console.WriteLine("Número de nodos en el camino: " + caminoInverso.Count);
+            Console.WriteLine("Número de nodos en el camino: " + caminoInverso.Count);           
 
+            
             for(int i = caminoInverso.Count - 1; i >= 0; i--)
             {
                 Console.WriteLine(caminoInverso[i].Dibujar() + "\n");

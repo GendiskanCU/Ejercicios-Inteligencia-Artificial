@@ -16988,3 +16988,10823 @@ Nodo padre del actual:
 6,7,8,
 
 
+Paso 1700. Num. abiertos: 1082. Num cerrados: 1701. Nodos creados: 4668. Nodo actual:
+1,4,2,
+3,5,0,
+6,7,8,
+Nodo padre del actual:
+1,4,2,
+3,0,5,
+6,7,8,
+
+
+Paso 1701. Num. abiertos: 1083. Num cerrados: 1702. Nodos creados: 4671. Nodo actual:
+6,1,4,
+7,3,2,
+8,0,5,
+Nodo padre del actual:
+6,1,4,
+7,3,2,
+0,8,5,
+
+
+Paso 1702. Num. abiertos: 1084. Num cerrados: 1703. Nodos creados: 4674. Nodo actual:
+6,1,4,
+3,8,2,
+7,0,5,
+Nodo padre del actual:
+6,1,4,
+3,0,2,
+7,8,5,
+
+
+Paso 1703. Num. abiertos: 1085. Num cerrados: 1704. Nodos creados: 4677. Nodo actual:
+6,0,4,
+3,1,2,
+7,8,5,
+Nodo padre del actual:
+6,1,4,
+3,0,2,
+7,8,5,
+
+
+Paso 1704. Num. abiertos: 1086. Num cerrados: 1705. Nodos creados: 4680. Nodo actual:
+6,1,4,
+3,2,0,
+7,8,5,
+Nodo padre del actual:
+6,1,4,
+3,0,2,
+7,8,5,
+
+
+Paso 1705. Num. abiertos: 1087. Num cerrados: 1706. Nodos creados: 4683. Nodo actual:
+7,1,2,
+0,4,3,
+8,6,5,
+Nodo padre del actual:
+0,1,2,
+7,4,3,
+8,6,5,
+
+
+Paso 1706. Num. abiertos: 1087. Num cerrados: 1707. Nodos creados: 4686. Nodo actual:
+1,4,2,
+7,3,5,
+8,0,6,
+Nodo padre del actual:
+1,4,2,
+7,3,5,
+8,6,0,
+
+
+Paso 1707. Num. abiertos: 1088. Num cerrados: 1708. Nodos creados: 4689. Nodo actual:
+1,0,4,
+7,3,2,
+8,6,5,
+Nodo padre del actual:
+1,4,0,
+7,3,2,
+8,6,5,
+
+
+Paso 1708. Num. abiertos: 1088. Num cerrados: 1709. Nodos creados: 4692. Nodo actual:
+4,0,2,
+1,7,3,
+8,6,5,
+Nodo padre del actual:
+0,4,2,
+1,7,3,
+8,6,5,
+
+
+Paso 1709. Num. abiertos: 1089. Num cerrados: 1710. Nodos creados: 4695. Nodo actual:
+1,0,4,
+7,6,2,
+8,5,3,
+Nodo padre del actual:
+1,4,0,
+7,6,2,
+8,5,3,
+
+
+Paso 1710. Num. abiertos: 1090. Num cerrados: 1711. Nodos creados: 4698. Nodo actual:
+1,4,2,
+7,5,6,
+8,0,3,
+Nodo padre del actual:
+1,4,2,
+7,0,6,
+8,5,3,
+
+
+Paso 1711. Num. abiertos: 1091. Num cerrados: 1712. Nodos creados: 4701. Nodo actual:
+1,0,2,
+7,4,6,
+8,5,3,
+Nodo padre del actual:
+1,4,2,
+7,0,6,
+8,5,3,
+
+
+Paso 1712. Num. abiertos: 1092. Num cerrados: 1713. Nodos creados: 4704. Nodo actual:
+1,4,2,
+0,7,6,
+8,5,3,
+Nodo padre del actual:
+1,4,2,
+7,0,6,
+8,5,3,
+
+
+Paso 1713. Num. abiertos: 1093. Num cerrados: 1714. Nodos creados: 4707. Nodo actual:
+4,6,2,
+1,8,0,
+7,5,3,
+Nodo padre del actual:
+4,6,2,
+1,8,3,
+7,5,0,
+
+
+Paso 1714. Num. abiertos: 1093. Num cerrados: 1715. Nodos creados: 4710. Nodo actual:
+4,6,2,
+0,8,3,
+1,7,5,
+Nodo padre del actual:
+4,6,2,
+1,8,3,
+0,7,5,
+
+
+Paso 1715. Num. abiertos: 1094. Num cerrados: 1716. Nodos creados: 4713. Nodo actual:
+4,6,2,
+1,3,5,
+7,0,8,
+Nodo padre del actual:
+4,6,2,
+1,3,5,
+7,8,0,
+
+
+Paso 1716. Num. abiertos: 1094. Num cerrados: 1717. Nodos creados: 4716. Nodo actual:
+4,0,6,
+1,3,2,
+7,8,5,
+Nodo padre del actual:
+4,6,0,
+1,3,2,
+7,8,5,
+
+
+Paso 1717. Num. abiertos: 1095. Num cerrados: 1718. Nodos creados: 4719. Nodo actual:
+4,6,2,
+7,1,3,
+8,0,5,
+Nodo padre del actual:
+4,6,2,
+7,1,3,
+0,8,5,
+
+
+Paso 1718. Num. abiertos: 1096. Num cerrados: 1719. Nodos creados: 4722. Nodo actual:
+4,2,3,
+1,6,5,
+7,0,8,
+Nodo padre del actual:
+4,2,3,
+1,6,5,
+7,8,0,
+
+
+Paso 1719. Num. abiertos: 1096. Num cerrados: 1720. Nodos creados: 4725. Nodo actual:
+4,2,3,
+1,8,6,
+7,0,5,
+Nodo padre del actual:
+4,2,3,
+1,0,6,
+7,8,5,
+
+
+Paso 1720. Num. abiertos: 1097. Num cerrados: 1721. Nodos creados: 4728. Nodo actual:
+4,0,3,
+1,2,6,
+7,8,5,
+Nodo padre del actual:
+4,2,3,
+1,0,6,
+7,8,5,
+
+
+Paso 1721. Num. abiertos: 1098. Num cerrados: 1722. Nodos creados: 4731. Nodo actual:
+4,2,3,
+0,1,6,
+7,8,5,
+Nodo padre del actual:
+4,2,3,
+1,0,6,
+7,8,5,
+
+
+Paso 1722. Num. abiertos: 1099. Num cerrados: 1723. Nodos creados: 4734. Nodo actual:
+6,2,3,
+7,1,0,
+8,4,5,
+Nodo padre del actual:
+6,2,0,
+7,1,3,
+8,4,5,
+
+
+Paso 1723. Num. abiertos: 1100. Num cerrados: 1724. Nodos creados: 4737. Nodo actual:
+7,6,2,
+0,1,3,
+8,4,5,
+Nodo padre del actual:
+0,6,2,
+7,1,3,
+8,4,5,
+
+
+Paso 1724. Num. abiertos: 1101. Num cerrados: 1725. Nodos creados: 4740. Nodo actual:
+6,1,2,
+7,3,5,
+8,0,4,
+Nodo padre del actual:
+6,1,2,
+7,3,5,
+8,4,0,
+
+
+Paso 1725. Num. abiertos: 1102. Num cerrados: 1726. Nodos creados: 4743. Nodo actual:
+6,0,1,
+7,3,2,
+8,4,5,
+Nodo padre del actual:
+6,1,0,
+7,3,2,
+8,4,5,
+
+
+Paso 1726. Num. abiertos: 1103. Num cerrados: 1727. Nodos creados: 4746. Nodo actual:
+6,1,2,
+8,7,3,
+4,0,5,
+Nodo padre del actual:
+6,1,2,
+8,7,3,
+0,4,5,
+
+
+Paso 1727. Num. abiertos: 1103. Num cerrados: 1728. Nodos creados: 4749. Nodo actual:
+1,0,2,
+6,7,3,
+8,4,5,
+Nodo padre del actual:
+0,1,2,
+6,7,3,
+8,4,5,
+
+
+Paso 1728. Num. abiertos: 1104. Num cerrados: 1729. Nodos creados: 4752. Nodo actual:
+6,0,1,
+7,4,2,
+8,5,3,
+Nodo padre del actual:
+6,1,0,
+7,4,2,
+8,5,3,
+
+
+Paso 1729. Num. abiertos: 1105. Num cerrados: 1730. Nodos creados: 4755. Nodo actual:
+6,1,2,
+7,5,4,
+8,0,3,
+Nodo padre del actual:
+6,1,2,
+7,0,4,
+8,5,3,
+
+
+Paso 1730. Num. abiertos: 1105. Num cerrados: 1731. Nodos creados: 4758. Nodo actual:
+6,0,2,
+7,1,4,
+8,5,3,
+Nodo padre del actual:
+6,1,2,
+7,0,4,
+8,5,3,
+
+
+Paso 1731. Num. abiertos: 1106. Num cerrados: 1732. Nodos creados: 4761. Nodo actual:
+6,1,2,
+0,7,4,
+8,5,3,
+Nodo padre del actual:
+6,1,2,
+7,0,4,
+8,5,3,
+
+
+Paso 1732. Num. abiertos: 1107. Num cerrados: 1733. Nodos creados: 4764. Nodo actual:
+6,0,1,
+4,8,2,
+7,5,3,
+Nodo padre del actual:
+6,1,0,
+4,8,2,
+7,5,3,
+
+
+Paso 1733. Num. abiertos: 1108. Num cerrados: 1734. Nodos creados: 4767. Nodo actual:
+6,1,2,
+4,5,8,
+7,0,3,
+Nodo padre del actual:
+6,1,2,
+4,0,8,
+7,5,3,
+
+
+Paso 1734. Num. abiertos: 1109. Num cerrados: 1735. Nodos creados: 4770. Nodo actual:
+6,0,2,
+4,1,8,
+7,5,3,
+Nodo padre del actual:
+6,1,2,
+4,0,8,
+7,5,3,
+
+
+Paso 1735. Num. abiertos: 1110. Num cerrados: 1736. Nodos creados: 4773. Nodo actual:
+1,0,2,
+6,8,3,
+4,7,5,
+Nodo padre del actual:
+0,1,2,
+6,8,3,
+4,7,5,
+
+
+Paso 1736. Num. abiertos: 1111. Num cerrados: 1737. Nodos creados: 4776. Nodo actual:
+6,0,2,
+8,1,3,
+4,7,5,
+Nodo padre del actual:
+6,1,2,
+8,0,3,
+4,7,5,
+
+
+Paso 1737. Num. abiertos: 1112. Num cerrados: 1738. Nodos creados: 4779. Nodo actual:
+6,1,2,
+8,3,0,
+4,7,5,
+Nodo padre del actual:
+6,1,2,
+8,0,3,
+4,7,5,
+
+
+Paso 1738. Num. abiertos: 1113. Num cerrados: 1739. Nodos creados: 4782. Nodo actual:
+6,2,3,
+4,1,5,
+7,0,8,
+Nodo padre del actual:
+6,2,3,
+4,1,5,
+7,8,0,
+
+
+Paso 1739. Num. abiertos: 1114. Num cerrados: 1740. Nodos creados: 4785. Nodo actual:
+6,2,3,
+4,8,1,
+7,0,5,
+Nodo padre del actual:
+6,2,3,
+4,0,1,
+7,8,5,
+
+
+Paso 1740. Num. abiertos: 1115. Num cerrados: 1741. Nodos creados: 4788. Nodo actual:
+6,0,3,
+4,2,1,
+7,8,5,
+Nodo padre del actual:
+6,2,3,
+4,0,1,
+7,8,5,
+
+
+Paso 1741. Num. abiertos: 1116. Num cerrados: 1742. Nodos creados: 4791. Nodo actual:
+6,2,3,
+0,4,1,
+7,8,5,
+Nodo padre del actual:
+6,2,3,
+4,0,1,
+7,8,5,
+
+
+Paso 1742. Num. abiertos: 1117. Num cerrados: 1743. Nodos creados: 4794. Nodo actual:
+6,0,2,
+4,1,5,
+7,3,8,
+Nodo padre del actual:
+6,1,2,
+4,0,5,
+7,3,8,
+
+
+Paso 1743. Num. abiertos: 1118. Num cerrados: 1744. Nodos creados: 4797. Nodo actual:
+6,1,2,
+4,5,0,
+7,3,8,
+Nodo padre del actual:
+6,1,2,
+4,0,5,
+7,3,8,
+
+
+Paso 1744. Num. abiertos: 1118. Num cerrados: 1745. Nodos creados: 4800. Nodo actual:
+6,1,2,
+0,3,5,
+4,7,8,
+Nodo padre del actual:
+6,1,2,
+4,3,5,
+0,7,8,
+
+
+Paso 1745. Num. abiertos: 1119. Num cerrados: 1746. Nodos creados: 4803. Nodo actual:
+6,3,1,
+4,8,2,
+7,0,5,
+Nodo padre del actual:
+6,3,1,
+4,0,2,
+7,8,5,
+
+
+Paso 1746. Num. abiertos: 1120. Num cerrados: 1747. Nodos creados: 4806. Nodo actual:
+6,3,1,
+4,2,0,
+7,8,5,
+Nodo padre del actual:
+6,3,1,
+4,0,2,
+7,8,5,
+
+
+Paso 1747. Num. abiertos: 1120. Num cerrados: 1748. Nodos creados: 4809. Nodo actual:
+6,3,1,
+0,4,2,
+7,8,5,
+Nodo padre del actual:
+6,3,1,
+4,0,2,
+7,8,5,
+
+
+Paso 1748. Num. abiertos: 1121. Num cerrados: 1749. Nodos creados: 4812. Nodo actual:
+4,6,1,
+0,3,2,
+7,8,5,
+Nodo padre del actual:
+0,6,1,
+4,3,2,
+7,8,5,
+
+
+Paso 1749. Num. abiertos: 1122. Num cerrados: 1750. Nodos creados: 4815. Nodo actual:
+2,8,3,
+1,7,0,
+6,5,4,
+Nodo padre del actual:
+2,8,3,
+1,7,4,
+6,5,0,
+
+
+Paso 1750. Num. abiertos: 1123. Num cerrados: 1751. Nodos creados: 4818. Nodo actual:
+2,8,3,
+0,7,4,
+1,6,5,
+Nodo padre del actual:
+2,8,3,
+1,7,4,
+0,6,5,
+
+
+Paso 1751. Num. abiertos: 1124. Num cerrados: 1752. Nodos creados: 4821. Nodo actual:
+2,8,3,
+1,4,5,
+6,0,7,
+Nodo padre del actual:
+2,8,3,
+1,4,5,
+6,7,0,
+
+
+Paso 1752. Num. abiertos: 1125. Num cerrados: 1753. Nodos creados: 4824. Nodo actual:
+2,0,8,
+1,4,3,
+6,7,5,
+Nodo padre del actual:
+2,8,0,
+1,4,3,
+6,7,5,
+
+
+Paso 1753. Num. abiertos: 1126. Num cerrados: 1754. Nodos creados: 4827. Nodo actual:
+2,8,3,
+6,1,4,
+7,0,5,
+Nodo padre del actual:
+2,8,3,
+6,1,4,
+0,7,5,
+
+
+Paso 1754. Num. abiertos: 1127. Num cerrados: 1755. Nodos creados: 4830. Nodo actual:
+8,0,3,
+2,1,4,
+6,7,5,
+Nodo padre del actual:
+0,8,3,
+2,1,4,
+6,7,5,
+
+
+Paso 1755. Num. abiertos: 1127. Num cerrados: 1756. Nodos creados: 4833. Nodo actual:
+2,3,4,
+1,8,5,
+6,0,7,
+Nodo padre del actual:
+2,3,4,
+1,8,5,
+6,7,0,
+
+
+Paso 1756. Num. abiertos: 1128. Num cerrados: 1757. Nodos creados: 4836. Nodo actual:
+2,3,4,
+1,7,8,
+6,0,5,
+Nodo padre del actual:
+2,3,4,
+1,0,8,
+6,7,5,
+
+
+Paso 1757. Num. abiertos: 1129. Num cerrados: 1758. Nodos creados: 4839. Nodo actual:
+2,0,4,
+1,3,8,
+6,7,5,
+Nodo padre del actual:
+2,3,4,
+1,0,8,
+6,7,5,
+
+
+Paso 1758. Num. abiertos: 1130. Num cerrados: 1759. Nodos creados: 4842. Nodo actual:
+2,3,4,
+0,1,8,
+6,7,5,
+Nodo padre del actual:
+2,3,4,
+1,0,8,
+6,7,5,
+
+
+Paso 1759. Num. abiertos: 1131. Num cerrados: 1760. Nodos creados: 4845. Nodo actual:
+1,0,2,
+8,7,3,
+6,5,4,
+Nodo padre del actual:
+1,2,0,
+8,7,3,
+6,5,4,
+
+
+Paso 1760. Num. abiertos: 1132. Num cerrados: 1761. Nodos creados: 4848. Nodo actual:
+1,2,3,
+8,5,7,
+6,0,4,
+Nodo padre del actual:
+1,2,3,
+8,0,7,
+6,5,4,
+
+
+Paso 1761. Num. abiertos: 1133. Num cerrados: 1762. Nodos creados: 4851. Nodo actual:
+1,0,3,
+8,2,7,
+6,5,4,
+Nodo padre del actual:
+1,2,3,
+8,0,7,
+6,5,4,
+
+
+Paso 1762. Num. abiertos: 1134. Num cerrados: 1763. Nodos creados: 4854. Nodo actual:
+1,2,3,
+0,8,7,
+6,5,4,
+Nodo padre del actual:
+1,2,3,
+8,0,7,
+6,5,4,
+
+
+Paso 1763. Num. abiertos: 1135. Num cerrados: 1764. Nodos creados: 4857. Nodo actual:
+1,3,4,
+8,2,5,
+6,0,7,
+Nodo padre del actual:
+1,3,4,
+8,2,5,
+6,7,0,
+
+
+Paso 1764. Num. abiertos: 1136. Num cerrados: 1765. Nodos creados: 4860. Nodo actual:
+1,3,4,
+8,7,2,
+6,0,5,
+Nodo padre del actual:
+1,3,4,
+8,0,2,
+6,7,5,
+
+
+Paso 1765. Num. abiertos: 1137. Num cerrados: 1766. Nodos creados: 4863. Nodo actual:
+8,1,3,
+6,2,4,
+7,0,5,
+Nodo padre del actual:
+8,1,3,
+6,2,4,
+0,7,5,
+
+
+Paso 1766. Num. abiertos: 1138. Num cerrados: 1767. Nodos creados: 4866. Nodo actual:
+8,1,3,
+2,7,4,
+6,0,5,
+Nodo padre del actual:
+8,1,3,
+2,0,4,
+6,7,5,
+
+
+Paso 1767. Num. abiertos: 1139. Num cerrados: 1768. Nodos creados: 4869. Nodo actual:
+8,1,3,
+2,4,0,
+6,7,5,
+Nodo padre del actual:
+8,1,3,
+2,0,4,
+6,7,5,
+
+
+Paso 1768. Num. abiertos: 1140. Num cerrados: 1769. Nodos creados: 4872. Nodo actual:
+1,0,3,
+8,2,5,
+6,4,7,
+Nodo padre del actual:
+1,2,3,
+8,0,5,
+6,4,7,
+
+
+Paso 1769. Num. abiertos: 1141. Num cerrados: 1770. Nodos creados: 4875. Nodo actual:
+1,2,3,
+8,5,0,
+6,4,7,
+Nodo padre del actual:
+1,2,3,
+8,0,5,
+6,4,7,
+
+
+Paso 1770. Num. abiertos: 1141. Num cerrados: 1771. Nodos creados: 4878. Nodo actual:
+1,2,3,
+0,8,5,
+6,4,7,
+Nodo padre del actual:
+1,2,3,
+8,0,5,
+6,4,7,
+
+
+Paso 1771. Num. abiertos: 1142. Num cerrados: 1772. Nodos creados: 4881. Nodo actual:
+1,2,3,
+0,4,5,
+8,6,7,
+Nodo padre del actual:
+1,2,3,
+8,4,5,
+0,6,7,
+
+
+Paso 1772. Num. abiertos: 1143. Num cerrados: 1773. Nodos creados: 4884. Nodo actual:
+1,4,5,
+6,3,0,
+7,2,8,
+Nodo padre del actual:
+1,4,0,
+6,3,5,
+7,2,8,
+
+
+Paso 1773. Num. abiertos: 1144. Num cerrados: 1774. Nodos creados: 4887. Nodo actual:
+6,1,4,
+0,3,5,
+7,2,8,
+Nodo padre del actual:
+0,1,4,
+6,3,5,
+7,2,8,
+
+
+Paso 1774. Num. abiertos: 1145. Num cerrados: 1775. Nodos creados: 4890. Nodo actual:
+1,3,4,
+6,5,8,
+7,0,2,
+Nodo padre del actual:
+1,3,4,
+6,5,8,
+7,2,0,
+
+
+Paso 1775. Num. abiertos: 1145. Num cerrados: 1776. Nodos creados: 4893. Nodo actual:
+1,0,3,
+6,5,4,
+7,2,8,
+Nodo padre del actual:
+1,3,0,
+6,5,4,
+7,2,8,
+
+
+Paso 1776. Num. abiertos: 1146. Num cerrados: 1777. Nodos creados: 4896. Nodo actual:
+1,3,4,
+7,6,5,
+2,0,8,
+Nodo padre del actual:
+1,3,4,
+7,6,5,
+0,2,8,
+
+
+Paso 1777. Num. abiertos: 1147. Num cerrados: 1778. Nodos creados: 4899. Nodo actual:
+3,0,4,
+1,6,5,
+7,2,8,
+Nodo padre del actual:
+0,3,4,
+1,6,5,
+7,2,8,
+
+
+Paso 1778. Num. abiertos: 1148. Num cerrados: 1779. Nodos creados: 4902. Nodo actual:
+3,0,4,
+1,2,5,
+6,7,8,
+Nodo padre del actual:
+0,3,4,
+1,2,5,
+6,7,8,
+
+
+Paso 1779. Num. abiertos: 1148. Num cerrados: 1780. Nodos creados: 4905. Nodo actual:
+1,3,4,
+2,7,5,
+6,0,8,
+Nodo padre del actual:
+1,3,4,
+2,0,5,
+6,7,8,
+
+
+Paso 1780. Num. abiertos: 1149. Num cerrados: 1781. Nodos creados: 4908. Nodo actual:
+1,0,4,
+2,3,5,
+6,7,8,
+Nodo padre del actual:
+1,3,4,
+2,0,5,
+6,7,8,
+
+
+Paso 1781. Num. abiertos: 1150. Num cerrados: 1782. Nodos creados: 4911. Nodo actual:
+1,3,4,
+2,5,0,
+6,7,8,
+Nodo padre del actual:
+1,3,4,
+2,0,5,
+6,7,8,
+
+
+Paso 1782. Num. abiertos: 1151. Num cerrados: 1783. Nodos creados: 4914. Nodo actual:
+1,0,3,
+6,8,4,
+7,5,2,
+Nodo padre del actual:
+1,3,0,
+6,8,4,
+7,5,2,
+
+
+Paso 1783. Num. abiertos: 1152. Num cerrados: 1784. Nodos creados: 4917. Nodo actual:
+1,0,4,
+6,3,8,
+7,5,2,
+Nodo padre del actual:
+1,3,4,
+6,0,8,
+7,5,2,
+
+
+Paso 1784. Num. abiertos: 1153. Num cerrados: 1785. Nodos creados: 4920. Nodo actual:
+1,3,4,
+0,6,8,
+7,5,2,
+Nodo padre del actual:
+1,3,4,
+6,0,8,
+7,5,2,
+
+
+Paso 1785. Num. abiertos: 1154. Num cerrados: 1786. Nodos creados: 4923. Nodo actual:
+3,0,4,
+1,8,2,
+6,7,5,
+Nodo padre del actual:
+0,3,4,
+1,8,2,
+6,7,5,
+
+
+Paso 1786. Num. abiertos: 1155. Num cerrados: 1787. Nodos creados: 4926. Nodo actual:
+1,3,4,
+0,7,2,
+8,6,5,
+Nodo padre del actual:
+1,3,4,
+7,0,2,
+8,6,5,
+
+
+Paso 1787. Num. abiertos: 1155. Num cerrados: 1788. Nodos creados: 4929. Nodo actual:
+1,3,4,
+7,6,0,
+8,5,2,
+Nodo padre del actual:
+1,3,4,
+7,6,2,
+8,5,0,
+
+
+Paso 1788. Num. abiertos: 1156. Num cerrados: 1789. Nodos creados: 4932. Nodo actual:
+3,6,4,
+1,8,2,
+7,0,5,
+Nodo padre del actual:
+3,6,4,
+1,0,2,
+7,8,5,
+
+
+Paso 1789. Num. abiertos: 1157. Num cerrados: 1790. Nodos creados: 4935. Nodo actual:
+3,6,4,
+1,2,0,
+7,8,5,
+Nodo padre del actual:
+3,6,4,
+1,0,2,
+7,8,5,
+
+
+Paso 1790. Num. abiertos: 1158. Num cerrados: 1791. Nodos creados: 4938. Nodo actual:
+3,6,4,
+0,1,2,
+7,8,5,
+Nodo padre del actual:
+3,6,4,
+1,0,2,
+7,8,5,
+
+
+Paso 1791. Num. abiertos: 1158. Num cerrados: 1792. Nodos creados: 4941. Nodo actual:
+3,4,2,
+1,6,0,
+7,8,5,
+Nodo padre del actual:
+3,4,0,
+1,6,2,
+7,8,5,
+
+
+Paso 1792. Num. abiertos: 1159. Num cerrados: 1793. Nodos creados: 4944. Nodo actual:
+6,3,4,
+7,1,0,
+8,2,5,
+Nodo padre del actual:
+6,3,0,
+7,1,4,
+8,2,5,
+
+
+Paso 1793. Num. abiertos: 1160. Num cerrados: 1794. Nodos creados: 4947. Nodo actual:
+7,6,3,
+0,1,4,
+8,2,5,
+Nodo padre del actual:
+0,6,3,
+7,1,4,
+8,2,5,
+
+
+Paso 1794. Num. abiertos: 1161. Num cerrados: 1795. Nodos creados: 4950. Nodo actual:
+6,1,3,
+7,4,5,
+8,0,2,
+Nodo padre del actual:
+6,1,3,
+7,4,5,
+8,2,0,
+
+
+Paso 1795. Num. abiertos: 1161. Num cerrados: 1796. Nodos creados: 4953. Nodo actual:
+6,0,1,
+7,4,3,
+8,2,5,
+Nodo padre del actual:
+6,1,0,
+7,4,3,
+8,2,5,
+
+
+Paso 1796. Num. abiertos: 1162. Num cerrados: 1797. Nodos creados: 4956. Nodo actual:
+6,1,3,
+8,7,4,
+2,0,5,
+Nodo padre del actual:
+6,1,3,
+8,7,4,
+0,2,5,
+
+
+Paso 1797. Num. abiertos: 1162. Num cerrados: 1798. Nodos creados: 4959. Nodo actual:
+1,0,3,
+6,7,4,
+8,2,5,
+Nodo padre del actual:
+0,1,3,
+6,7,4,
+8,2,5,
+
+
+Paso 1798. Num. abiertos: 1163. Num cerrados: 1799. Nodos creados: 4962. Nodo actual:
+6,0,1,
+7,2,3,
+8,5,4,
+Nodo padre del actual:
+6,1,0,
+7,2,3,
+8,5,4,
+
+
+Paso 1799. Num. abiertos: 1164. Num cerrados: 1800. Nodos creados: 4965. Nodo actual:
+6,1,3,
+7,5,2,
+8,0,4,
+Nodo padre del actual:
+6,1,3,
+7,0,2,
+8,5,4,
+
+
+Paso 1800. Num. abiertos: 1165. Num cerrados: 1801. Nodos creados: 4968. Nodo actual:
+6,0,3,
+7,1,2,
+8,5,4,
+Nodo padre del actual:
+6,1,3,
+7,0,2,
+8,5,4,
+
+
+Paso 1801. Num. abiertos: 1166. Num cerrados: 1802. Nodos creados: 4971. Nodo actual:
+6,1,3,
+0,7,2,
+8,5,4,
+Nodo padre del actual:
+6,1,3,
+7,0,2,
+8,5,4,
+
+
+Paso 1802. Num. abiertos: 1167. Num cerrados: 1803. Nodos creados: 4974. Nodo actual:
+1,0,3,
+6,8,4,
+2,7,5,
+Nodo padre del actual:
+0,1,3,
+6,8,4,
+2,7,5,
+
+
+Paso 1803. Num. abiertos: 1168. Num cerrados: 1804. Nodos creados: 4977. Nodo actual:
+6,0,3,
+8,1,4,
+2,7,5,
+Nodo padre del actual:
+6,1,3,
+8,0,4,
+2,7,5,
+
+
+Paso 1804. Num. abiertos: 1169. Num cerrados: 1805. Nodos creados: 4980. Nodo actual:
+6,1,3,
+8,4,0,
+2,7,5,
+Nodo padre del actual:
+6,1,3,
+8,0,4,
+2,7,5,
+
+
+Paso 1805. Num. abiertos: 1170. Num cerrados: 1806. Nodos creados: 4983. Nodo actual:
+6,3,4,
+2,1,5,
+7,0,8,
+Nodo padre del actual:
+6,3,4,
+2,1,5,
+7,8,0,
+
+
+Paso 1806. Num. abiertos: 1171. Num cerrados: 1807. Nodos creados: 4986. Nodo actual:
+6,3,4,
+2,8,1,
+7,0,5,
+Nodo padre del actual:
+6,3,4,
+2,0,1,
+7,8,5,
+
+
+Paso 1807. Num. abiertos: 1172. Num cerrados: 1808. Nodos creados: 4989. Nodo actual:
+6,0,4,
+2,3,1,
+7,8,5,
+Nodo padre del actual:
+6,3,4,
+2,0,1,
+7,8,5,
+
+
+Paso 1808. Num. abiertos: 1172. Num cerrados: 1809. Nodos creados: 4992. Nodo actual:
+6,3,4,
+0,2,1,
+7,8,5,
+Nodo padre del actual:
+6,3,4,
+2,0,1,
+7,8,5,
+
+
+Paso 1809. Num. abiertos: 1173. Num cerrados: 1810. Nodos creados: 4995. Nodo actual:
+1,3,4,
+7,2,5,
+8,0,6,
+Nodo padre del actual:
+1,3,4,
+7,2,5,
+8,6,0,
+
+
+Paso 1810. Num. abiertos: 1174. Num cerrados: 1811. Nodos creados: 4998. Nodo actual:
+7,1,3,
+8,2,4,
+6,0,5,
+Nodo padre del actual:
+7,1,3,
+8,2,4,
+0,6,5,
+
+
+Paso 1811. Num. abiertos: 1175. Num cerrados: 1812. Nodos creados: 5001. Nodo actual:
+7,1,3,
+2,6,4,
+8,0,5,
+Nodo padre del actual:
+7,1,3,
+2,0,4,
+8,6,5,
+
+
+Paso 1812. Num. abiertos: 1176. Num cerrados: 1813. Nodos creados: 5004. Nodo actual:
+7,0,3,
+2,1,4,
+8,6,5,
+Nodo padre del actual:
+7,1,3,
+2,0,4,
+8,6,5,
+
+
+Paso 1813. Num. abiertos: 1177. Num cerrados: 1814. Nodos creados: 5007. Nodo actual:
+7,1,3,
+2,4,0,
+8,6,5,
+Nodo padre del actual:
+7,1,3,
+2,0,4,
+8,6,5,
+
+
+Paso 1814. Num. abiertos: 1178. Num cerrados: 1815. Nodos creados: 5010. Nodo actual:
+1,0,3,
+7,2,5,
+8,4,6,
+Nodo padre del actual:
+1,2,3,
+7,0,5,
+8,4,6,
+
+
+Paso 1815. Num. abiertos: 1179. Num cerrados: 1816. Nodos creados: 5013. Nodo actual:
+1,2,3,
+7,5,0,
+8,4,6,
+Nodo padre del actual:
+1,2,3,
+7,0,5,
+8,4,6,
+
+
+Paso 1816. Num. abiertos: 1179. Num cerrados: 1817. Nodos creados: 5016. Nodo actual:
+1,2,3,
+0,7,5,
+8,4,6,
+Nodo padre del actual:
+1,2,3,
+7,0,5,
+8,4,6,
+
+
+Paso 1817. Num. abiertos: 1180. Num cerrados: 1818. Nodos creados: 5019. Nodo actual:
+1,2,3,
+0,4,5,
+7,8,6,
+Nodo padre del actual:
+1,2,3,
+7,4,5,
+0,8,6,
+
+
+Paso 1818. Num. abiertos: 1180. Num cerrados: 1819. Nodos creados: 5022. Nodo actual:
+2,7,3,
+1,6,4,
+8,0,5,
+Nodo padre del actual:
+2,7,3,
+1,0,4,
+8,6,5,
+
+
+Paso 1819. Num. abiertos: 1181. Num cerrados: 1820. Nodos creados: 5025. Nodo actual:
+2,7,3,
+1,4,0,
+8,6,5,
+Nodo padre del actual:
+2,7,3,
+1,0,4,
+8,6,5,
+
+
+Paso 1820. Num. abiertos: 1182. Num cerrados: 1821. Nodos creados: 5028. Nodo actual:
+2,7,3,
+0,1,4,
+8,6,5,
+Nodo padre del actual:
+2,7,3,
+1,0,4,
+8,6,5,
+
+
+Paso 1821. Num. abiertos: 1182. Num cerrados: 1822. Nodos creados: 5031. Nodo actual:
+2,3,4,
+1,7,0,
+8,6,5,
+Nodo padre del actual:
+2,3,0,
+1,7,4,
+8,6,5,
+
+
+Paso 1822. Num. abiertos: 1183. Num cerrados: 1823. Nodos creados: 5034. Nodo actual:
+1,6,2,
+7,5,3,
+8,0,4,
+Nodo padre del actual:
+1,6,2,
+7,0,3,
+8,5,4,
+
+
+Paso 1823. Num. abiertos: 1184. Num cerrados: 1824. Nodos creados: 5037. Nodo actual:
+1,6,2,
+7,3,0,
+8,5,4,
+Nodo padre del actual:
+1,6,2,
+7,0,3,
+8,5,4,
+
+
+Paso 1824. Num. abiertos: 1185. Num cerrados: 1825. Nodos creados: 5040. Nodo actual:
+1,6,2,
+0,7,3,
+8,5,4,
+Nodo padre del actual:
+1,6,2,
+7,0,3,
+8,5,4,
+
+
+Paso 1825. Num. abiertos: 1186. Num cerrados: 1826. Nodos creados: 5043. Nodo actual:
+7,1,2,
+0,6,3,
+8,5,4,
+Nodo padre del actual:
+0,1,2,
+7,6,3,
+8,5,4,
+
+
+Paso 1826. Num. abiertos: 1187. Num cerrados: 1827. Nodos creados: 5046. Nodo actual:
+1,2,3,
+0,5,6,
+7,8,4,
+Nodo padre del actual:
+1,2,3,
+7,5,6,
+0,8,4,
+
+
+Paso 1827. Num. abiertos: 1188. Num cerrados: 1828. Nodos creados: 5049. Nodo actual:
+1,3,6,
+7,2,0,
+8,5,4,
+Nodo padre del actual:
+1,3,0,
+7,2,6,
+8,5,4,
+
+
+Paso 1828. Num. abiertos: 1189. Num cerrados: 1829. Nodos creados: 5052. Nodo actual:
+7,1,3,
+0,2,6,
+8,5,4,
+Nodo padre del actual:
+0,1,3,
+7,2,6,
+8,5,4,
+
+
+Paso 1829. Num. abiertos: 1190. Num cerrados: 1830. Nodos creados: 5055. Nodo actual:
+1,2,3,
+8,7,6,
+5,0,4,
+Nodo padre del actual:
+1,2,3,
+8,7,6,
+0,5,4,
+
+
+Paso 1830. Num. abiertos: 1191. Num cerrados: 1831. Nodos creados: 5058. Nodo actual:
+2,0,3,
+1,7,6,
+8,5,4,
+Nodo padre del actual:
+0,2,3,
+1,7,6,
+8,5,4,
+
+
+Paso 1831. Num. abiertos: 1192. Num cerrados: 1832. Nodos creados: 5061. Nodo actual:
+6,0,3,
+2,8,4,
+1,7,5,
+Nodo padre del actual:
+0,6,3,
+2,8,4,
+1,7,5,
+
+
+Paso 1832. Num. abiertos: 1193. Num cerrados: 1833. Nodos creados: 5064. Nodo actual:
+2,6,3,
+8,7,4,
+1,0,5,
+Nodo padre del actual:
+2,6,3,
+8,0,4,
+1,7,5,
+
+
+Paso 1833. Num. abiertos: 1194. Num cerrados: 1834. Nodos creados: 5067. Nodo actual:
+2,0,3,
+8,6,4,
+1,7,5,
+Nodo padre del actual:
+2,6,3,
+8,0,4,
+1,7,5,
+
+
+Paso 1834. Num. abiertos: 1195. Num cerrados: 1835. Nodos creados: 5070. Nodo actual:
+2,6,3,
+8,4,0,
+1,7,5,
+Nodo padre del actual:
+2,6,3,
+8,0,4,
+1,7,5,
+
+
+Paso 1835. Num. abiertos: 1196. Num cerrados: 1836. Nodos creados: 5073. Nodo actual:
+2,0,3,
+7,6,4,
+8,1,5,
+Nodo padre del actual:
+2,6,3,
+7,0,4,
+8,1,5,
+
+
+Paso 1836. Num. abiertos: 1197. Num cerrados: 1837. Nodos creados: 5076. Nodo actual:
+2,6,3,
+7,4,0,
+8,1,5,
+Nodo padre del actual:
+2,6,3,
+7,0,4,
+8,1,5,
+
+
+Paso 1837. Num. abiertos: 1198. Num cerrados: 1838. Nodos creados: 5079. Nodo actual:
+2,6,3,
+0,7,4,
+8,1,5,
+Nodo padre del actual:
+2,6,3,
+7,0,4,
+8,1,5,
+
+
+Paso 1838. Num. abiertos: 1198. Num cerrados: 1839. Nodos creados: 5082. Nodo actual:
+2,6,3,
+7,1,0,
+8,5,4,
+Nodo padre del actual:
+2,6,3,
+7,1,4,
+8,5,0,
+
+
+Paso 1839. Num. abiertos: 1199. Num cerrados: 1840. Nodos creados: 5085. Nodo actual:
+2,0,4,
+1,3,5,
+7,6,8,
+Nodo padre del actual:
+2,3,4,
+1,0,5,
+7,6,8,
+
+
+Paso 1840. Num. abiertos: 1200. Num cerrados: 1841. Nodos creados: 5088. Nodo actual:
+2,3,4,
+1,5,0,
+7,6,8,
+Nodo padre del actual:
+2,3,4,
+1,0,5,
+7,6,8,
+
+
+Paso 1841. Num. abiertos: 1201. Num cerrados: 1842. Nodos creados: 5091. Nodo actual:
+2,3,4,
+0,1,5,
+7,6,8,
+Nodo padre del actual:
+2,3,4,
+1,0,5,
+7,6,8,
+
+
+Paso 1842. Num. abiertos: 1202. Num cerrados: 1843. Nodos creados: 5094. Nodo actual:
+2,3,4,
+0,6,5,
+1,7,8,
+Nodo padre del actual:
+2,3,4,
+1,6,5,
+0,7,8,
+
+
+Paso 1843. Num. abiertos: 1203. Num cerrados: 1844. Nodos creados: 5097. Nodo actual:
+2,3,4,
+1,8,0,
+7,5,6,
+Nodo padre del actual:
+2,3,4,
+1,8,6,
+7,5,0,
+
+
+Paso 1844. Num. abiertos: 1204. Num cerrados: 1845. Nodos creados: 5100. Nodo actual:
+2,3,4,
+0,8,6,
+1,7,5,
+Nodo padre del actual:
+2,3,4,
+1,8,6,
+0,7,5,
+
+
+Paso 1845. Num. abiertos: 1205. Num cerrados: 1846. Nodos creados: 5103. Nodo actual:
+1,2,4,
+0,3,6,
+7,8,5,
+Nodo padre del actual:
+0,2,4,
+1,3,6,
+7,8,5,
+
+
+Paso 1846. Num. abiertos: 1206. Num cerrados: 1847. Nodos creados: 5106. Nodo actual:
+2,3,4,
+7,1,6,
+8,0,5,
+Nodo padre del actual:
+2,3,4,
+7,1,6,
+0,8,5,
+
+
+Paso 1847. Num. abiertos: 1207. Num cerrados: 1848. Nodos creados: 5109. Nodo actual:
+3,0,4,
+2,1,6,
+7,8,5,
+Nodo padre del actual:
+0,3,4,
+2,1,6,
+7,8,5,
+
+
+Paso 1848. Num. abiertos: 1208. Num cerrados: 1849. Nodos creados: 5112. Nodo actual:
+2,7,4,
+1,8,3,
+6,0,5,
+Nodo padre del actual:
+2,7,4,
+1,0,3,
+6,8,5,
+
+
+Paso 1849. Num. abiertos: 1209. Num cerrados: 1850. Nodos creados: 5115. Nodo actual:
+2,7,4,
+1,3,0,
+6,8,5,
+Nodo padre del actual:
+2,7,4,
+1,0,3,
+6,8,5,
+
+
+Paso 1850. Num. abiertos: 1210. Num cerrados: 1851. Nodos creados: 5118. Nodo actual:
+2,7,4,
+0,1,3,
+6,8,5,
+Nodo padre del actual:
+2,7,4,
+1,0,3,
+6,8,5,
+
+
+Paso 1851. Num. abiertos: 1211. Num cerrados: 1852. Nodos creados: 5121. Nodo actual:
+1,2,4,
+0,7,3,
+6,8,5,
+Nodo padre del actual:
+0,2,4,
+1,7,3,
+6,8,5,
+
+
+Paso 1852. Num. abiertos: 1212. Num cerrados: 1853. Nodos creados: 5124. Nodo actual:
+2,4,3,
+0,8,7,
+1,6,5,
+Nodo padre del actual:
+2,4,3,
+1,8,7,
+0,6,5,
+
+
+Paso 1853. Num. abiertos: 1213. Num cerrados: 1854. Nodos creados: 5127. Nodo actual:
+2,3,7,
+1,4,0,
+6,8,5,
+Nodo padre del actual:
+2,3,0,
+1,4,7,
+6,8,5,
+
+
+Paso 1854. Num. abiertos: 1214. Num cerrados: 1855. Nodos creados: 5130. Nodo actual:
+2,4,3,
+6,1,7,
+8,0,5,
+Nodo padre del actual:
+2,4,3,
+6,1,7,
+0,8,5,
+
+
+Paso 1855. Num. abiertos: 1215. Num cerrados: 1856. Nodos creados: 5133. Nodo actual:
+4,0,3,
+2,1,7,
+6,8,5,
+Nodo padre del actual:
+0,4,3,
+2,1,7,
+6,8,5,
+
+
+Paso 1856. Num. abiertos: 1215. Num cerrados: 1857. Nodos creados: 5136. Nodo actual:
+4,7,3,
+2,6,5,
+1,0,8,
+Nodo padre del actual:
+4,7,3,
+2,0,5,
+1,6,8,
+
+
+Paso 1857. Num. abiertos: 1216. Num cerrados: 1858. Nodos creados: 5139. Nodo actual:
+4,7,3,
+2,5,0,
+1,6,8,
+Nodo padre del actual:
+4,7,3,
+2,0,5,
+1,6,8,
+
+
+Paso 1858. Num. abiertos: 1217. Num cerrados: 1859. Nodos creados: 5142. Nodo actual:
+4,7,3,
+0,2,5,
+1,6,8,
+Nodo padre del actual:
+4,7,3,
+2,0,5,
+1,6,8,
+
+
+Paso 1859. Num. abiertos: 1218. Num cerrados: 1860. Nodos creados: 5145. Nodo actual:
+4,3,5,
+2,7,0,
+1,6,8,
+Nodo padre del actual:
+4,3,0,
+2,7,5,
+1,6,8,
+
+
+Paso 1860. Num. abiertos: 1219. Num cerrados: 1861. Nodos creados: 5148. Nodo actual:
+2,4,3,
+7,6,0,
+1,8,5,
+Nodo padre del actual:
+2,4,3,
+7,6,5,
+1,8,0,
+
+
+Paso 1861. Num. abiertos: 1220. Num cerrados: 1862. Nodos creados: 5151. Nodo actual:
+2,3,5,
+7,4,0,
+1,6,8,
+Nodo padre del actual:
+2,3,0,
+7,4,5,
+1,6,8,
+
+
+Paso 1862. Num. abiertos: 1220. Num cerrados: 1863. Nodos creados: 5154. Nodo actual:
+7,2,3,
+0,4,5,
+1,6,8,
+Nodo padre del actual:
+0,2,3,
+7,4,5,
+1,6,8,
+
+
+Paso 1863. Num. abiertos: 1221. Num cerrados: 1864. Nodos creados: 5157. Nodo actual:
+2,4,3,
+7,5,8,
+1,0,6,
+Nodo padre del actual:
+2,4,3,
+7,5,8,
+1,6,0,
+
+
+Paso 1864. Num. abiertos: 1222. Num cerrados: 1865. Nodos creados: 5160. Nodo actual:
+2,0,4,
+7,5,3,
+1,6,8,
+Nodo padre del actual:
+2,4,0,
+7,5,3,
+1,6,8,
+
+
+Paso 1865. Num. abiertos: 1223. Num cerrados: 1866. Nodos creados: 5163. Nodo actual:
+2,3,8,
+1,4,0,
+6,5,7,
+Nodo padre del actual:
+2,3,0,
+1,4,8,
+6,5,7,
+
+
+Paso 1866. Num. abiertos: 1223. Num cerrados: 1867. Nodos creados: 5166. Nodo actual:
+2,0,4,
+1,8,3,
+6,5,7,
+Nodo padre del actual:
+2,4,0,
+1,8,3,
+6,5,7,
+
+
+Paso 1867. Num. abiertos: 1224. Num cerrados: 1868. Nodos creados: 5169. Nodo actual:
+2,4,3,
+6,1,8,
+5,0,7,
+Nodo padre del actual:
+2,4,3,
+6,1,8,
+0,5,7,
+
+
+Paso 1868. Num. abiertos: 1225. Num cerrados: 1869. Nodos creados: 5172. Nodo actual:
+4,0,3,
+2,1,8,
+6,5,7,
+Nodo padre del actual:
+0,4,3,
+2,1,8,
+6,5,7,
+
+
+Paso 1869. Num. abiertos: 1225. Num cerrados: 1870. Nodos creados: 5175. Nodo actual:
+4,0,3,
+2,5,8,
+1,6,7,
+Nodo padre del actual:
+0,4,3,
+2,5,8,
+1,6,7,
+
+
+Paso 1870. Num. abiertos: 1226. Num cerrados: 1871. Nodos creados: 5178. Nodo actual:
+2,4,3,
+5,6,8,
+1,0,7,
+Nodo padre del actual:
+2,4,3,
+5,0,8,
+1,6,7,
+
+
+Paso 1871. Num. abiertos: 1227. Num cerrados: 1872. Nodos creados: 5181. Nodo actual:
+2,0,3,
+5,4,8,
+1,6,7,
+Nodo padre del actual:
+2,4,3,
+5,0,8,
+1,6,7,
+
+
+Paso 1872. Num. abiertos: 1228. Num cerrados: 1873. Nodos creados: 5184. Nodo actual:
+2,4,3,
+5,8,0,
+1,6,7,
+Nodo padre del actual:
+2,4,3,
+5,0,8,
+1,6,7,
+
+
+Paso 1873. Num. abiertos: 1229. Num cerrados: 1874. Nodos creados: 5187. Nodo actual:
+2,5,4,
+1,7,0,
+6,8,3,
+Nodo padre del actual:
+2,5,4,
+1,7,3,
+6,8,0,
+
+
+Paso 1874. Num. abiertos: 1230. Num cerrados: 1875. Nodos creados: 5190. Nodo actual:
+2,5,4,
+0,7,3,
+1,6,8,
+Nodo padre del actual:
+2,5,4,
+1,7,3,
+0,6,8,
+
+
+Paso 1875. Num. abiertos: 1230. Num cerrados: 1876. Nodos creados: 5193. Nodo actual:
+2,5,4,
+1,3,8,
+6,0,7,
+Nodo padre del actual:
+2,5,4,
+1,3,8,
+6,7,0,
+
+
+Paso 1876. Num. abiertos: 1231. Num cerrados: 1877. Nodos creados: 5196. Nodo actual:
+2,5,4,
+6,1,3,
+7,0,8,
+Nodo padre del actual:
+2,5,4,
+6,1,3,
+0,7,8,
+
+
+Paso 1877. Num. abiertos: 1232. Num cerrados: 1878. Nodos creados: 5199. Nodo actual:
+5,0,4,
+2,1,3,
+6,7,8,
+Nodo padre del actual:
+0,5,4,
+2,1,3,
+6,7,8,
+
+
+Paso 1878. Num. abiertos: 1233. Num cerrados: 1879. Nodos creados: 5202. Nodo actual:
+1,2,4,
+6,5,3,
+7,0,8,
+Nodo padre del actual:
+1,2,4,
+6,5,3,
+0,7,8,
+
+
+Paso 1879. Num. abiertos: 1233. Num cerrados: 1880. Nodos creados: 5205. Nodo actual:
+1,2,4,
+5,7,3,
+6,0,8,
+Nodo padre del actual:
+1,2,4,
+5,0,3,
+6,7,8,
+
+
+Paso 1880. Num. abiertos: 1234. Num cerrados: 1881. Nodos creados: 5208. Nodo actual:
+1,0,4,
+5,2,3,
+6,7,8,
+Nodo padre del actual:
+1,2,4,
+5,0,3,
+6,7,8,
+
+
+Paso 1881. Num. abiertos: 1235. Num cerrados: 1882. Nodos creados: 5211. Nodo actual:
+1,2,4,
+5,3,0,
+6,7,8,
+Nodo padre del actual:
+1,2,4,
+5,0,3,
+6,7,8,
+
+
+Paso 1882. Num. abiertos: 1236. Num cerrados: 1883. Nodos creados: 5214. Nodo actual:
+2,3,5,
+6,4,0,
+7,1,8,
+Nodo padre del actual:
+2,3,0,
+6,4,5,
+7,1,8,
+
+
+Paso 1883. Num. abiertos: 1236. Num cerrados: 1884. Nodos creados: 5217. Nodo actual:
+6,2,3,
+0,4,5,
+7,1,8,
+Nodo padre del actual:
+0,2,3,
+6,4,5,
+7,1,8,
+
+
+Paso 1884. Num. abiertos: 1236. Num cerrados: 1885. Nodos creados: 5220. Nodo actual:
+2,4,3,
+6,5,8,
+7,0,1,
+Nodo padre del actual:
+2,4,3,
+6,5,8,
+7,1,0,
+
+
+Paso 1885. Num. abiertos: 1237. Num cerrados: 1886. Nodos creados: 5223. Nodo actual:
+2,0,4,
+6,5,3,
+7,1,8,
+Nodo padre del actual:
+2,4,0,
+6,5,3,
+7,1,8,
+
+
+Paso 1886. Num. abiertos: 1237. Num cerrados: 1887. Nodos creados: 5226. Nodo actual:
+4,0,3,
+2,6,5,
+7,1,8,
+Nodo padre del actual:
+0,4,3,
+2,6,5,
+7,1,8,
+
+
+Paso 1887. Num. abiertos: 1238. Num cerrados: 1888. Nodos creados: 5229. Nodo actual:
+2,0,4,
+6,1,3,
+7,8,5,
+Nodo padre del actual:
+2,4,0,
+6,1,3,
+7,8,5,
+
+
+Paso 1888. Num. abiertos: 1239. Num cerrados: 1889. Nodos creados: 5232. Nodo actual:
+2,4,3,
+6,8,1,
+7,0,5,
+Nodo padre del actual:
+2,4,3,
+6,0,1,
+7,8,5,
+
+
+Paso 1889. Num. abiertos: 1240. Num cerrados: 1890. Nodos creados: 5235. Nodo actual:
+2,0,3,
+6,4,1,
+7,8,5,
+Nodo padre del actual:
+2,4,3,
+6,0,1,
+7,8,5,
+
+
+Paso 1890. Num. abiertos: 1240. Num cerrados: 1891. Nodos creados: 5238. Nodo actual:
+2,4,3,
+0,6,1,
+7,8,5,
+Nodo padre del actual:
+2,4,3,
+6,0,1,
+7,8,5,
+
+
+Paso 1891. Num. abiertos: 1241. Num cerrados: 1892. Nodos creados: 5241. Nodo actual:
+4,3,5,
+2,1,8,
+6,0,7,
+Nodo padre del actual:
+4,3,5,
+2,1,8,
+6,7,0,
+
+
+Paso 1892. Num. abiertos: 1242. Num cerrados: 1893. Nodos creados: 5244. Nodo actual:
+4,3,5,
+2,7,1,
+6,0,8,
+Nodo padre del actual:
+4,3,5,
+2,0,1,
+6,7,8,
+
+
+Paso 1893. Num. abiertos: 1243. Num cerrados: 1894. Nodos creados: 5247. Nodo actual:
+4,0,5,
+2,3,1,
+6,7,8,
+Nodo padre del actual:
+4,3,5,
+2,0,1,
+6,7,8,
+
+
+Paso 1894. Num. abiertos: 1244. Num cerrados: 1895. Nodos creados: 5250. Nodo actual:
+4,3,5,
+0,2,1,
+6,7,8,
+Nodo padre del actual:
+4,3,5,
+2,0,1,
+6,7,8,
+
+
+Paso 1895. Num. abiertos: 1245. Num cerrados: 1896. Nodos creados: 5253. Nodo actual:
+2,5,8,
+1,3,0,
+6,4,7,
+Nodo padre del actual:
+2,5,0,
+1,3,8,
+6,4,7,
+
+
+Paso 1896. Num. abiertos: 1246. Num cerrados: 1897. Nodos creados: 5256. Nodo actual:
+1,2,5,
+0,3,8,
+6,4,7,
+Nodo padre del actual:
+0,2,5,
+1,3,8,
+6,4,7,
+
+
+Paso 1897. Num. abiertos: 1247. Num cerrados: 1898. Nodos creados: 5259. Nodo actual:
+2,3,5,
+1,8,7,
+6,0,4,
+Nodo padre del actual:
+2,3,5,
+1,8,7,
+6,4,0,
+
+
+Paso 1898. Num. abiertos: 1247. Num cerrados: 1899. Nodos creados: 5262. Nodo actual:
+2,0,3,
+1,8,5,
+6,4,7,
+Nodo padre del actual:
+2,3,0,
+1,8,5,
+6,4,7,
+
+
+Paso 1899. Num. abiertos: 1246. Num cerrados: 1900. Nodos creados: 5265. Nodo actual:
+2,3,5,
+6,1,8,
+4,0,7,
+Nodo padre del actual:
+2,3,5,
+6,1,8,
+0,4,7,
+
+
+Paso 1900. Num. abiertos: 1247. Num cerrados: 1901. Nodos creados: 5268. Nodo actual:
+3,0,5,
+2,1,8,
+6,4,7,
+Nodo padre del actual:
+0,3,5,
+2,1,8,
+6,4,7,
+
+
+Paso 1901. Num. abiertos: 1248. Num cerrados: 1902. Nodos creados: 5271. Nodo actual:
+3,0,5,
+2,4,8,
+1,6,7,
+Nodo padre del actual:
+0,3,5,
+2,4,8,
+1,6,7,
+
+
+Paso 1902. Num. abiertos: 1249. Num cerrados: 1903. Nodos creados: 5274. Nodo actual:
+2,3,5,
+4,6,8,
+1,0,7,
+Nodo padre del actual:
+2,3,5,
+4,0,8,
+1,6,7,
+
+
+Paso 1903. Num. abiertos: 1249. Num cerrados: 1904. Nodos creados: 5277. Nodo actual:
+2,0,5,
+4,3,8,
+1,6,7,
+Nodo padre del actual:
+2,3,5,
+4,0,8,
+1,6,7,
+
+
+Paso 1904. Num. abiertos: 1250. Num cerrados: 1905. Nodos creados: 5280. Nodo actual:
+2,3,5,
+4,8,0,
+1,6,7,
+Nodo padre del actual:
+2,3,5,
+4,0,8,
+1,6,7,
+
+
+Paso 1905. Num. abiertos: 1251. Num cerrados: 1906. Nodos creados: 5283. Nodo actual:
+2,0,3,
+1,7,5,
+6,8,4,
+Nodo padre del actual:
+2,3,0,
+1,7,5,
+6,8,4,
+
+
+Paso 1906. Num. abiertos: 1252. Num cerrados: 1907. Nodos creados: 5286. Nodo actual:
+2,0,5,
+1,3,7,
+6,8,4,
+Nodo padre del actual:
+2,3,5,
+1,0,7,
+6,8,4,
+
+
+Paso 1907. Num. abiertos: 1253. Num cerrados: 1908. Nodos creados: 5289. Nodo actual:
+2,3,5,
+0,1,7,
+6,8,4,
+Nodo padre del actual:
+2,3,5,
+1,0,7,
+6,8,4,
+
+
+Paso 1908. Num. abiertos: 1254. Num cerrados: 1909. Nodos creados: 5292. Nodo actual:
+3,0,5,
+2,7,4,
+1,6,8,
+Nodo padre del actual:
+0,3,5,
+2,7,4,
+1,6,8,
+
+
+Paso 1909. Num. abiertos: 1255. Num cerrados: 1910. Nodos creados: 5295. Nodo actual:
+2,3,5,
+7,6,4,
+1,0,8,
+Nodo padre del actual:
+2,3,5,
+7,0,4,
+1,6,8,
+
+
+Paso 1910. Num. abiertos: 1256. Num cerrados: 1911. Nodos creados: 5298. Nodo actual:
+2,0,5,
+7,3,4,
+1,6,8,
+Nodo padre del actual:
+2,3,5,
+7,0,4,
+1,6,8,
+
+
+Paso 1911. Num. abiertos: 1257. Num cerrados: 1912. Nodos creados: 5301. Nodo actual:
+1,2,5,
+6,3,4,
+7,0,8,
+Nodo padre del actual:
+1,2,5,
+6,3,4,
+0,7,8,
+
+
+Paso 1912. Num. abiertos: 1257. Num cerrados: 1913. Nodos creados: 5304. Nodo actual:
+1,2,5,
+3,7,4,
+6,0,8,
+Nodo padre del actual:
+1,2,5,
+3,0,4,
+6,7,8,
+
+
+Paso 1913. Num. abiertos: 1258. Num cerrados: 1914. Nodos creados: 5307. Nodo actual:
+1,0,5,
+3,2,4,
+6,7,8,
+Nodo padre del actual:
+1,2,5,
+3,0,4,
+6,7,8,
+
+
+Paso 1914. Num. abiertos: 1259. Num cerrados: 1915. Nodos creados: 5310. Nodo actual:
+1,2,5,
+3,4,0,
+6,7,8,
+Nodo padre del actual:
+1,2,5,
+3,0,4,
+6,7,8,
+
+
+Paso 1915. Num. abiertos: 1259. Num cerrados: 1916. Nodos creados: 5313. Nodo actual:
+2,0,5,
+6,3,4,
+7,1,8,
+Nodo padre del actual:
+2,3,5,
+6,0,4,
+7,1,8,
+
+
+Paso 1916. Num. abiertos: 1260. Num cerrados: 1917. Nodos creados: 5316. Nodo actual:
+2,3,5,
+0,6,4,
+7,1,8,
+Nodo padre del actual:
+2,3,5,
+6,0,4,
+7,1,8,
+
+
+Paso 1917. Num. abiertos: 1260. Num cerrados: 1918. Nodos creados: 5319. Nodo actual:
+2,3,5,
+6,1,0,
+7,8,4,
+Nodo padre del actual:
+2,3,5,
+6,1,4,
+7,8,0,
+
+
+Paso 1918. Num. abiertos: 1261. Num cerrados: 1919. Nodos creados: 5322. Nodo actual:
+3,1,5,
+2,7,4,
+6,0,8,
+Nodo padre del actual:
+3,1,5,
+2,0,4,
+6,7,8,
+
+
+Paso 1919. Num. abiertos: 1262. Num cerrados: 1920. Nodos creados: 5325. Nodo actual:
+3,1,5,
+2,4,0,
+6,7,8,
+Nodo padre del actual:
+3,1,5,
+2,0,4,
+6,7,8,
+
+
+Paso 1920. Num. abiertos: 1263. Num cerrados: 1921. Nodos creados: 5328. Nodo actual:
+3,1,5,
+0,2,4,
+6,7,8,
+Nodo padre del actual:
+3,1,5,
+2,0,4,
+6,7,8,
+
+
+Paso 1921. Num. abiertos: 1263. Num cerrados: 1922. Nodos creados: 5331. Nodo actual:
+3,5,4,
+2,1,0,
+6,7,8,
+Nodo padre del actual:
+3,5,0,
+2,1,4,
+6,7,8,
+
+
+Paso 1922. Num. abiertos: 1264. Num cerrados: 1923. Nodos creados: 5334. Nodo actual:
+1,7,2,
+4,8,0,
+6,5,3,
+Nodo padre del actual:
+1,7,2,
+4,8,3,
+6,5,0,
+
+
+Paso 1923. Num. abiertos: 1265. Num cerrados: 1924. Nodos creados: 5337. Nodo actual:
+1,7,2,
+0,8,3,
+4,6,5,
+Nodo padre del actual:
+1,7,2,
+4,8,3,
+0,6,5,
+
+
+Paso 1924. Num. abiertos: 1266. Num cerrados: 1925. Nodos creados: 5340. Nodo actual:
+1,7,2,
+4,3,5,
+6,0,8,
+Nodo padre del actual:
+1,7,2,
+4,3,5,
+6,8,0,
+
+
+Paso 1925. Num. abiertos: 1267. Num cerrados: 1926. Nodos creados: 5343. Nodo actual:
+1,0,7,
+4,3,2,
+6,8,5,
+Nodo padre del actual:
+1,7,0,
+4,3,2,
+6,8,5,
+
+
+Paso 1926. Num. abiertos: 1267. Num cerrados: 1927. Nodos creados: 5346. Nodo actual:
+1,7,2,
+6,4,3,
+8,0,5,
+Nodo padre del actual:
+1,7,2,
+6,4,3,
+0,8,5,
+
+
+Paso 1927. Num. abiertos: 1267. Num cerrados: 1928. Nodos creados: 5349. Nodo actual:
+7,0,2,
+1,4,3,
+6,8,5,
+Nodo padre del actual:
+0,7,2,
+1,4,3,
+6,8,5,
+
+
+Paso 1928. Num. abiertos: 1268. Num cerrados: 1929. Nodos creados: 5352. Nodo actual:
+4,1,2,
+6,7,3,
+8,0,5,
+Nodo padre del actual:
+4,1,2,
+6,7,3,
+0,8,5,
+
+
+Paso 1929. Num. abiertos: 1269. Num cerrados: 1930. Nodos creados: 5355. Nodo actual:
+4,1,2,
+7,8,3,
+6,0,5,
+Nodo padre del actual:
+4,1,2,
+7,0,3,
+6,8,5,
+
+
+Paso 1930. Num. abiertos: 1270. Num cerrados: 1931. Nodos creados: 5358. Nodo actual:
+4,0,2,
+7,1,3,
+6,8,5,
+Nodo padre del actual:
+4,1,2,
+7,0,3,
+6,8,5,
+
+
+Paso 1931. Num. abiertos: 1271. Num cerrados: 1932. Nodos creados: 5361. Nodo actual:
+4,1,2,
+7,3,0,
+6,8,5,
+Nodo padre del actual:
+4,1,2,
+7,0,3,
+6,8,5,
+
+
+Paso 1932. Num. abiertos: 1272. Num cerrados: 1933. Nodos creados: 5364. Nodo actual:
+2,0,3,
+1,8,7,
+4,6,5,
+Nodo padre del actual:
+0,2,3,
+1,8,7,
+4,6,5,
+
+
+Paso 1933. Num. abiertos: 1273. Num cerrados: 1934. Nodos creados: 5367. Nodo actual:
+1,2,3,
+8,6,7,
+4,0,5,
+Nodo padre del actual:
+1,2,3,
+8,0,7,
+4,6,5,
+
+
+Paso 1934. Num. abiertos: 1274. Num cerrados: 1935. Nodos creados: 5370. Nodo actual:
+1,0,3,
+8,2,7,
+4,6,5,
+Nodo padre del actual:
+1,2,3,
+8,0,7,
+4,6,5,
+
+
+Paso 1935. Num. abiertos: 1275. Num cerrados: 1936. Nodos creados: 5373. Nodo actual:
+1,2,3,
+8,7,0,
+4,6,5,
+Nodo padre del actual:
+1,2,3,
+8,0,7,
+4,6,5,
+
+
+Paso 1936. Num. abiertos: 1276. Num cerrados: 1937. Nodos creados: 5376. Nodo actual:
+1,3,7,
+4,2,5,
+6,0,8,
+Nodo padre del actual:
+1,3,7,
+4,2,5,
+6,8,0,
+
+
+Paso 1937. Num. abiertos: 1277. Num cerrados: 1938. Nodos creados: 5379. Nodo actual:
+1,3,7,
+4,8,2,
+6,0,5,
+Nodo padre del actual:
+1,3,7,
+4,0,2,
+6,8,5,
+
+
+Paso 1938. Num. abiertos: 1278. Num cerrados: 1939. Nodos creados: 5382. Nodo actual:
+1,3,7,
+0,4,2,
+6,8,5,
+Nodo padre del actual:
+1,3,7,
+4,0,2,
+6,8,5,
+
+
+Paso 1939. Num. abiertos: 1279. Num cerrados: 1940. Nodos creados: 5385. Nodo actual:
+4,1,3,
+6,2,7,
+8,0,5,
+Nodo padre del actual:
+4,1,3,
+6,2,7,
+0,8,5,
+
+
+Paso 1940. Num. abiertos: 1280. Num cerrados: 1941. Nodos creados: 5388. Nodo actual:
+4,1,3,
+2,8,7,
+6,0,5,
+Nodo padre del actual:
+4,1,3,
+2,0,7,
+6,8,5,
+
+
+Paso 1941. Num. abiertos: 1281. Num cerrados: 1942. Nodos creados: 5391. Nodo actual:
+1,0,3,
+6,2,7,
+8,4,5,
+Nodo padre del actual:
+1,2,3,
+6,0,7,
+8,4,5,
+
+
+Paso 1942. Num. abiertos: 1282. Num cerrados: 1943. Nodos creados: 5394. Nodo actual:
+1,2,3,
+6,7,0,
+8,4,5,
+Nodo padre del actual:
+1,2,3,
+6,0,7,
+8,4,5,
+
+
+Paso 1943. Num. abiertos: 1282. Num cerrados: 1944. Nodos creados: 5397. Nodo actual:
+1,2,3,
+0,6,7,
+8,4,5,
+Nodo padre del actual:
+1,2,3,
+6,0,7,
+8,4,5,
+
+
+Paso 1944. Num. abiertos: 1282. Num cerrados: 1945. Nodos creados: 5400. Nodo actual:
+1,2,3,
+6,4,0,
+8,5,7,
+Nodo padre del actual:
+1,2,3,
+6,4,7,
+8,5,0,
+
+
+Paso 1945. Num. abiertos: 1283. Num cerrados: 1946. Nodos creados: 5403. Nodo actual:
+1,5,8,
+4,3,0,
+6,2,7,
+Nodo padre del actual:
+1,5,0,
+4,3,8,
+6,2,7,
+
+
+Paso 1946. Num. abiertos: 1284. Num cerrados: 1947. Nodos creados: 5406. Nodo actual:
+4,1,5,
+0,3,8,
+6,2,7,
+Nodo padre del actual:
+0,1,5,
+4,3,8,
+6,2,7,
+
+
+Paso 1947. Num. abiertos: 1285. Num cerrados: 1948. Nodos creados: 5409. Nodo actual:
+1,3,5,
+4,8,7,
+6,0,2,
+Nodo padre del actual:
+1,3,5,
+4,8,7,
+6,2,0,
+
+
+Paso 1948. Num. abiertos: 1285. Num cerrados: 1949. Nodos creados: 5412. Nodo actual:
+1,0,3,
+4,8,5,
+6,2,7,
+Nodo padre del actual:
+1,3,0,
+4,8,5,
+6,2,7,
+
+
+Paso 1949. Num. abiertos: 1286. Num cerrados: 1950. Nodos creados: 5415. Nodo actual:
+1,3,5,
+6,4,8,
+2,0,7,
+Nodo padre del actual:
+1,3,5,
+6,4,8,
+0,2,7,
+
+
+Paso 1950. Num. abiertos: 1286. Num cerrados: 1951. Nodos creados: 5418. Nodo actual:
+3,0,5,
+1,4,8,
+6,2,7,
+Nodo padre del actual:
+0,3,5,
+1,4,8,
+6,2,7,
+
+
+Paso 1951. Num. abiertos: 1287. Num cerrados: 1952. Nodos creados: 5421. Nodo actual:
+3,0,5,
+1,2,8,
+4,6,7,
+Nodo padre del actual:
+0,3,5,
+1,2,8,
+4,6,7,
+
+
+Paso 1952. Num. abiertos: 1288. Num cerrados: 1953. Nodos creados: 5424. Nodo actual:
+1,3,5,
+2,6,8,
+4,0,7,
+Nodo padre del actual:
+1,3,5,
+2,0,8,
+4,6,7,
+
+
+Paso 1953. Num. abiertos: 1289. Num cerrados: 1954. Nodos creados: 5427. Nodo actual:
+1,0,5,
+2,3,8,
+4,6,7,
+Nodo padre del actual:
+1,3,5,
+2,0,8,
+4,6,7,
+
+
+Paso 1954. Num. abiertos: 1290. Num cerrados: 1955. Nodos creados: 5430. Nodo actual:
+1,3,5,
+2,8,0,
+4,6,7,
+Nodo padre del actual:
+1,3,5,
+2,0,8,
+4,6,7,
+
+
+Paso 1955. Num. abiertos: 1291. Num cerrados: 1956. Nodos creados: 5433. Nodo actual:
+1,0,3,
+4,7,5,
+6,8,2,
+Nodo padre del actual:
+1,3,0,
+4,7,5,
+6,8,2,
+
+
+Paso 1956. Num. abiertos: 1292. Num cerrados: 1957. Nodos creados: 5436. Nodo actual:
+1,0,5,
+4,3,7,
+6,8,2,
+Nodo padre del actual:
+1,3,5,
+4,0,7,
+6,8,2,
+
+
+Paso 1957. Num. abiertos: 1293. Num cerrados: 1958. Nodos creados: 5439. Nodo actual:
+1,3,5,
+0,4,7,
+6,8,2,
+Nodo padre del actual:
+1,3,5,
+4,0,7,
+6,8,2,
+
+
+Paso 1958. Num. abiertos: 1294. Num cerrados: 1959. Nodos creados: 5442. Nodo actual:
+4,1,5,
+6,3,2,
+7,0,8,
+Nodo padre del actual:
+4,1,5,
+6,3,2,
+0,7,8,
+
+
+Paso 1959. Num. abiertos: 1295. Num cerrados: 1960. Nodos creados: 5445. Nodo actual:
+4,1,5,
+3,7,2,
+6,0,8,
+Nodo padre del actual:
+4,1,5,
+3,0,2,
+6,7,8,
+
+
+Paso 1960. Num. abiertos: 1296. Num cerrados: 1961. Nodos creados: 5448. Nodo actual:
+4,0,5,
+3,1,2,
+6,7,8,
+Nodo padre del actual:
+4,1,5,
+3,0,2,
+6,7,8,
+
+
+Paso 1961. Num. abiertos: 1296. Num cerrados: 1962. Nodos creados: 5451. Nodo actual:
+4,1,5,
+3,2,0,
+6,7,8,
+Nodo padre del actual:
+4,1,5,
+3,0,2,
+6,7,8,
+
+
+Paso 1962. Num. abiertos: 1297. Num cerrados: 1963. Nodos creados: 5454. Nodo actual:
+4,3,5,
+6,1,0,
+7,2,8,
+Nodo padre del actual:
+4,3,0,
+6,1,5,
+7,2,8,
+
+
+Paso 1963. Num. abiertos: 1298. Num cerrados: 1964. Nodos creados: 5457. Nodo actual:
+6,4,3,
+0,1,5,
+7,2,8,
+Nodo padre del actual:
+0,4,3,
+6,1,5,
+7,2,8,
+
+
+Paso 1964. Num. abiertos: 1299. Num cerrados: 1965. Nodos creados: 5460. Nodo actual:
+4,1,3,
+6,5,8,
+7,0,2,
+Nodo padre del actual:
+4,1,3,
+6,5,8,
+7,2,0,
+
+
+Paso 1965. Num. abiertos: 1300. Num cerrados: 1966. Nodos creados: 5463. Nodo actual:
+4,0,1,
+6,5,3,
+7,2,8,
+Nodo padre del actual:
+4,1,0,
+6,5,3,
+7,2,8,
+
+
+Paso 1966. Num. abiertos: 1301. Num cerrados: 1967. Nodos creados: 5466. Nodo actual:
+4,1,3,
+7,6,5,
+2,0,8,
+Nodo padre del actual:
+4,1,3,
+7,6,5,
+0,2,8,
+
+
+Paso 1967. Num. abiertos: 1301. Num cerrados: 1968. Nodos creados: 5469. Nodo actual:
+1,0,3,
+4,6,5,
+7,2,8,
+Nodo padre del actual:
+0,1,3,
+4,6,5,
+7,2,8,
+
+
+Paso 1968. Num. abiertos: 1302. Num cerrados: 1969. Nodos creados: 5472. Nodo actual:
+4,0,1,
+6,2,3,
+7,8,5,
+Nodo padre del actual:
+4,1,0,
+6,2,3,
+7,8,5,
+
+
+Paso 1969. Num. abiertos: 1302. Num cerrados: 1970. Nodos creados: 5475. Nodo actual:
+4,1,3,
+6,8,2,
+7,0,5,
+Nodo padre del actual:
+4,1,3,
+6,0,2,
+7,8,5,
+
+
+Paso 1970. Num. abiertos: 1303. Num cerrados: 1971. Nodos creados: 5478. Nodo actual:
+4,0,3,
+6,1,2,
+7,8,5,
+Nodo padre del actual:
+4,1,3,
+6,0,2,
+7,8,5,
+
+
+Paso 1971. Num. abiertos: 1304. Num cerrados: 1972. Nodos creados: 5481. Nodo actual:
+4,1,3,
+0,6,2,
+7,8,5,
+Nodo padre del actual:
+4,1,3,
+6,0,2,
+7,8,5,
+
+
+Paso 1972. Num. abiertos: 1305. Num cerrados: 1973. Nodos creados: 5484. Nodo actual:
+4,0,1,
+2,7,3,
+6,8,5,
+Nodo padre del actual:
+4,1,0,
+2,7,3,
+6,8,5,
+
+
+Paso 1973. Num. abiertos: 1306. Num cerrados: 1974. Nodos creados: 5487. Nodo actual:
+1,0,3,
+4,7,5,
+2,6,8,
+Nodo padre del actual:
+0,1,3,
+4,7,5,
+2,6,8,
+
+
+Paso 1974. Num. abiertos: 1307. Num cerrados: 1975. Nodos creados: 5490. Nodo actual:
+4,0,3,
+7,1,5,
+2,6,8,
+Nodo padre del actual:
+4,1,3,
+7,0,5,
+2,6,8,
+
+
+Paso 1975. Num. abiertos: 1308. Num cerrados: 1976. Nodos creados: 5493. Nodo actual:
+4,1,3,
+7,5,0,
+2,6,8,
+Nodo padre del actual:
+4,1,3,
+7,0,5,
+2,6,8,
+
+
+Paso 1976. Num. abiertos: 1309. Num cerrados: 1977. Nodos creados: 5496. Nodo actual:
+4,1,3,
+2,8,0,
+6,5,7,
+Nodo padre del actual:
+4,1,3,
+2,0,8,
+6,5,7,
+
+
+Paso 1977. Num. abiertos: 1309. Num cerrados: 1978. Nodos creados: 5499. Nodo actual:
+4,1,3,
+0,5,8,
+2,6,7,
+Nodo padre del actual:
+4,1,3,
+2,5,8,
+0,6,7,
+
+
+Paso 1978. Num. abiertos: 1310. Num cerrados: 1979. Nodos creados: 5502. Nodo actual:
+4,5,1,
+2,7,3,
+6,0,8,
+Nodo padre del actual:
+4,5,1,
+2,0,3,
+6,7,8,
+
+
+Paso 1979. Num. abiertos: 1311. Num cerrados: 1980. Nodos creados: 5505. Nodo actual:
+4,5,1,
+2,3,0,
+6,7,8,
+Nodo padre del actual:
+4,5,1,
+2,0,3,
+6,7,8,
+
+
+Paso 1980. Num. abiertos: 1311. Num cerrados: 1981. Nodos creados: 5508. Nodo actual:
+4,5,1,
+0,2,3,
+6,7,8,
+Nodo padre del actual:
+4,5,1,
+2,0,3,
+6,7,8,
+
+
+Paso 1981. Num. abiertos: 1312. Num cerrados: 1982. Nodos creados: 5511. Nodo actual:
+2,4,1,
+0,5,3,
+6,7,8,
+Nodo padre del actual:
+0,4,1,
+2,5,3,
+6,7,8,
+
+
+Paso 1982. Num. abiertos: 1313. Num cerrados: 1983. Nodos creados: 5514. Nodo actual:
+1,3,8,
+4,2,7,
+6,0,5,
+Nodo padre del actual:
+1,3,8,
+4,2,7,
+6,5,0,
+
+
+Paso 1983. Num. abiertos: 1314. Num cerrados: 1984. Nodos creados: 5517. Nodo actual:
+1,3,8,
+4,5,2,
+6,0,7,
+Nodo padre del actual:
+1,3,8,
+4,0,2,
+6,5,7,
+
+
+Paso 1984. Num. abiertos: 1315. Num cerrados: 1985. Nodos creados: 5520. Nodo actual:
+1,0,8,
+4,3,2,
+6,5,7,
+Nodo padre del actual:
+1,3,8,
+4,0,2,
+6,5,7,
+
+
+Paso 1985. Num. abiertos: 1316. Num cerrados: 1986. Nodos creados: 5523. Nodo actual:
+1,3,8,
+0,4,2,
+6,5,7,
+Nodo padre del actual:
+1,3,8,
+4,0,2,
+6,5,7,
+
+
+Paso 1986. Num. abiertos: 1317. Num cerrados: 1987. Nodos creados: 5526. Nodo actual:
+4,1,3,
+6,2,8,
+5,0,7,
+Nodo padre del actual:
+4,1,3,
+6,2,8,
+0,5,7,
+
+
+Paso 1987. Num. abiertos: 1318. Num cerrados: 1988. Nodos creados: 5529. Nodo actual:
+1,8,2,
+4,5,3,
+6,0,7,
+Nodo padre del actual:
+1,8,2,
+4,0,3,
+6,5,7,
+
+
+Paso 1988. Num. abiertos: 1319. Num cerrados: 1989. Nodos creados: 5532. Nodo actual:
+1,8,2,
+4,3,0,
+6,5,7,
+Nodo padre del actual:
+1,8,2,
+4,0,3,
+6,5,7,
+
+
+Paso 1989. Num. abiertos: 1319. Num cerrados: 1990. Nodos creados: 5535. Nodo actual:
+1,8,2,
+0,4,3,
+6,5,7,
+Nodo padre del actual:
+1,8,2,
+4,0,3,
+6,5,7,
+
+
+Paso 1990. Num. abiertos: 1320. Num cerrados: 1991. Nodos creados: 5538. Nodo actual:
+4,1,2,
+0,8,3,
+6,5,7,
+Nodo padre del actual:
+0,1,2,
+4,8,3,
+6,5,7,
+
+
+Paso 1991. Num. abiertos: 1321. Num cerrados: 1992. Nodos creados: 5541. Nodo actual:
+1,0,3,
+6,2,8,
+5,4,7,
+Nodo padre del actual:
+1,2,3,
+6,0,8,
+5,4,7,
+
+
+Paso 1992. Num. abiertos: 1322. Num cerrados: 1993. Nodos creados: 5544. Nodo actual:
+1,2,3,
+6,8,0,
+5,4,7,
+Nodo padre del actual:
+1,2,3,
+6,0,8,
+5,4,7,
+
+
+Paso 1993. Num. abiertos: 1323. Num cerrados: 1994. Nodos creados: 5547. Nodo actual:
+1,2,3,
+0,6,8,
+5,4,7,
+Nodo padre del actual:
+1,2,3,
+6,0,8,
+5,4,7,
+
+
+Paso 1994. Num. abiertos: 1323. Num cerrados: 1995. Nodos creados: 5550. Nodo actual:
+1,2,3,
+6,4,0,
+5,7,8,
+Nodo padre del actual:
+1,2,3,
+6,4,8,
+5,7,0,
+
+
+Paso 1995. Num. abiertos: 1323. Num cerrados: 1996. Nodos creados: 5553. Nodo actual:
+2,5,3,
+1,6,8,
+4,0,7,
+Nodo padre del actual:
+2,5,3,
+1,0,8,
+4,6,7,
+
+
+Paso 1996. Num. abiertos: 1324. Num cerrados: 1997. Nodos creados: 5556. Nodo actual:
+2,5,3,
+1,8,0,
+4,6,7,
+Nodo padre del actual:
+2,5,3,
+1,0,8,
+4,6,7,
+
+
+Paso 1997. Num. abiertos: 1325. Num cerrados: 1998. Nodos creados: 5559. Nodo actual:
+2,5,3,
+0,1,8,
+4,6,7,
+Nodo padre del actual:
+2,5,3,
+1,0,8,
+4,6,7,
+
+
+Paso 1998. Num. abiertos: 1326. Num cerrados: 1999. Nodos creados: 5562. Nodo actual:
+2,3,8,
+1,5,0,
+4,6,7,
+Nodo padre del actual:
+2,3,0,
+1,5,8,
+4,6,7,
+
+
+Paso 1999. Num. abiertos: 1327. Num cerrados: 2000. Nodos creados: 5565. Nodo actual:
+1,2,3,
+5,6,0,
+4,7,8,
+Nodo padre del actual:
+1,2,3,
+5,6,8,
+4,7,0,
+
+
+Paso 2000. Num. abiertos: 1328. Num cerrados: 2001. Nodos creados: 5568. Nodo actual:
+1,3,8,
+5,2,0,
+4,6,7,
+Nodo padre del actual:
+1,3,0,
+5,2,8,
+4,6,7,
+
+
+Paso 2001. Num. abiertos: 1329. Num cerrados: 2002. Nodos creados: 5571. Nodo actual:
+5,1,3,
+0,2,8,
+4,6,7,
+Nodo padre del actual:
+0,1,3,
+5,2,8,
+4,6,7,
+
+
+Paso 2002. Num. abiertos: 1330. Num cerrados: 2003. Nodos creados: 5574. Nodo actual:
+1,2,3,
+5,8,7,
+4,0,6,
+Nodo padre del actual:
+1,2,3,
+5,8,7,
+4,6,0,
+
+
+Paso 2003. Num. abiertos: 1331. Num cerrados: 2004. Nodos creados: 5577. Nodo actual:
+1,0,2,
+5,8,3,
+4,6,7,
+Nodo padre del actual:
+1,2,0,
+5,8,3,
+4,6,7,
+
+
+Paso 2004. Num. abiertos: 1332. Num cerrados: 2005. Nodos creados: 5580. Nodo actual:
+1,0,5,
+4,7,2,
+6,8,3,
+Nodo padre del actual:
+1,5,0,
+4,7,2,
+6,8,3,
+
+
+Paso 2005. Num. abiertos: 1333. Num cerrados: 2006. Nodos creados: 5583. Nodo actual:
+1,5,2,
+4,8,7,
+6,0,3,
+Nodo padre del actual:
+1,5,2,
+4,0,7,
+6,8,3,
+
+
+Paso 2006. Num. abiertos: 1334. Num cerrados: 2007. Nodos creados: 5586. Nodo actual:
+1,0,2,
+4,5,7,
+6,8,3,
+Nodo padre del actual:
+1,5,2,
+4,0,7,
+6,8,3,
+
+
+Paso 2007. Num. abiertos: 1335. Num cerrados: 2008. Nodos creados: 5589. Nodo actual:
+1,5,2,
+0,4,7,
+6,8,3,
+Nodo padre del actual:
+1,5,2,
+4,0,7,
+6,8,3,
+
+
+Paso 2008. Num. abiertos: 1336. Num cerrados: 2009. Nodos creados: 5592. Nodo actual:
+1,0,2,
+4,5,8,
+6,3,7,
+Nodo padre del actual:
+1,5,2,
+4,0,8,
+6,3,7,
+
+
+Paso 2009. Num. abiertos: 1337. Num cerrados: 2010. Nodos creados: 5595. Nodo actual:
+1,5,2,
+4,8,0,
+6,3,7,
+Nodo padre del actual:
+1,5,2,
+4,0,8,
+6,3,7,
+
+
+Paso 2010. Num. abiertos: 1337. Num cerrados: 2011. Nodos creados: 5598. Nodo actual:
+1,5,2,
+0,4,8,
+6,3,7,
+Nodo padre del actual:
+1,5,2,
+4,0,8,
+6,3,7,
+
+
+Paso 2011. Num. abiertos: 1338. Num cerrados: 2012. Nodos creados: 5601. Nodo actual:
+1,5,2,
+0,3,8,
+4,6,7,
+Nodo padre del actual:
+1,5,2,
+4,3,8,
+0,6,7,
+
+
+Paso 2012. Num. abiertos: 1339. Num cerrados: 2013. Nodos creados: 5604. Nodo actual:
+4,0,2,
+6,1,3,
+7,5,8,
+Nodo padre del actual:
+4,1,2,
+6,0,3,
+7,5,8,
+
+
+Paso 2013. Num. abiertos: 1340. Num cerrados: 2014. Nodos creados: 5607. Nodo actual:
+4,1,2,
+6,3,0,
+7,5,8,
+Nodo padre del actual:
+4,1,2,
+6,0,3,
+7,5,8,
+
+
+Paso 2014. Num. abiertos: 1341. Num cerrados: 2015. Nodos creados: 5610. Nodo actual:
+4,1,2,
+0,6,3,
+7,5,8,
+Nodo padre del actual:
+4,1,2,
+6,0,3,
+7,5,8,
+
+
+Paso 2015. Num. abiertos: 1342. Num cerrados: 2016. Nodos creados: 5613. Nodo actual:
+4,1,2,
+6,5,0,
+7,8,3,
+Nodo padre del actual:
+4,1,2,
+6,5,3,
+7,8,0,
+
+
+Paso 2016. Num. abiertos: 1343. Num cerrados: 2017. Nodos creados: 5616. Nodo actual:
+4,1,2,
+5,7,0,
+6,8,3,
+Nodo padre del actual:
+4,1,2,
+5,7,3,
+6,8,0,
+
+
+Paso 2017. Num. abiertos: 1344. Num cerrados: 2018. Nodos creados: 5619. Nodo actual:
+4,1,2,
+0,7,3,
+5,6,8,
+Nodo padre del actual:
+4,1,2,
+5,7,3,
+0,6,8,
+
+
+Paso 2018. Num. abiertos: 1345. Num cerrados: 2019. Nodos creados: 5622. Nodo actual:
+4,2,3,
+5,1,0,
+6,7,8,
+Nodo padre del actual:
+4,2,0,
+5,1,3,
+6,7,8,
+
+
+Paso 2019. Num. abiertos: 1346. Num cerrados: 2020. Nodos creados: 5625. Nodo actual:
+4,1,2,
+5,3,8,
+6,0,7,
+Nodo padre del actual:
+4,1,2,
+5,3,8,
+6,7,0,
+
+
+Paso 2020. Num. abiertos: 1347. Num cerrados: 2021. Nodos creados: 5628. Nodo actual:
+4,0,1,
+5,3,2,
+6,7,8,
+Nodo padre del actual:
+4,1,0,
+5,3,2,
+6,7,8,
+
+
+Paso 2021. Num. abiertos: 1348. Num cerrados: 2022. Nodos creados: 5631. Nodo actual:
+1,5,8,
+6,0,4,
+7,3,2,
+Nodo padre del actual:
+1,5,8,
+6,3,4,
+7,0,2,
+
+
+Paso 2022. Num. abiertos: 1350. Num cerrados: 2023. Nodos creados: 5635. Nodo actual:
+1,5,8,
+6,3,4,
+0,7,2,
+Nodo padre del actual:
+1,5,8,
+6,3,4,
+7,0,2,
+
+
+Paso 2023. Num. abiertos: 1350. Num cerrados: 2024. Nodos creados: 5637. Nodo actual:
+1,5,8,
+6,2,3,
+7,4,0,
+Nodo padre del actual:
+1,5,8,
+6,2,3,
+7,0,4,
+
+
+Paso 2024. Num. abiertos: 1350. Num cerrados: 2025. Nodos creados: 5639. Nodo actual:
+1,5,8,
+6,2,3,
+0,7,4,
+Nodo padre del actual:
+1,5,8,
+6,2,3,
+7,0,4,
+
+
+Paso 2025. Num. abiertos: 1350. Num cerrados: 2026. Nodos creados: 5641. Nodo actual:
+1,8,0,
+6,5,3,
+7,2,4,
+Nodo padre del actual:
+1,0,8,
+6,5,3,
+7,2,4,
+
+
+Paso 2026. Num. abiertos: 1349. Num cerrados: 2027. Nodos creados: 5643. Nodo actual:
+0,1,8,
+6,5,3,
+7,2,4,
+Nodo padre del actual:
+1,0,8,
+6,5,3,
+7,2,4,
+
+
+Paso 2027. Num. abiertos: 1349. Num cerrados: 2028. Nodos creados: 5645. Nodo actual:
+1,5,8,
+7,6,3,
+0,2,4,
+Nodo padre del actual:
+1,5,8,
+0,6,3,
+7,2,4,
+
+
+Paso 2028. Num. abiertos: 1349. Num cerrados: 2029. Nodos creados: 5647. Nodo actual:
+0,5,8,
+1,6,3,
+7,2,4,
+Nodo padre del actual:
+1,5,8,
+0,6,3,
+7,2,4,
+
+
+Paso 2029. Num. abiertos: 1349. Num cerrados: 2030. Nodos creados: 5649. Nodo actual:
+6,1,5,
+7,0,8,
+2,3,4,
+Nodo padre del actual:
+6,1,5,
+7,3,8,
+2,0,4,
+
+
+Paso 2030. Num. abiertos: 1351. Num cerrados: 2031. Nodos creados: 5653. Nodo actual:
+6,1,5,
+7,3,8,
+2,4,0,
+Nodo padre del actual:
+6,1,5,
+7,3,8,
+2,0,4,
+
+
+Paso 2031. Num. abiertos: 1351. Num cerrados: 2032. Nodos creados: 5655. Nodo actual:
+6,1,5,
+3,2,8,
+0,7,4,
+Nodo padre del actual:
+6,1,5,
+3,2,8,
+7,0,4,
+
+
+Paso 2032. Num. abiertos: 1351. Num cerrados: 2033. Nodos creados: 5657. Nodo actual:
+6,5,0,
+3,1,8,
+7,2,4,
+Nodo padre del actual:
+6,0,5,
+3,1,8,
+7,2,4,
+
+
+Paso 2033. Num. abiertos: 1351. Num cerrados: 2034. Nodos creados: 5659. Nodo actual:
+0,6,5,
+3,1,8,
+7,2,4,
+Nodo padre del actual:
+6,0,5,
+3,1,8,
+7,2,4,
+
+
+Paso 2034. Num. abiertos: 1350. Num cerrados: 2035. Nodos creados: 5661. Nodo actual:
+6,1,5,
+3,8,4,
+7,2,0,
+Nodo padre del actual:
+6,1,5,
+3,8,0,
+7,2,4,
+
+
+Paso 2035. Num. abiertos: 1350. Num cerrados: 2036. Nodos creados: 5663. Nodo actual:
+6,1,0,
+3,8,5,
+7,2,4,
+Nodo padre del actual:
+6,1,5,
+3,8,0,
+7,2,4,
+
+
+Paso 2036. Num. abiertos: 1350. Num cerrados: 2037. Nodos creados: 5665. Nodo actual:
+0,3,5,
+1,8,4,
+6,7,2,
+Nodo padre del actual:
+1,3,5,
+0,8,4,
+6,7,2,
+
+
+Paso 2037. Num. abiertos: 1350. Num cerrados: 2038. Nodos creados: 5667. Nodo actual:
+1,3,5,
+8,0,4,
+6,7,2,
+Nodo padre del actual:
+1,3,5,
+0,8,4,
+6,7,2,
+
+
+Paso 2038. Num. abiertos: 1352. Num cerrados: 2039. Nodos creados: 5671. Nodo actual:
+1,8,3,
+6,2,5,
+7,4,0,
+Nodo padre del actual:
+1,8,3,
+6,2,5,
+7,0,4,
+
+
+Paso 2039. Num. abiertos: 1352. Num cerrados: 2040. Nodos creados: 5673. Nodo actual:
+1,8,3,
+6,2,5,
+0,7,4,
+Nodo padre del actual:
+1,8,3,
+6,2,5,
+7,0,4,
+
+
+Paso 2040. Num. abiertos: 1352. Num cerrados: 2041. Nodos creados: 5675. Nodo actual:
+1,8,3,
+6,5,4,
+7,2,0,
+Nodo padre del actual:
+1,8,3,
+6,5,0,
+7,2,4,
+
+
+Paso 2041. Num. abiertos: 1352. Num cerrados: 2042. Nodos creados: 5677. Nodo actual:
+1,8,3,
+7,6,5,
+0,2,4,
+Nodo padre del actual:
+1,8,3,
+0,6,5,
+7,2,4,
+
+
+Paso 2042. Num. abiertos: 1352. Num cerrados: 2043. Nodos creados: 5679. Nodo actual:
+0,8,3,
+1,6,5,
+7,2,4,
+Nodo padre del actual:
+1,8,3,
+0,6,5,
+7,2,4,
+
+
+Paso 2043. Num. abiertos: 1352. Num cerrados: 2044. Nodos creados: 5681. Nodo actual:
+6,1,3,
+7,8,5,
+0,2,4,
+Nodo padre del actual:
+6,1,3,
+0,8,5,
+7,2,4,
+
+
+Paso 2044. Num. abiertos: 1352. Num cerrados: 2045. Nodos creados: 5683. Nodo actual:
+6,1,3,
+8,0,5,
+7,2,4,
+Nodo padre del actual:
+6,1,3,
+0,8,5,
+7,2,4,
+
+
+Paso 2045. Num. abiertos: 1354. Num cerrados: 2046. Nodos creados: 5687. Nodo actual:
+1,5,0,
+7,3,8,
+2,6,4,
+Nodo padre del actual:
+1,0,5,
+7,3,8,
+2,6,4,
+
+
+Paso 2046. Num. abiertos: 1354. Num cerrados: 2047. Nodos creados: 5689. Nodo actual:
+0,1,5,
+7,3,8,
+2,6,4,
+Nodo padre del actual:
+1,0,5,
+7,3,8,
+2,6,4,
+
+
+Paso 2047. Num. abiertos: 1354. Num cerrados: 2048. Nodos creados: 5691. Nodo actual:
+1,3,5,
+7,8,4,
+2,6,0,
+Nodo padre del actual:
+1,3,5,
+7,8,0,
+2,6,4,
+
+
+Paso 2048. Num. abiertos: 1354. Num cerrados: 2049. Nodos creados: 5693. Nodo actual:
+1,3,0,
+7,8,5,
+2,6,4,
+Nodo padre del actual:
+1,3,5,
+7,8,0,
+2,6,4,
+
+
+Paso 2049. Num. abiertos: 1354. Num cerrados: 2050. Nodos creados: 5695. Nodo actual:
+0,3,5,
+1,7,8,
+2,6,4,
+Nodo padre del actual:
+1,3,5,
+0,7,8,
+2,6,4,
+
+
+Paso 2050. Num. abiertos: 1354. Num cerrados: 2051. Nodos creados: 5697. Nodo actual:
+1,3,0,
+7,6,5,
+2,4,8,
+Nodo padre del actual:
+1,3,5,
+7,6,0,
+2,4,8,
+
+
+Paso 2051. Num. abiertos: 1354. Num cerrados: 2052. Nodos creados: 5699. Nodo actual:
+1,3,5,
+7,0,6,
+2,4,8,
+Nodo padre del actual:
+1,3,5,
+7,6,0,
+2,4,8,
+
+
+Paso 2052. Num. abiertos: 1356. Num cerrados: 2053. Nodos creados: 5703. Nodo actual:
+3,6,5,
+1,2,8,
+0,7,4,
+Nodo padre del actual:
+3,6,5,
+1,2,8,
+7,0,4,
+
+
+Paso 2053. Num. abiertos: 1356. Num cerrados: 2054. Nodos creados: 5705. Nodo actual:
+3,6,5,
+1,8,4,
+7,2,0,
+Nodo padre del actual:
+3,6,5,
+1,8,0,
+7,2,4,
+
+
+Paso 2054. Num. abiertos: 1356. Num cerrados: 2055. Nodos creados: 5707. Nodo actual:
+3,6,0,
+1,8,5,
+7,2,4,
+Nodo padre del actual:
+3,6,5,
+1,8,0,
+7,2,4,
+
+
+Paso 2055. Num. abiertos: 1356. Num cerrados: 2056. Nodos creados: 5709. Nodo actual:
+3,6,5,
+7,1,8,
+0,2,4,
+Nodo padre del actual:
+3,6,5,
+0,1,8,
+7,2,4,
+
+
+Paso 2056. Num. abiertos: 1356. Num cerrados: 2057. Nodos creados: 5711. Nodo actual:
+3,5,8,
+1,6,4,
+7,2,0,
+Nodo padre del actual:
+3,5,8,
+1,6,0,
+7,2,4,
+
+
+Paso 2057. Num. abiertos: 1356. Num cerrados: 2058. Nodos creados: 5713. Nodo actual:
+3,5,8,
+1,0,6,
+7,2,4,
+Nodo padre del actual:
+3,5,8,
+1,6,0,
+7,2,4,
+
+
+Paso 2058. Num. abiertos: 1358. Num cerrados: 2059. Nodos creados: 5717. Nodo actual:
+3,2,5,
+1,7,8,
+6,4,0,
+Nodo padre del actual:
+3,2,5,
+1,7,8,
+6,0,4,
+
+
+Paso 2059. Num. abiertos: 1358. Num cerrados: 2060. Nodos creados: 5719. Nodo actual:
+3,2,5,
+1,7,8,
+0,6,4,
+Nodo padre del actual:
+3,2,5,
+1,7,8,
+6,0,4,
+
+
+Paso 2060. Num. abiertos: 1358. Num cerrados: 2061. Nodos creados: 5721. Nodo actual:
+3,2,5,
+1,8,4,
+6,7,0,
+Nodo padre del actual:
+3,2,5,
+1,8,0,
+6,7,4,
+
+
+Paso 2061. Num. abiertos: 1358. Num cerrados: 2062. Nodos creados: 5723. Nodo actual:
+3,2,0,
+1,8,5,
+6,7,4,
+Nodo padre del actual:
+3,2,5,
+1,8,0,
+6,7,4,
+
+
+Paso 2062. Num. abiertos: 1358. Num cerrados: 2063. Nodos creados: 5725. Nodo actual:
+3,2,5,
+6,1,8,
+0,7,4,
+Nodo padre del actual:
+3,2,5,
+0,1,8,
+6,7,4,
+
+
+Paso 2063. Num. abiertos: 1358. Num cerrados: 2064. Nodos creados: 5727. Nodo actual:
+0,2,5,
+3,1,8,
+6,7,4,
+Nodo padre del actual:
+3,2,5,
+0,1,8,
+6,7,4,
+
+
+Paso 2064. Num. abiertos: 1358. Num cerrados: 2065. Nodos creados: 5729. Nodo actual:
+3,5,8,
+1,2,4,
+6,7,0,
+Nodo padre del actual:
+3,5,8,
+1,2,0,
+6,7,4,
+
+
+Paso 2065. Num. abiertos: 1358. Num cerrados: 2066. Nodos creados: 5731. Nodo actual:
+3,5,8,
+1,0,2,
+6,7,4,
+Nodo padre del actual:
+3,5,8,
+1,2,0,
+6,7,4,
+
+
+Paso 2066. Num. abiertos: 1360. Num cerrados: 2067. Nodos creados: 5735. Nodo actual:
+1,3,0,
+2,7,5,
+6,4,8,
+Nodo padre del actual:
+1,3,5,
+2,7,0,
+6,4,8,
+
+
+Paso 2067. Num. abiertos: 1360. Num cerrados: 2068. Nodos creados: 5737. Nodo actual:
+1,3,5,
+2,0,7,
+6,4,8,
+Nodo padre del actual:
+1,3,5,
+2,7,0,
+6,4,8,
+
+
+Paso 2068. Num. abiertos: 1362. Num cerrados: 2069. Nodos creados: 5741. Nodo actual:
+1,5,8,
+2,3,4,
+6,7,0,
+Nodo padre del actual:
+1,5,8,
+2,3,0,
+6,7,4,
+
+
+Paso 2069. Num. abiertos: 1362. Num cerrados: 2070. Nodos creados: 5743. Nodo actual:
+1,5,8,
+2,0,3,
+6,7,4,
+Nodo padre del actual:
+1,5,8,
+2,3,0,
+6,7,4,
+
+
+Paso 2070. Num. abiertos: 1363. Num cerrados: 2071. Nodos creados: 5747. Nodo actual:
+2,1,5,
+6,3,8,
+0,7,4,
+Nodo padre del actual:
+2,1,5,
+0,3,8,
+6,7,4,
+
+
+Paso 2071. Num. abiertos: 1363. Num cerrados: 2072. Nodos creados: 5749. Nodo actual:
+2,1,5,
+3,0,8,
+6,7,4,
+Nodo padre del actual:
+2,1,5,
+0,3,8,
+6,7,4,
+
+
+Paso 2072. Num. abiertos: 1364. Num cerrados: 2073. Nodos creados: 5753. Nodo actual:
+1,3,5,
+2,0,4,
+6,8,7,
+Nodo padre del actual:
+1,3,5,
+2,8,4,
+6,0,7,
+
+
+Paso 2073. Num. abiertos: 1366. Num cerrados: 2074. Nodos creados: 5757. Nodo actual:
+1,3,5,
+2,8,4,
+0,6,7,
+Nodo padre del actual:
+1,3,5,
+2,8,4,
+6,0,7,
+
+
+Paso 2074. Num. abiertos: 1366. Num cerrados: 2075. Nodos creados: 5759. Nodo actual:
+1,8,3,
+2,0,5,
+6,7,4,
+Nodo padre del actual:
+1,0,3,
+2,8,5,
+6,7,4,
+
+
+Paso 2075. Num. abiertos: 1367. Num cerrados: 2076. Nodos creados: 5763. Nodo actual:
+0,1,3,
+2,8,5,
+6,7,4,
+Nodo padre del actual:
+1,0,3,
+2,8,5,
+6,7,4,
+
+
+Paso 2076. Num. abiertos: 1367. Num cerrados: 2077. Nodos creados: 5765. Nodo actual:
+1,4,3,
+6,8,5,
+7,2,0,
+Nodo padre del actual:
+1,4,3,
+6,8,5,
+7,0,2,
+
+
+Paso 2077. Num. abiertos: 1367. Num cerrados: 2078. Nodos creados: 5767. Nodo actual:
+1,4,3,
+6,8,5,
+0,7,2,
+Nodo padre del actual:
+1,4,3,
+6,8,5,
+7,0,2,
+
+
+Paso 2078. Num. abiertos: 1367. Num cerrados: 2079. Nodos creados: 5769. Nodo actual:
+1,4,3,
+6,5,2,
+7,8,0,
+Nodo padre del actual:
+1,4,3,
+6,5,0,
+7,8,2,
+
+
+Paso 2079. Num. abiertos: 1367. Num cerrados: 2080. Nodos creados: 5771. Nodo actual:
+1,4,0,
+6,5,3,
+7,8,2,
+Nodo padre del actual:
+1,4,3,
+6,5,0,
+7,8,2,
+
+
+Paso 2080. Num. abiertos: 1367. Num cerrados: 2081. Nodos creados: 5773. Nodo actual:
+1,4,3,
+7,6,5,
+0,8,2,
+Nodo padre del actual:
+1,4,3,
+0,6,5,
+7,8,2,
+
+
+Paso 2081. Num. abiertos: 1367. Num cerrados: 2082. Nodos creados: 5775. Nodo actual:
+0,4,3,
+1,6,5,
+7,8,2,
+Nodo padre del actual:
+1,4,3,
+0,6,5,
+7,8,2,
+
+
+Paso 2082. Num. abiertos: 1367. Num cerrados: 2083. Nodos creados: 5777. Nodo actual:
+6,1,3,
+7,4,5,
+0,8,2,
+Nodo padre del actual:
+6,1,3,
+0,4,5,
+7,8,2,
+
+
+Paso 2083. Num. abiertos: 1366. Num cerrados: 2084. Nodos creados: 5779. Nodo actual:
+6,1,3,
+4,0,5,
+7,8,2,
+Nodo padre del actual:
+6,1,3,
+0,4,5,
+7,8,2,
+
+
+Paso 2084. Num. abiertos: 1368. Num cerrados: 2085. Nodos creados: 5783. Nodo actual:
+1,5,4,
+6,3,2,
+7,8,0,
+Nodo padre del actual:
+1,5,4,
+6,3,0,
+7,8,2,
+
+
+Paso 2085. Num. abiertos: 1368. Num cerrados: 2086. Nodos creados: 5785. Nodo actual:
+1,5,4,
+6,0,3,
+7,8,2,
+Nodo padre del actual:
+1,5,4,
+6,3,0,
+7,8,2,
+
+
+Paso 2086. Num. abiertos: 1369. Num cerrados: 2087. Nodos creados: 5789. Nodo actual:
+6,1,5,
+7,3,4,
+0,8,2,
+Nodo padre del actual:
+6,1,5,
+0,3,4,
+7,8,2,
+
+
+Paso 2087. Num. abiertos: 1369. Num cerrados: 2088. Nodos creados: 5791. Nodo actual:
+6,1,5,
+3,0,4,
+7,8,2,
+Nodo padre del actual:
+6,1,5,
+0,3,4,
+7,8,2,
+
+
+Paso 2088. Num. abiertos: 1369. Num cerrados: 2089. Nodos creados: 5795. Nodo actual:
+1,3,5,
+7,0,4,
+8,6,2,
+Nodo padre del actual:
+1,3,5,
+7,6,4,
+8,0,2,
+
+
+Paso 2089. Num. abiertos: 1371. Num cerrados: 2090. Nodos creados: 5799. Nodo actual:
+1,3,5,
+7,6,4,
+8,2,0,
+Nodo padre del actual:
+1,3,5,
+7,6,4,
+8,0,2,
+
+
+Paso 2090. Num. abiertos: 1371. Num cerrados: 2091. Nodos creados: 5801. Nodo actual:
+3,6,5,
+1,0,4,
+7,8,2,
+Nodo padre del actual:
+3,0,5,
+1,6,4,
+7,8,2,
+
+
+Paso 2091. Num. abiertos: 1371. Num cerrados: 2092. Nodos creados: 5805. Nodo actual:
+3,5,0,
+1,6,4,
+7,8,2,
+Nodo padre del actual:
+3,0,5,
+1,6,4,
+7,8,2,
+
+
+Paso 2092. Num. abiertos: 1371. Num cerrados: 2093. Nodos creados: 5807. Nodo actual:
+3,4,5,
+1,7,2,
+6,8,0,
+Nodo padre del actual:
+3,4,5,
+1,7,2,
+6,0,8,
+
+
+Paso 2093. Num. abiertos: 1371. Num cerrados: 2094. Nodos creados: 5809. Nodo actual:
+3,4,5,
+1,7,2,
+0,6,8,
+Nodo padre del actual:
+3,4,5,
+1,7,2,
+6,0,8,
+
+
+Paso 2094. Num. abiertos: 1371. Num cerrados: 2095. Nodos creados: 5811. Nodo actual:
+3,4,5,
+1,2,8,
+6,7,0,
+Nodo padre del actual:
+3,4,5,
+1,2,0,
+6,7,8,
+
+
+Paso 2095. Num. abiertos: 1371. Num cerrados: 2096. Nodos creados: 5813. Nodo actual:
+3,4,0,
+1,2,5,
+6,7,8,
+Nodo padre del actual:
+3,4,5,
+1,2,0,
+6,7,8,
+
+
+Paso 2096. Num. abiertos: 1370. Num cerrados: 2097. Nodos creados: 5815. Nodo actual:
+3,4,5,
+6,1,2,
+0,7,8,
+Nodo padre del actual:
+3,4,5,
+0,1,2,
+6,7,8,
+
+
+Paso 2097. Num. abiertos: 1370. Num cerrados: 2098. Nodos creados: 5817. Nodo actual:
+0,4,5,
+3,1,2,
+6,7,8,
+Nodo padre del actual:
+3,4,5,
+0,1,2,
+6,7,8,
+
+
+Paso 2098. Num. abiertos: 1369. Num cerrados: 2099. Nodos creados: 5819. Nodo actual:
+3,5,2,
+1,4,8,
+6,7,0,
+Nodo padre del actual:
+3,5,2,
+1,4,0,
+6,7,8,
+
+
+Paso 2099. Num. abiertos: 1369. Num cerrados: 2100. Nodos creados: 5821. Nodo actual:
+3,5,2,
+1,0,4,
+6,7,8,
+Nodo padre del actual:
+3,5,2,
+1,4,0,
+6,7,8,
+
+
+Paso 2100. Num. abiertos: 1371. Num cerrados: 2101. Nodos creados: 5825. Nodo actual:
+6,5,0,
+7,1,2,
+4,3,8,
+Nodo padre del actual:
+6,0,5,
+7,1,2,
+4,3,8,
+
+
+Paso 2101. Num. abiertos: 1371. Num cerrados: 2102. Nodos creados: 5827. Nodo actual:
+0,6,5,
+7,1,2,
+4,3,8,
+Nodo padre del actual:
+6,0,5,
+7,1,2,
+4,3,8,
+
+
+Paso 2102. Num. abiertos: 1371. Num cerrados: 2103. Nodos creados: 5829. Nodo actual:
+6,1,5,
+7,2,8,
+4,3,0,
+Nodo padre del actual:
+6,1,5,
+7,2,0,
+4,3,8,
+
+
+Paso 2103. Num. abiertos: 1371. Num cerrados: 2104. Nodos creados: 5831. Nodo actual:
+6,1,0,
+7,2,5,
+4,3,8,
+Nodo padre del actual:
+6,1,5,
+7,2,0,
+4,3,8,
+
+
+Paso 2104. Num. abiertos: 1371. Num cerrados: 2105. Nodos creados: 5833. Nodo actual:
+6,1,5,
+4,7,2,
+0,3,8,
+Nodo padre del actual:
+6,1,5,
+0,7,2,
+4,3,8,
+
+
+Paso 2105. Num. abiertos: 1371. Num cerrados: 2106. Nodos creados: 5835. Nodo actual:
+0,1,5,
+6,7,2,
+4,3,8,
+Nodo padre del actual:
+6,1,5,
+0,7,2,
+4,3,8,
+
+
+Paso 2106. Num. abiertos: 1371. Num cerrados: 2107. Nodos creados: 5837. Nodo actual:
+6,1,0,
+7,3,5,
+4,8,2,
+Nodo padre del actual:
+6,1,5,
+7,3,0,
+4,8,2,
+
+
+Paso 2107. Num. abiertos: 1371. Num cerrados: 2108. Nodos creados: 5839. Nodo actual:
+6,1,5,
+7,0,3,
+4,8,2,
+Nodo padre del actual:
+6,1,5,
+7,3,0,
+4,8,2,
+
+
+Paso 2108. Num. abiertos: 1373. Num cerrados: 2109. Nodos creados: 5843. Nodo actual:
+6,1,0,
+3,4,5,
+7,8,2,
+Nodo padre del actual:
+6,1,5,
+3,4,0,
+7,8,2,
+
+
+Paso 2109. Num. abiertos: 1373. Num cerrados: 2110. Nodos creados: 5845. Nodo actual:
+0,1,5,
+6,4,2,
+3,7,8,
+Nodo padre del actual:
+6,1,5,
+0,4,2,
+3,7,8,
+
+
+Paso 2110. Num. abiertos: 1373. Num cerrados: 2111. Nodos creados: 5847. Nodo actual:
+6,1,5,
+4,0,2,
+3,7,8,
+Nodo padre del actual:
+6,1,5,
+0,4,2,
+3,7,8,
+
+
+Paso 2111. Num. abiertos: 1374. Num cerrados: 2112. Nodos creados: 5851. Nodo actual:
+6,5,2,
+3,1,8,
+7,4,0,
+Nodo padre del actual:
+6,5,2,
+3,1,0,
+7,4,8,
+
+
+Paso 2112. Num. abiertos: 1374. Num cerrados: 2113. Nodos creados: 5853. Nodo actual:
+6,5,2,
+3,0,1,
+7,4,8,
+Nodo padre del actual:
+6,5,2,
+3,1,0,
+7,4,8,
+
+
+Paso 2113. Num. abiertos: 1376. Num cerrados: 2114. Nodos creados: 5857. Nodo actual:
+6,2,1,
+3,0,5,
+7,4,8,
+Nodo padre del actual:
+6,0,1,
+3,2,5,
+7,4,8,
+
+
+Paso 2114. Num. abiertos: 1378. Num cerrados: 2115. Nodos creados: 5861. Nodo actual:
+0,6,1,
+3,2,5,
+7,4,8,
+Nodo padre del actual:
+6,0,1,
+3,2,5,
+7,4,8,
+
+
+Paso 2115. Num. abiertos: 1378. Num cerrados: 2116. Nodos creados: 5863. Nodo actual:
+7,1,5,
+4,3,2,
+0,6,8,
+Nodo padre del actual:
+7,1,5,
+0,3,2,
+4,6,8,
+
+
+Paso 2116. Num. abiertos: 1378. Num cerrados: 2117. Nodos creados: 5865. Nodo actual:
+7,1,5,
+3,0,2,
+4,6,8,
+Nodo padre del actual:
+7,1,5,
+0,3,2,
+4,6,8,
+
+
+Paso 2117. Num. abiertos: 1380. Num cerrados: 2118. Nodos creados: 5869. Nodo actual:
+3,7,5,
+1,0,2,
+4,6,8,
+Nodo padre del actual:
+3,0,5,
+1,7,2,
+4,6,8,
+
+
+Paso 2118. Num. abiertos: 1382. Num cerrados: 2119. Nodos creados: 5873. Nodo actual:
+3,5,0,
+1,7,2,
+4,6,8,
+Nodo padre del actual:
+3,0,5,
+1,7,2,
+4,6,8,
+
+
+Paso 2119. Num. abiertos: 1382. Num cerrados: 2120. Nodos creados: 5875. Nodo actual:
+1,6,3,
+7,0,5,
+4,8,2,
+Nodo padre del actual:
+1,0,3,
+7,6,5,
+4,8,2,
+
+
+Paso 2120. Num. abiertos: 1384. Num cerrados: 2121. Nodos creados: 5879. Nodo actual:
+0,1,3,
+7,6,5,
+4,8,2,
+Nodo padre del actual:
+1,0,3,
+7,6,5,
+4,8,2,
+
+
+Paso 2121. Num. abiertos: 1384. Num cerrados: 2122. Nodos creados: 5881. Nodo actual:
+1,3,5,
+7,8,6,
+4,2,0,
+Nodo padre del actual:
+1,3,5,
+7,8,6,
+4,0,2,
+
+
+Paso 2122. Num. abiertos: 1383. Num cerrados: 2123. Nodos creados: 5883. Nodo actual:
+1,3,5,
+7,8,6,
+0,4,2,
+Nodo padre del actual:
+1,3,5,
+7,8,6,
+4,0,2,
+
+
+Paso 2123. Num. abiertos: 1383. Num cerrados: 2124. Nodos creados: 5885. Nodo actual:
+1,5,0,
+7,3,6,
+4,8,2,
+Nodo padre del actual:
+1,0,5,
+7,3,6,
+4,8,2,
+
+
+Paso 2124. Num. abiertos: 1383. Num cerrados: 2125. Nodos creados: 5887. Nodo actual:
+0,1,5,
+7,3,6,
+4,8,2,
+Nodo padre del actual:
+1,0,5,
+7,3,6,
+4,8,2,
+
+
+Paso 2125. Num. abiertos: 1383. Num cerrados: 2126. Nodos creados: 5889. Nodo actual:
+1,3,5,
+4,7,6,
+0,8,2,
+Nodo padre del actual:
+1,3,5,
+0,7,6,
+4,8,2,
+
+
+Paso 2126. Num. abiertos: 1383. Num cerrados: 2127. Nodos creados: 5891. Nodo actual:
+0,3,5,
+1,7,6,
+4,8,2,
+Nodo padre del actual:
+1,3,5,
+0,7,6,
+4,8,2,
+
+
+Paso 2127. Num. abiertos: 1383. Num cerrados: 2128. Nodos creados: 5893. Nodo actual:
+3,6,0,
+1,4,5,
+7,8,2,
+Nodo padre del actual:
+3,6,5,
+1,4,0,
+7,8,2,
+
+
+Paso 2128. Num. abiertos: 1383. Num cerrados: 2129. Nodos creados: 5895. Nodo actual:
+0,6,5,
+3,4,2,
+1,7,8,
+Nodo padre del actual:
+3,6,5,
+0,4,2,
+1,7,8,
+
+
+Paso 2129. Num. abiertos: 1383. Num cerrados: 2130. Nodos creados: 5897. Nodo actual:
+3,6,5,
+4,0,2,
+1,7,8,
+Nodo padre del actual:
+3,6,5,
+0,4,2,
+1,7,8,
+
+
+Paso 2130. Num. abiertos: 1385. Num cerrados: 2131. Nodos creados: 5901. Nodo actual:
+3,2,6,
+1,0,5,
+7,4,8,
+Nodo padre del actual:
+3,0,6,
+1,2,5,
+7,4,8,
+
+
+Paso 2131. Num. abiertos: 1387. Num cerrados: 2132. Nodos creados: 5905. Nodo actual:
+0,3,6,
+1,2,5,
+7,4,8,
+Nodo padre del actual:
+3,0,6,
+1,2,5,
+7,4,8,
+
+
+Paso 2132. Num. abiertos: 1387. Num cerrados: 2133. Nodos creados: 5907. Nodo actual:
+3,6,5,
+7,0,2,
+4,1,8,
+Nodo padre del actual:
+3,6,5,
+7,1,2,
+4,0,8,
+
+
+Paso 2133. Num. abiertos: 1389. Num cerrados: 2134. Nodos creados: 5911. Nodo actual:
+3,6,5,
+7,1,2,
+4,8,0,
+Nodo padre del actual:
+3,6,5,
+7,1,2,
+4,0,8,
+
+
+Paso 2134. Num. abiertos: 1389. Num cerrados: 2135. Nodos creados: 5913. Nodo actual:
+3,5,2,
+1,0,8,
+7,6,4,
+Nodo padre del actual:
+3,5,2,
+1,6,8,
+7,0,4,
+
+
+Paso 2135. Num. abiertos: 1391. Num cerrados: 2136. Nodos creados: 5917. Nodo actual:
+3,5,2,
+1,6,8,
+0,7,4,
+Nodo padre del actual:
+3,5,2,
+1,6,8,
+7,0,4,
+
+
+Paso 2136. Num. abiertos: 1391. Num cerrados: 2137. Nodos creados: 5919. Nodo actual:
+3,5,2,
+1,4,6,
+7,8,0,
+Nodo padre del actual:
+3,5,2,
+1,4,6,
+7,0,8,
+
+
+Paso 2137. Num. abiertos: 1391. Num cerrados: 2138. Nodos creados: 5921. Nodo actual:
+3,5,2,
+1,4,6,
+0,7,8,
+Nodo padre del actual:
+3,5,2,
+1,4,6,
+7,0,8,
+
+
+Paso 2138. Num. abiertos: 1391. Num cerrados: 2139. Nodos creados: 5923. Nodo actual:
+3,2,0,
+1,5,6,
+7,4,8,
+Nodo padre del actual:
+3,0,2,
+1,5,6,
+7,4,8,
+
+
+Paso 2139. Num. abiertos: 1390. Num cerrados: 2140. Nodos creados: 5925. Nodo actual:
+0,3,2,
+1,5,6,
+7,4,8,
+Nodo padre del actual:
+3,0,2,
+1,5,6,
+7,4,8,
+
+
+Paso 2140. Num. abiertos: 1390. Num cerrados: 2141. Nodos creados: 5927. Nodo actual:
+3,5,2,
+7,1,6,
+0,4,8,
+Nodo padre del actual:
+3,5,2,
+0,1,6,
+7,4,8,
+
+
+Paso 2141. Num. abiertos: 1390. Num cerrados: 2142. Nodos creados: 5929. Nodo actual:
+0,5,2,
+3,1,6,
+7,4,8,
+Nodo padre del actual:
+3,5,2,
+0,1,6,
+7,4,8,
+
+
+Paso 2142. Num. abiertos: 1390. Num cerrados: 2143. Nodos creados: 5931. Nodo actual:
+6,3,5,
+7,0,8,
+4,1,2,
+Nodo padre del actual:
+6,3,5,
+7,1,8,
+4,0,2,
+
+
+Paso 2143. Num. abiertos: 1392. Num cerrados: 2144. Nodos creados: 5935. Nodo actual:
+6,3,5,
+7,1,8,
+0,4,2,
+Nodo padre del actual:
+6,3,5,
+7,1,8,
+4,0,2,
+
+
+Paso 2144. Num. abiertos: 1392. Num cerrados: 2145. Nodos creados: 5937. Nodo actual:
+6,3,5,
+7,2,1,
+4,8,0,
+Nodo padre del actual:
+6,3,5,
+7,2,1,
+4,0,8,
+
+
+Paso 2145. Num. abiertos: 1392. Num cerrados: 2146. Nodos creados: 5939. Nodo actual:
+6,5,0,
+7,3,1,
+4,2,8,
+Nodo padre del actual:
+6,0,5,
+7,3,1,
+4,2,8,
+
+
+Paso 2146. Num. abiertos: 1391. Num cerrados: 2147. Nodos creados: 5941. Nodo actual:
+0,6,5,
+7,3,1,
+4,2,8,
+Nodo padre del actual:
+6,0,5,
+7,3,1,
+4,2,8,
+
+
+Paso 2147. Num. abiertos: 1391. Num cerrados: 2148. Nodos creados: 5943. Nodo actual:
+6,3,5,
+4,7,1,
+0,2,8,
+Nodo padre del actual:
+6,3,5,
+0,7,1,
+4,2,8,
+
+
+Paso 2148. Num. abiertos: 1391. Num cerrados: 2149. Nodos creados: 5945. Nodo actual:
+0,3,5,
+6,7,1,
+4,2,8,
+Nodo padre del actual:
+6,3,5,
+0,7,1,
+4,2,8,
+
+
+Paso 2149. Num. abiertos: 1391. Num cerrados: 2150. Nodos creados: 5947. Nodo actual:
+7,6,3,
+4,0,5,
+2,1,8,
+Nodo padre del actual:
+7,6,3,
+4,1,5,
+2,0,8,
+
+
+Paso 2150. Num. abiertos: 1393. Num cerrados: 2151. Nodos creados: 5951. Nodo actual:
+7,6,3,
+4,1,5,
+2,8,0,
+Nodo padre del actual:
+7,6,3,
+4,1,5,
+2,0,8,
+
+
+Paso 2151. Num. abiertos: 1393. Num cerrados: 2152. Nodos creados: 5953. Nodo actual:
+7,6,3,
+1,2,5,
+4,8,0,
+Nodo padre del actual:
+7,6,3,
+1,2,5,
+4,0,8,
+
+
+Paso 2152. Num. abiertos: 1393. Num cerrados: 2153. Nodos creados: 5955. Nodo actual:
+7,6,3,
+1,2,5,
+0,4,8,
+Nodo padre del actual:
+7,6,3,
+1,2,5,
+4,0,8,
+
+
+Paso 2153. Num. abiertos: 1393. Num cerrados: 2154. Nodos creados: 5957. Nodo actual:
+7,3,0,
+1,6,5,
+4,2,8,
+Nodo padre del actual:
+7,0,3,
+1,6,5,
+4,2,8,
+
+
+Paso 2154. Num. abiertos: 1393. Num cerrados: 2155. Nodos creados: 5959. Nodo actual:
+0,7,3,
+1,6,5,
+4,2,8,
+Nodo padre del actual:
+7,0,3,
+1,6,5,
+4,2,8,
+
+
+Paso 2155. Num. abiertos: 1392. Num cerrados: 2156. Nodos creados: 5961. Nodo actual:
+7,6,3,
+1,5,8,
+4,2,0,
+Nodo padre del actual:
+7,6,3,
+1,5,0,
+4,2,8,
+
+
+Paso 2156. Num. abiertos: 1392. Num cerrados: 2157. Nodos creados: 5963. Nodo actual:
+7,6,0,
+1,5,3,
+4,2,8,
+Nodo padre del actual:
+7,6,3,
+1,5,0,
+4,2,8,
+
+
+Paso 2157. Num. abiertos: 1392. Num cerrados: 2158. Nodos creados: 5965. Nodo actual:
+6,3,0,
+7,1,8,
+4,5,2,
+Nodo padre del actual:
+6,0,3,
+7,1,8,
+4,5,2,
+
+
+Paso 2158. Num. abiertos: 1392. Num cerrados: 2159. Nodos creados: 5967. Nodo actual:
+0,6,3,
+7,1,8,
+4,5,2,
+Nodo padre del actual:
+6,0,3,
+7,1,8,
+4,5,2,
+
+
+Paso 2159. Num. abiertos: 1392. Num cerrados: 2160. Nodos creados: 5969. Nodo actual:
+6,1,0,
+7,8,3,
+4,5,2,
+Nodo padre del actual:
+6,1,3,
+7,8,0,
+4,5,2,
+
+
+Paso 2160. Num. abiertos: 1392. Num cerrados: 2161. Nodos creados: 5971. Nodo actual:
+6,1,3,
+4,7,8,
+0,5,2,
+Nodo padre del actual:
+6,1,3,
+0,7,8,
+4,5,2,
+
+
+Paso 2161. Num. abiertos: 1392. Num cerrados: 2162. Nodos creados: 5973. Nodo actual:
+0,1,3,
+6,7,8,
+4,5,2,
+Nodo padre del actual:
+6,1,3,
+0,7,8,
+4,5,2,
+
+
+Paso 2162. Num. abiertos: 1392. Num cerrados: 2163. Nodos creados: 5975. Nodo actual:
+0,1,3,
+6,5,8,
+7,4,2,
+Nodo padre del actual:
+6,1,3,
+0,5,8,
+7,4,2,
+
+
+Paso 2163. Num. abiertos: 1392. Num cerrados: 2164. Nodos creados: 5977. Nodo actual:
+6,1,3,
+5,0,8,
+7,4,2,
+Nodo padre del actual:
+6,1,3,
+0,5,8,
+7,4,2,
+
+
+Paso 2164. Num. abiertos: 1394. Num cerrados: 2165. Nodos creados: 5981. Nodo actual:
+6,5,1,
+7,2,3,
+4,8,0,
+Nodo padre del actual:
+6,5,1,
+7,2,3,
+4,0,8,
+
+
+Paso 2165. Num. abiertos: 1394. Num cerrados: 2166. Nodos creados: 5983. Nodo actual:
+6,5,1,
+7,3,8,
+4,2,0,
+Nodo padre del actual:
+6,5,1,
+7,3,0,
+4,2,8,
+
+
+Paso 2166. Num. abiertos: 1394. Num cerrados: 2167. Nodos creados: 5985. Nodo actual:
+6,5,1,
+4,7,3,
+0,2,8,
+Nodo padre del actual:
+6,5,1,
+0,7,3,
+4,2,8,
+
+
+Paso 2167. Num. abiertos: 1394. Num cerrados: 2168. Nodos creados: 5987. Nodo actual:
+0,5,1,
+6,7,3,
+4,2,8,
+Nodo padre del actual:
+6,5,1,
+0,7,3,
+4,2,8,
+
+
+Paso 2168. Num. abiertos: 1394. Num cerrados: 2169. Nodos creados: 5989. Nodo actual:
+7,6,1,
+4,5,3,
+0,2,8,
+Nodo padre del actual:
+7,6,1,
+0,5,3,
+4,2,8,
+
+
+Paso 2169. Num. abiertos: 1394. Num cerrados: 2170. Nodos creados: 5991. Nodo actual:
+7,6,1,
+5,0,3,
+4,2,8,
+Nodo padre del actual:
+7,6,1,
+0,5,3,
+4,2,8,
+
+
+Paso 2170. Num. abiertos: 1396. Num cerrados: 2171. Nodos creados: 5995. Nodo actual:
+6,1,0,
+4,7,3,
+2,8,5,
+Nodo padre del actual:
+6,1,3,
+4,7,0,
+2,8,5,
+
+
+Paso 2171. Num. abiertos: 1396. Num cerrados: 2172. Nodos creados: 5997. Nodo actual:
+6,1,3,
+4,0,7,
+2,8,5,
+Nodo padre del actual:
+6,1,3,
+4,7,0,
+2,8,5,
+
+
+Paso 2172. Num. abiertos: 1398. Num cerrados: 2173. Nodos creados: 6001. Nodo actual:
+1,7,3,
+6,2,5,
+4,8,0,
+Nodo padre del actual:
+1,7,3,
+6,2,5,
+4,0,8,
+
+
+Paso 2173. Num. abiertos: 1398. Num cerrados: 2174. Nodos creados: 6003. Nodo actual:
+1,7,3,
+6,2,5,
+0,4,8,
+Nodo padre del actual:
+1,7,3,
+6,2,5,
+4,0,8,
+
+
+Paso 2174. Num. abiertos: 1398. Num cerrados: 2175. Nodos creados: 6005. Nodo actual:
+1,7,3,
+6,5,8,
+4,2,0,
+Nodo padre del actual:
+1,7,3,
+6,5,0,
+4,2,8,
+
+
+Paso 2175. Num. abiertos: 1398. Num cerrados: 2176. Nodos creados: 6007. Nodo actual:
+1,7,0,
+6,5,3,
+4,2,8,
+Nodo padre del actual:
+1,7,3,
+6,5,0,
+4,2,8,
+
+
+Paso 2176. Num. abiertos: 1398. Num cerrados: 2177. Nodos creados: 6009. Nodo actual:
+1,7,3,
+4,6,5,
+0,2,8,
+Nodo padre del actual:
+1,7,3,
+0,6,5,
+4,2,8,
+
+
+Paso 2177. Num. abiertos: 1398. Num cerrados: 2178. Nodos creados: 6011. Nodo actual:
+1,3,5,
+6,7,8,
+4,2,0,
+Nodo padre del actual:
+1,3,5,
+6,7,0,
+4,2,8,
+
+
+Paso 2178. Num. abiertos: 1398. Num cerrados: 2179. Nodos creados: 6013. Nodo actual:
+1,3,5,
+6,0,7,
+4,2,8,
+Nodo padre del actual:
+1,3,5,
+6,7,0,
+4,2,8,
+
+
+Paso 2179. Num. abiertos: 1400. Num cerrados: 2180. Nodos creados: 6017. Nodo actual:
+6,2,1,
+7,8,3,
+4,5,0,
+Nodo padre del actual:
+6,2,1,
+7,8,3,
+4,0,5,
+
+
+Paso 2180. Num. abiertos: 1400. Num cerrados: 2181. Nodos creados: 6019. Nodo actual:
+6,2,1,
+7,8,3,
+0,4,5,
+Nodo padre del actual:
+6,2,1,
+7,8,3,
+4,0,5,
+
+
+Paso 2181. Num. abiertos: 1400. Num cerrados: 2182. Nodos creados: 6021. Nodo actual:
+6,2,1,
+7,3,5,
+4,8,0,
+Nodo padre del actual:
+6,2,1,
+7,3,0,
+4,8,5,
+
+
+Paso 2182. Num. abiertos: 1400. Num cerrados: 2183. Nodos creados: 6023. Nodo actual:
+6,2,0,
+7,3,1,
+4,8,5,
+Nodo padre del actual:
+6,2,1,
+7,3,0,
+4,8,5,
+
+
+Paso 2183. Num. abiertos: 1400. Num cerrados: 2184. Nodos creados: 6025. Nodo actual:
+6,2,1,
+4,7,3,
+0,8,5,
+Nodo padre del actual:
+6,2,1,
+0,7,3,
+4,8,5,
+
+
+Paso 2184. Num. abiertos: 1400. Num cerrados: 2185. Nodos creados: 6027. Nodo actual:
+0,2,1,
+6,7,3,
+4,8,5,
+Nodo padre del actual:
+6,2,1,
+0,7,3,
+4,8,5,
+
+
+Paso 2185. Num. abiertos: 1400. Num cerrados: 2186. Nodos creados: 6029. Nodo actual:
+7,6,1,
+4,2,3,
+0,8,5,
+Nodo padre del actual:
+7,6,1,
+0,2,3,
+4,8,5,
+
+
+Paso 2186. Num. abiertos: 1400. Num cerrados: 2187. Nodos creados: 6031. Nodo actual:
+7,6,1,
+2,0,3,
+4,8,5,
+Nodo padre del actual:
+7,6,1,
+0,2,3,
+4,8,5,
+
+
+Paso 2187. Num. abiertos: 1402. Num cerrados: 2188. Nodos creados: 6035. Nodo actual:
+0,1,3,
+6,8,2,
+7,4,5,
+Nodo padre del actual:
+6,1,3,
+0,8,2,
+7,4,5,
+
+
+Paso 2188. Num. abiertos: 1402. Num cerrados: 2189. Nodos creados: 6037. Nodo actual:
+6,1,3,
+8,0,2,
+7,4,5,
+Nodo padre del actual:
+6,1,3,
+0,8,2,
+7,4,5,
+
+
+Paso 2189. Num. abiertos: 1404. Num cerrados: 2190. Nodos creados: 6041. Nodo actual:
+6,3,2,
+7,1,5,
+4,8,0,
+Nodo padre del actual:
+6,3,2,
+7,1,0,
+4,8,5,
+
+
+Paso 2190. Num. abiertos: 1404. Num cerrados: 2191. Nodos creados: 6043. Nodo actual:
+6,3,2,
+7,0,1,
+4,8,5,
+Nodo padre del actual:
+6,3,2,
+7,1,0,
+4,8,5,
+
+
+Paso 2191. Num. abiertos: 1405. Num cerrados: 2192. Nodos creados: 6047. Nodo actual:
+7,6,3,
+4,1,2,
+0,8,5,
+Nodo padre del actual:
+7,6,3,
+0,1,2,
+4,8,5,
+
+
+Paso 2192. Num. abiertos: 1405. Num cerrados: 2193. Nodos creados: 6049. Nodo actual:
+7,6,3,
+1,0,2,
+4,8,5,
+Nodo padre del actual:
+7,6,3,
+0,1,2,
+4,8,5,
+
+
+Paso 2193. Num. abiertos: 1406. Num cerrados: 2194. Nodos creados: 6053. Nodo actual:
+6,1,3,
+4,0,2,
+8,7,5,
+Nodo padre del actual:
+6,1,3,
+4,7,2,
+8,0,5,
+
+
+Paso 2194. Num. abiertos: 1408. Num cerrados: 2195. Nodos creados: 6057. Nodo actual:
+6,1,3,
+4,7,2,
+8,5,0,
+Nodo padre del actual:
+6,1,3,
+4,7,2,
+8,0,5,
+
+
+Paso 2195. Num. abiertos: 1408. Num cerrados: 2196. Nodos creados: 6059. Nodo actual:
+1,7,3,
+6,0,2,
+4,8,5,
+Nodo padre del actual:
+1,0,3,
+6,7,2,
+4,8,5,
+
+
+Paso 2196. Num. abiertos: 1409. Num cerrados: 2197. Nodos creados: 6063. Nodo actual:
+1,3,0,
+6,7,2,
+4,8,5,
+Nodo padre del actual:
+1,0,3,
+6,7,2,
+4,8,5,
+
+
+Paso 2197. Num. abiertos: 1409. Num cerrados: 2198. Nodos creados: 6065. Nodo actual:
+6,4,1,
+2,8,3,
+7,5,0,
+Nodo padre del actual:
+6,4,1,
+2,8,3,
+7,0,5,
+
+
+Paso 2198. Num. abiertos: 1409. Num cerrados: 2199. Nodos creados: 6067. Nodo actual:
+6,4,1,
+2,8,3,
+0,7,5,
+Nodo padre del actual:
+6,4,1,
+2,8,3,
+7,0,5,
+
+
+Paso 2199. Num. abiertos: 1409. Num cerrados: 2200. Nodos creados: 6069. Nodo actual:
+6,4,1,
+2,3,5,
+7,8,0,
+Nodo padre del actual:
+6,4,1,
+2,3,0,
+7,8,5,
+
+
+Paso 2200. Num. abiertos: 1409. Num cerrados: 2201. Nodos creados: 6071. Nodo actual:
+6,4,0,
+2,3,1,
+7,8,5,
+Nodo padre del actual:
+6,4,1,
+2,3,0,
+7,8,5,
+
+
+Paso 2201. Num. abiertos: 1408. Num cerrados: 2202. Nodos creados: 6073. Nodo actual:
+6,4,1,
+7,2,3,
+0,8,5,
+Nodo padre del actual:
+6,4,1,
+0,2,3,
+7,8,5,
+
+
+Paso 2202. Num. abiertos: 1408. Num cerrados: 2203. Nodos creados: 6075. Nodo actual:
+0,4,1,
+6,2,3,
+7,8,5,
+Nodo padre del actual:
+6,4,1,
+0,2,3,
+7,8,5,
+
+
+Paso 2203. Num. abiertos: 1407. Num cerrados: 2204. Nodos creados: 6077. Nodo actual:
+2,6,1,
+7,4,3,
+0,8,5,
+Nodo padre del actual:
+2,6,1,
+0,4,3,
+7,8,5,
+
+
+Paso 2204. Num. abiertos: 1407. Num cerrados: 2205. Nodos creados: 6079. Nodo actual:
+2,6,1,
+4,0,3,
+7,8,5,
+Nodo padre del actual:
+2,6,1,
+0,4,3,
+7,8,5,
+
+
+Paso 2205. Num. abiertos: 1409. Num cerrados: 2206. Nodos creados: 6083. Nodo actual:
+1,4,3,
+6,7,5,
+2,8,0,
+Nodo padre del actual:
+1,4,3,
+6,7,5,
+2,0,8,
+
+
+Paso 2206. Num. abiertos: 1409. Num cerrados: 2207. Nodos creados: 6085. Nodo actual:
+1,4,3,
+6,7,5,
+0,2,8,
+Nodo padre del actual:
+1,4,3,
+6,7,5,
+2,0,8,
+
+
+Paso 2207. Num. abiertos: 1409. Num cerrados: 2208. Nodos creados: 6087. Nodo actual:
+1,4,3,
+6,5,8,
+2,7,0,
+Nodo padre del actual:
+1,4,3,
+6,5,0,
+2,7,8,
+
+
+Paso 2208. Num. abiertos: 1409. Num cerrados: 2209. Nodos creados: 6089. Nodo actual:
+1,4,0,
+6,5,3,
+2,7,8,
+Nodo padre del actual:
+1,4,3,
+6,5,0,
+2,7,8,
+
+
+Paso 2209. Num. abiertos: 1409. Num cerrados: 2210. Nodos creados: 6091. Nodo actual:
+1,4,3,
+2,6,5,
+0,7,8,
+Nodo padre del actual:
+1,4,3,
+0,6,5,
+2,7,8,
+
+
+Paso 2210. Num. abiertos: 1409. Num cerrados: 2211. Nodos creados: 6093. Nodo actual:
+0,4,3,
+1,6,5,
+2,7,8,
+Nodo padre del actual:
+1,4,3,
+0,6,5,
+2,7,8,
+
+
+Paso 2211. Num. abiertos: 1409. Num cerrados: 2212. Nodos creados: 6095. Nodo actual:
+1,3,5,
+6,4,8,
+2,7,0,
+Nodo padre del actual:
+1,3,5,
+6,4,0,
+2,7,8,
+
+
+Paso 2212. Num. abiertos: 1408. Num cerrados: 2213. Nodos creados: 6097. Nodo actual:
+1,3,5,
+6,0,4,
+2,7,8,
+Nodo padre del actual:
+1,3,5,
+6,4,0,
+2,7,8,
+
+
+Paso 2213. Num. abiertos: 1410. Num cerrados: 2214. Nodos creados: 6101. Nodo actual:
+6,3,5,
+4,1,8,
+2,7,0,
+Nodo padre del actual:
+6,3,5,
+4,1,0,
+2,7,8,
+
+
+Paso 2214. Num. abiertos: 1410. Num cerrados: 2215. Nodos creados: 6103. Nodo actual:
+6,3,5,
+4,0,1,
+2,7,8,
+Nodo padre del actual:
+6,3,5,
+4,1,0,
+2,7,8,
+
+
+Paso 2215. Num. abiertos: 1410. Num cerrados: 2216. Nodos creados: 6107. Nodo actual:
+4,6,3,
+2,1,5,
+0,7,8,
+Nodo padre del actual:
+4,6,3,
+0,1,5,
+2,7,8,
+
+
+Paso 2216. Num. abiertos: 1410. Num cerrados: 2217. Nodos creados: 6109. Nodo actual:
+4,6,3,
+1,0,5,
+2,7,8,
+Nodo padre del actual:
+4,6,3,
+0,1,5,
+2,7,8,
+
+
+Paso 2217. Num. abiertos: 1411. Num cerrados: 2218. Nodos creados: 6113. Nodo actual:
+6,1,3,
+4,0,8,
+2,5,7,
+Nodo padre del actual:
+6,1,3,
+4,5,8,
+2,0,7,
+
+
+Paso 2218. Num. abiertos: 1413. Num cerrados: 2219. Nodos creados: 6117. Nodo actual:
+6,1,3,
+4,5,8,
+0,2,7,
+Nodo padre del actual:
+6,1,3,
+4,5,8,
+2,0,7,
+
+
+Paso 2219. Num. abiertos: 1413. Num cerrados: 2220. Nodos creados: 6119. Nodo actual:
+6,5,1,
+4,0,3,
+2,7,8,
+Nodo padre del actual:
+6,0,1,
+4,5,3,
+2,7,8,
+
+
+Paso 2220. Num. abiertos: 1413. Num cerrados: 2221. Nodos creados: 6123. Nodo actual:
+0,6,1,
+4,5,3,
+2,7,8,
+Nodo padre del actual:
+6,0,1,
+4,5,3,
+2,7,8,
+
+
+Paso 2221. Num. abiertos: 1413. Num cerrados: 2222. Nodos creados: 6125. Nodo actual:
+6,5,0,
+2,3,8,
+7,1,4,
+Nodo padre del actual:
+6,0,5,
+2,3,8,
+7,1,4,
+
+
+Paso 2222. Num. abiertos: 1413. Num cerrados: 2223. Nodos creados: 6127. Nodo actual:
+0,6,5,
+2,3,8,
+7,1,4,
+Nodo padre del actual:
+6,0,5,
+2,3,8,
+7,1,4,
+
+
+Paso 2223. Num. abiertos: 1413. Num cerrados: 2224. Nodos creados: 6129. Nodo actual:
+6,3,5,
+2,8,4,
+7,1,0,
+Nodo padre del actual:
+6,3,5,
+2,8,0,
+7,1,4,
+
+
+Paso 2224. Num. abiertos: 1413. Num cerrados: 2225. Nodos creados: 6131. Nodo actual:
+6,3,0,
+2,8,5,
+7,1,4,
+Nodo padre del actual:
+6,3,5,
+2,8,0,
+7,1,4,
+
+
+Paso 2225. Num. abiertos: 1413. Num cerrados: 2226. Nodos creados: 6133. Nodo actual:
+6,3,5,
+7,2,8,
+0,1,4,
+Nodo padre del actual:
+6,3,5,
+0,2,8,
+7,1,4,
+
+
+Paso 2226. Num. abiertos: 1413. Num cerrados: 2227. Nodos creados: 6135. Nodo actual:
+0,3,5,
+6,2,8,
+7,1,4,
+Nodo padre del actual:
+6,3,5,
+0,2,8,
+7,1,4,
+
+
+Paso 2227. Num. abiertos: 1413. Num cerrados: 2228. Nodos creados: 6137. Nodo actual:
+0,3,5,
+6,1,8,
+2,7,4,
+Nodo padre del actual:
+6,3,5,
+0,1,8,
+2,7,4,
+
+
+Paso 2228. Num. abiertos: 1413. Num cerrados: 2229. Nodos creados: 6139. Nodo actual:
+6,3,5,
+1,0,8,
+2,7,4,
+Nodo padre del actual:
+6,3,5,
+0,1,8,
+2,7,4,
+
+
+Paso 2229. Num. abiertos: 1415. Num cerrados: 2230. Nodos creados: 6143. Nodo actual:
+6,3,0,
+2,4,5,
+7,8,1,
+Nodo padre del actual:
+6,3,5,
+2,4,0,
+7,8,1,
+
+
+Paso 2230. Num. abiertos: 1415. Num cerrados: 2231. Nodos creados: 6145. Nodo actual:
+6,3,5,
+2,0,4,
+7,8,1,
+Nodo padre del actual:
+6,3,5,
+2,4,0,
+7,8,1,
+
+
+Paso 2231. Num. abiertos: 1416. Num cerrados: 2232. Nodos creados: 6149. Nodo actual:
+0,3,5,
+6,4,1,
+2,7,8,
+Nodo padre del actual:
+6,3,5,
+0,4,1,
+2,7,8,
+
+
+Paso 2232. Num. abiertos: 1416. Num cerrados: 2233. Nodos creados: 6151. Nodo actual:
+2,6,5,
+7,3,1,
+0,4,8,
+Nodo padre del actual:
+2,6,5,
+0,3,1,
+7,4,8,
+
+
+Paso 2233. Num. abiertos: 1416. Num cerrados: 2234. Nodos creados: 6153. Nodo actual:
+2,6,5,
+3,0,1,
+7,4,8,
+Nodo padre del actual:
+2,6,5,
+0,3,1,
+7,4,8,
+
+
+Paso 2234. Num. abiertos: 1418. Num cerrados: 2235. Nodos creados: 6157. Nodo actual:
+3,2,5,
+6,0,1,
+7,4,8,
+Nodo padre del actual:
+3,0,5,
+6,2,1,
+7,4,8,
+
+
+Paso 2235. Num. abiertos: 1420. Num cerrados: 2236. Nodos creados: 6161. Nodo actual:
+3,5,0,
+6,2,1,
+7,4,8,
+Nodo padre del actual:
+3,0,5,
+6,2,1,
+7,4,8,
+
+
+Paso 2236. Num. abiertos: 1420. Num cerrados: 2237. Nodos creados: 6163. Nodo actual:
+6,3,8,
+2,1,4,
+7,5,0,
+Nodo padre del actual:
+6,3,8,
+2,1,0,
+7,5,4,
+
+
+Paso 2237. Num. abiertos: 1420. Num cerrados: 2238. Nodos creados: 6165. Nodo actual:
+6,3,8,
+2,0,1,
+7,5,4,
+Nodo padre del actual:
+6,3,8,
+2,1,0,
+7,5,4,
+
+
+Paso 2238. Num. abiertos: 1422. Num cerrados: 2239. Nodos creados: 6169. Nodo actual:
+6,8,1,
+2,0,3,
+7,5,4,
+Nodo padre del actual:
+6,0,1,
+2,8,3,
+7,5,4,
+
+
+Paso 2239. Num. abiertos: 1424. Num cerrados: 2240. Nodos creados: 6173. Nodo actual:
+0,6,1,
+2,8,3,
+7,5,4,
+Nodo padre del actual:
+6,0,1,
+2,8,3,
+7,5,4,
+
+
+Paso 2240. Num. abiertos: 1424. Num cerrados: 2241. Nodos creados: 6175. Nodo actual:
+1,5,3,
+6,0,8,
+2,7,4,
+Nodo padre del actual:
+1,0,3,
+6,5,8,
+2,7,4,
+
+
+Paso 2241. Num. abiertos: 1426. Num cerrados: 2242. Nodos creados: 6179. Nodo actual:
+1,3,0,
+6,5,8,
+2,7,4,
+Nodo padre del actual:
+1,0,3,
+6,5,8,
+2,7,4,
+
+
+Paso 2242. Num. abiertos: 1426. Num cerrados: 2243. Nodos creados: 6181. Nodo actual:
+6,1,3,
+5,7,8,
+2,4,0,
+Nodo padre del actual:
+6,1,3,
+5,7,8,
+2,0,4,
+
+
+Paso 2243. Num. abiertos: 1426. Num cerrados: 2244. Nodos creados: 6183. Nodo actual:
+6,1,3,
+5,7,8,
+0,2,4,
+Nodo padre del actual:
+6,1,3,
+5,7,8,
+2,0,4,
+
+
+Paso 2244. Num. abiertos: 1425. Num cerrados: 2245. Nodos creados: 6185. Nodo actual:
+6,3,0,
+5,1,8,
+2,7,4,
+Nodo padre del actual:
+6,0,3,
+5,1,8,
+2,7,4,
+
+
+Paso 2245. Num. abiertos: 1425. Num cerrados: 2246. Nodos creados: 6187. Nodo actual:
+0,6,3,
+5,1,8,
+2,7,4,
+Nodo padre del actual:
+6,0,3,
+5,1,8,
+2,7,4,
+
+
+Paso 2246. Num. abiertos: 1425. Num cerrados: 2247. Nodos creados: 6189. Nodo actual:
+6,1,3,
+5,8,4,
+2,7,0,
+Nodo padre del actual:
+6,1,3,
+5,8,0,
+2,7,4,
+
+
+Paso 2247. Num. abiertos: 1425. Num cerrados: 2248. Nodos creados: 6191. Nodo actual:
+6,1,0,
+5,8,3,
+2,7,4,
+Nodo padre del actual:
+6,1,3,
+5,8,0,
+2,7,4,
+
+
+Paso 2248. Num. abiertos: 1425. Num cerrados: 2249. Nodos creados: 6193. Nodo actual:
+6,5,0,
+2,4,1,
+7,8,3,
+Nodo padre del actual:
+6,5,1,
+2,4,0,
+7,8,3,
+
+
+Paso 2249. Num. abiertos: 1425. Num cerrados: 2250. Nodos creados: 6195. Nodo actual:
+6,5,1,
+2,0,4,
+7,8,3,
+Nodo padre del actual:
+6,5,1,
+2,4,0,
+7,8,3,
+
+
+Paso 2250. Num. abiertos: 1427. Num cerrados: 2251. Nodos creados: 6199. Nodo actual:
+0,5,1,
+6,4,3,
+2,7,8,
+Nodo padre del actual:
+6,5,1,
+0,4,3,
+2,7,8,
+
+
+Paso 2251. Num. abiertos: 1427. Num cerrados: 2252. Nodos creados: 6201. Nodo actual:
+6,5,1,
+2,0,8,
+7,3,4,
+Nodo padre del actual:
+6,5,1,
+2,3,8,
+7,0,4,
+
+
+Paso 2252. Num. abiertos: 1429. Num cerrados: 2253. Nodos creados: 6205. Nodo actual:
+6,5,1,
+2,3,8,
+0,7,4,
+Nodo padre del actual:
+6,5,1,
+2,3,8,
+7,0,4,
+
+
+Paso 2253. Num. abiertos: 1429. Num cerrados: 2254. Nodos creados: 6207. Nodo actual:
+5,2,1,
+6,0,3,
+7,4,8,
+Nodo padre del actual:
+5,0,1,
+6,2,3,
+7,4,8,
+
+
+Paso 2254. Num. abiertos: 1431. Num cerrados: 2255. Nodos creados: 6211. Nodo actual:
+5,1,0,
+6,2,3,
+7,4,8,
+Nodo padre del actual:
+5,0,1,
+6,2,3,
+7,4,8,
+
+
+Paso 2255. Num. abiertos: 1431. Num cerrados: 2256. Nodos creados: 6213. Nodo actual:
+2,6,1,
+7,0,3,
+4,5,8,
+Nodo padre del actual:
+2,6,1,
+7,5,3,
+4,0,8,
+
+
+Paso 2256. Num. abiertos: 1433. Num cerrados: 2257. Nodos creados: 6217. Nodo actual:
+2,6,1,
+7,5,3,
+4,8,0,
+Nodo padre del actual:
+2,6,1,
+7,5,3,
+4,0,8,
+
+
+Paso 2257. Num. abiertos: 1433. Num cerrados: 2258. Nodos creados: 6219. Nodo actual:
+2,6,1,
+5,4,3,
+7,8,0,
+Nodo padre del actual:
+2,6,1,
+5,4,3,
+7,0,8,
+
+
+Paso 2258. Num. abiertos: 1433. Num cerrados: 2259. Nodos creados: 6221. Nodo actual:
+2,6,1,
+5,4,3,
+0,7,8,
+Nodo padre del actual:
+2,6,1,
+5,4,3,
+7,0,8,
+
+
+Paso 2259. Num. abiertos: 1433. Num cerrados: 2260. Nodos creados: 6223. Nodo actual:
+2,1,0,
+5,6,3,
+7,4,8,
+Nodo padre del actual:
+2,0,1,
+5,6,3,
+7,4,8,
+
+
+Paso 2260. Num. abiertos: 1433. Num cerrados: 2261. Nodos creados: 6225. Nodo actual:
+0,2,1,
+5,6,3,
+7,4,8,
+Nodo padre del actual:
+2,0,1,
+5,6,3,
+7,4,8,
+
+
+Paso 2261. Num. abiertos: 1432. Num cerrados: 2262. Nodos creados: 6227. Nodo actual:
+2,6,1,
+5,3,8,
+7,4,0,
+Nodo padre del actual:
+2,6,1,
+5,3,0,
+7,4,8,
+
+
+Paso 2262. Num. abiertos: 1432. Num cerrados: 2263. Nodos creados: 6229. Nodo actual:
+2,6,0,
+5,3,1,
+7,4,8,
+Nodo padre del actual:
+2,6,1,
+5,3,0,
+7,4,8,
+
+
+Paso 2263. Num. abiertos: 1432. Num cerrados: 2264. Nodos creados: 6231. Nodo actual:
+1,8,0,
+6,3,4,
+7,2,5,
+Nodo padre del actual:
+1,0,8,
+6,3,4,
+7,2,5,
+
+
+Paso 2264. Num. abiertos: 1432. Num cerrados: 2265. Nodos creados: 6233. Nodo actual:
+0,1,8,
+6,3,4,
+7,2,5,
+Nodo padre del actual:
+1,0,8,
+6,3,4,
+7,2,5,
+
+
+Paso 2265. Num. abiertos: 1432. Num cerrados: 2266. Nodos creados: 6235. Nodo actual:
+1,3,8,
+6,4,5,
+7,2,0,
+Nodo padre del actual:
+1,3,8,
+6,4,0,
+7,2,5,
+
+
+Paso 2266. Num. abiertos: 1432. Num cerrados: 2267. Nodos creados: 6237. Nodo actual:
+1,3,0,
+6,4,8,
+7,2,5,
+Nodo padre del actual:
+1,3,8,
+6,4,0,
+7,2,5,
+
+
+Paso 2267. Num. abiertos: 1432. Num cerrados: 2268. Nodos creados: 6239. Nodo actual:
+1,3,8,
+7,6,4,
+0,2,5,
+Nodo padre del actual:
+1,3,8,
+0,6,4,
+7,2,5,
+
+
+Paso 2268. Num. abiertos: 1432. Num cerrados: 2269. Nodos creados: 6241. Nodo actual:
+0,3,8,
+1,6,4,
+7,2,5,
+Nodo padre del actual:
+1,3,8,
+0,6,4,
+7,2,5,
+
+
+Paso 2269. Num. abiertos: 1432. Num cerrados: 2270. Nodos creados: 6243. Nodo actual:
+0,3,8,
+1,2,4,
+6,7,5,
+Nodo padre del actual:
+1,3,8,
+0,2,4,
+6,7,5,
+
+
+Paso 2270. Num. abiertos: 1432. Num cerrados: 2271. Nodos creados: 6245. Nodo actual:
+1,3,8,
+2,0,4,
+6,7,5,
+Nodo padre del actual:
+1,3,8,
+0,2,4,
+6,7,5,
+
+
+Paso 2271. Num. abiertos: 1434. Num cerrados: 2272. Nodos creados: 6249. Nodo actual:
+1,3,0,
+6,5,8,
+7,4,2,
+Nodo padre del actual:
+1,3,8,
+6,5,0,
+7,4,2,
+
+
+Paso 2272. Num. abiertos: 1433. Num cerrados: 2273. Nodos creados: 6251. Nodo actual:
+1,3,8,
+6,0,5,
+7,4,2,
+Nodo padre del actual:
+1,3,8,
+6,5,0,
+7,4,2,
+
+
+Paso 2273. Num. abiertos: 1434. Num cerrados: 2274. Nodos creados: 6255. Nodo actual:
+0,3,8,
+1,5,2,
+6,7,4,
+Nodo padre del actual:
+1,3,8,
+0,5,2,
+6,7,4,
+
+
+Paso 2274. Num. abiertos: 1433. Num cerrados: 2275. Nodos creados: 6257. Nodo actual:
+6,1,8,
+7,3,2,
+0,5,4,
+Nodo padre del actual:
+6,1,8,
+0,3,2,
+7,5,4,
+
+
+Paso 2275. Num. abiertos: 1433. Num cerrados: 2276. Nodos creados: 6259. Nodo actual:
+6,1,8,
+3,0,2,
+7,5,4,
+Nodo padre del actual:
+6,1,8,
+0,3,2,
+7,5,4,
+
+
+Paso 2276. Num. abiertos: 1435. Num cerrados: 2277. Nodos creados: 6263. Nodo actual:
+1,3,8,
+7,0,2,
+5,6,4,
+Nodo padre del actual:
+1,3,8,
+7,6,2,
+5,0,4,
+
+
+Paso 2277. Num. abiertos: 1436. Num cerrados: 2278. Nodos creados: 6267. Nodo actual:
+1,3,8,
+7,6,2,
+5,4,0,
+Nodo padre del actual:
+1,3,8,
+7,6,2,
+5,0,4,
+
+
+Paso 2278. Num. abiertos: 1436. Num cerrados: 2279. Nodos creados: 6269. Nodo actual:
+3,6,8,
+1,0,2,
+7,5,4,
+Nodo padre del actual:
+3,0,8,
+1,6,2,
+7,5,4,
+
+
+Paso 2279. Num. abiertos: 1438. Num cerrados: 2280. Nodos creados: 6273. Nodo actual:
+3,8,0,
+1,6,2,
+7,5,4,
+Nodo padre del actual:
+3,0,8,
+1,6,2,
+7,5,4,
+
+
+Paso 2280. Num. abiertos: 1438. Num cerrados: 2281. Nodos creados: 6275. Nodo actual:
+6,3,0,
+7,1,8,
+5,2,4,
+Nodo padre del actual:
+6,0,3,
+7,1,8,
+5,2,4,
+
+
+Paso 2281. Num. abiertos: 1438. Num cerrados: 2282. Nodos creados: 6277. Nodo actual:
+0,6,3,
+7,1,8,
+5,2,4,
+Nodo padre del actual:
+6,0,3,
+7,1,8,
+5,2,4,
+
+
+Paso 2282. Num. abiertos: 1438. Num cerrados: 2283. Nodos creados: 6279. Nodo actual:
+6,1,3,
+7,8,4,
+5,2,0,
+Nodo padre del actual:
+6,1,3,
+7,8,0,
+5,2,4,
+
+
+Paso 2283. Num. abiertos: 1438. Num cerrados: 2284. Nodos creados: 6281. Nodo actual:
+6,1,0,
+7,8,3,
+5,2,4,
+Nodo padre del actual:
+6,1,3,
+7,8,0,
+5,2,4,
+
+
+Paso 2284. Num. abiertos: 1438. Num cerrados: 2285. Nodos creados: 6283. Nodo actual:
+0,1,3,
+6,7,8,
+5,2,4,
+Nodo padre del actual:
+6,1,3,
+0,7,8,
+5,2,4,
+
+
+Paso 2285. Num. abiertos: 1438. Num cerrados: 2286. Nodos creados: 6285. Nodo actual:
+6,1,0,
+7,2,3,
+5,4,8,
+Nodo padre del actual:
+6,1,3,
+7,2,0,
+5,4,8,
+
+
+Paso 2286. Num. abiertos: 1438. Num cerrados: 2287. Nodos creados: 6287. Nodo actual:
+6,1,3,
+7,0,2,
+5,4,8,
+Nodo padre del actual:
+6,1,3,
+7,2,0,
+5,4,8,
+
+
+Paso 2287. Num. abiertos: 1440. Num cerrados: 2288. Nodos creados: 6291. Nodo actual:
+1,8,0,
+6,5,2,
+7,4,3,
+Nodo padre del actual:
+1,8,2,
+6,5,0,
+7,4,3,
+
+
+Paso 2288. Num. abiertos: 1440. Num cerrados: 2289. Nodos creados: 6293. Nodo actual:
+1,8,2,
+6,0,5,
+7,4,3,
+Nodo padre del actual:
+1,8,2,
+6,5,0,
+7,4,3,
+
+
+Paso 2289. Num. abiertos: 1442. Num cerrados: 2290. Nodos creados: 6297. Nodo actual:
+0,8,2,
+1,5,3,
+6,7,4,
+Nodo padre del actual:
+1,8,2,
+0,5,3,
+6,7,4,
+
+
+Paso 2290. Num. abiertos: 1442. Num cerrados: 2291. Nodos creados: 6299. Nodo actual:
+1,8,2,
+6,0,4,
+7,3,5,
+Nodo padre del actual:
+1,8,2,
+6,3,4,
+7,0,5,
+
+
+Paso 2291. Num. abiertos: 1444. Num cerrados: 2292. Nodos creados: 6303. Nodo actual:
+1,8,2,
+6,3,4,
+0,7,5,
+Nodo padre del actual:
+1,8,2,
+6,3,4,
+7,0,5,
+
+
+Paso 2292. Num. abiertos: 1444. Num cerrados: 2293. Nodos creados: 6305. Nodo actual:
+1,8,2,
+7,0,3,
+5,6,4,
+Nodo padre del actual:
+1,8,2,
+7,6,3,
+5,0,4,
+
+
+Paso 2293. Num. abiertos: 1445. Num cerrados: 2294. Nodos creados: 6309. Nodo actual:
+1,8,2,
+7,6,3,
+5,4,0,
+Nodo padre del actual:
+1,8,2,
+7,6,3,
+5,0,4,
+
+
+Paso 2294. Num. abiertos: 1445. Num cerrados: 2295. Nodos creados: 6311. Nodo actual:
+8,6,2,
+1,0,3,
+7,5,4,
+Nodo padre del actual:
+8,0,2,
+1,6,3,
+7,5,4,
+
+
+Paso 2295. Num. abiertos: 1447. Num cerrados: 2296. Nodos creados: 6315. Nodo actual:
+8,2,0,
+1,6,3,
+7,5,4,
+Nodo padre del actual:
+8,0,2,
+1,6,3,
+7,5,4,
+
+
+Paso 2296. Num. abiertos: 1447. Num cerrados: 2297. Nodos creados: 6317. Nodo actual:
+6,1,2,
+7,0,3,
+5,8,4,
+Nodo padre del actual:
+6,1,2,
+7,8,3,
+5,0,4,
+
+
+Paso 2297. Num. abiertos: 1449. Num cerrados: 2298. Nodos creados: 6321. Nodo actual:
+6,1,2,
+7,8,3,
+5,4,0,
+Nodo padre del actual:
+6,1,2,
+7,8,3,
+5,0,4,
+
+
+Paso 2298. Num. abiertos: 1449. Num cerrados: 2299. Nodos creados: 6323. Nodo actual:
+6,1,2,
+8,5,3,
+7,4,0,
+Nodo padre del actual:
+6,1,2,
+8,5,3,
+7,0,4,
+
+
+Paso 2299. Num. abiertos: 1449. Num cerrados: 2300. Nodos creados: 6325. Nodo actual:
+6,1,2,
+8,5,3,
+0,7,4,
+Nodo padre del actual:
+6,1,2,
+8,5,3,
+7,0,4,
+
+
+Paso 2300. Num. abiertos: 1449. Num cerrados: 2301. Nodos creados: 6327. Nodo actual:
+6,2,0,
+8,1,3,
+7,5,4,
+Nodo padre del actual:
+6,0,2,
+8,1,3,
+7,5,4,
+
+
+Paso 2301. Num. abiertos: 1449. Num cerrados: 2302. Nodos creados: 6329. Nodo actual:
+0,6,2,
+8,1,3,
+7,5,4,
+Nodo padre del actual:
+6,0,2,
+8,1,3,
+7,5,4,
+
+
+Paso 2302. Num. abiertos: 1448. Num cerrados: 2303. Nodos creados: 6331. Nodo actual:
+6,1,2,
+8,3,4,
+7,5,0,
+Nodo padre del actual:
+6,1,2,
+8,3,0,
+7,5,4,
+
+
+Paso 2303. Num. abiertos: 1448. Num cerrados: 2304. Nodos creados: 6333. Nodo actual:
+6,1,0,
+8,3,2,
+7,5,4,
+Nodo padre del actual:
+6,1,2,
+8,3,0,
+7,5,4,
+
+
+Paso 2304. Num. abiertos: 1448. Num cerrados: 2305. Nodos creados: 6335. Nodo actual:
+1,3,8,
+7,2,4,
+5,6,0,
+Nodo padre del actual:
+1,3,8,
+7,2,0,
+5,6,4,
+
+
+Paso 2305. Num. abiertos: 1448. Num cerrados: 2306. Nodos creados: 6337. Nodo actual:
+7,1,3,
+5,2,8,
+0,6,4,
+Nodo padre del actual:
+7,1,3,
+0,2,8,
+5,6,4,
+
+
+Paso 2306. Num. abiertos: 1448. Num cerrados: 2307. Nodos creados: 6339. Nodo actual:
+7,1,3,
+2,0,8,
+5,6,4,
+Nodo padre del actual:
+7,1,3,
+0,2,8,
+5,6,4,
+
+
+Paso 2307. Num. abiertos: 1450. Num cerrados: 2308. Nodos creados: 6343. Nodo actual:
+1,2,3,
+7,0,4,
+5,8,6,
+Nodo padre del actual:
+1,2,3,
+7,8,4,
+5,0,6,
+
+
+Paso 2308. Num. abiertos: 1452. Num cerrados: 2309. Nodos creados: 6347. Nodo actual:
+1,2,3,
+7,8,4,
+0,5,6,
+Nodo padre del actual:
+1,2,3,
+7,8,4,
+5,0,6,
+
+
+Paso 2309. Num. abiertos: 1452. Num cerrados: 2310. Nodos creados: 6349. Nodo actual:
+0,1,2,
+7,8,3,
+5,6,4,
+Nodo padre del actual:
+1,0,2,
+7,8,3,
+5,6,4,
+
+
+Paso 2310. Num. abiertos: 1452. Num cerrados: 2311. Nodos creados: 6351. Nodo actual:
+2,7,3,
+1,0,8,
+5,6,4,
+Nodo padre del actual:
+2,0,3,
+1,7,8,
+5,6,4,
+
+
+Paso 2311. Num. abiertos: 1454. Num cerrados: 2312. Nodos creados: 6355. Nodo actual:
+2,3,0,
+1,7,8,
+5,6,4,
+Nodo padre del actual:
+2,0,3,
+1,7,8,
+5,6,4,
+
+
+Paso 2312. Num. abiertos: 1454. Num cerrados: 2313. Nodos creados: 6357. Nodo actual:
+1,6,2,
+7,0,3,
+5,4,8,
+Nodo padre del actual:
+1,0,2,
+7,6,3,
+5,4,8,
+
+
+Paso 2313. Num. abiertos: 1456. Num cerrados: 2314. Nodos creados: 6361. Nodo actual:
+0,1,2,
+7,6,3,
+5,4,8,
+Nodo padre del actual:
+1,0,2,
+7,6,3,
+5,4,8,
+
+
+Paso 2314. Num. abiertos: 1456. Num cerrados: 2315. Nodos creados: 6363. Nodo actual:
+1,2,3,
+7,4,6,
+5,8,0,
+Nodo padre del actual:
+1,2,3,
+7,4,6,
+5,0,8,
+
+
+Paso 2315. Num. abiertos: 1455. Num cerrados: 2316. Nodos creados: 6365. Nodo actual:
+1,2,3,
+7,4,6,
+0,5,8,
+Nodo padre del actual:
+1,2,3,
+7,4,6,
+5,0,8,
+
+
+Paso 2316. Num. abiertos: 1455. Num cerrados: 2317. Nodos creados: 6367. Nodo actual:
+1,3,0,
+7,2,6,
+5,4,8,
+Nodo padre del actual:
+1,0,3,
+7,2,6,
+5,4,8,
+
+
+Paso 2317. Num. abiertos: 1455. Num cerrados: 2318. Nodos creados: 6369. Nodo actual:
+0,1,3,
+7,2,6,
+5,4,8,
+Nodo padre del actual:
+1,0,3,
+7,2,6,
+5,4,8,
+
+
+Paso 2318. Num. abiertos: 1455. Num cerrados: 2319. Nodos creados: 6371. Nodo actual:
+1,2,3,
+5,7,6,
+0,4,8,
+Nodo padre del actual:
+1,2,3,
+0,7,6,
+5,4,8,
+
+
+Paso 2319. Num. abiertos: 1455. Num cerrados: 2320. Nodos creados: 6373. Nodo actual:
+0,2,3,
+1,7,6,
+5,4,8,
+Nodo padre del actual:
+1,2,3,
+0,7,6,
+5,4,8,
+
+
+Paso 2320. Num. abiertos: 1455. Num cerrados: 2321. Nodos creados: 6375. Nodo actual:
+2,8,6,
+1,0,3,
+7,5,4,
+Nodo padre del actual:
+2,0,6,
+1,8,3,
+7,5,4,
+
+
+Paso 2321. Num. abiertos: 1457. Num cerrados: 2322. Nodos creados: 6379. Nodo actual:
+0,2,6,
+1,8,3,
+7,5,4,
+Nodo padre del actual:
+2,0,6,
+1,8,3,
+7,5,4,
+
+
+Paso 2322. Num. abiertos: 1457. Num cerrados: 2323. Nodos creados: 6381. Nodo actual:
+2,6,3,
+7,0,8,
+5,1,4,
+Nodo padre del actual:
+2,6,3,
+7,1,8,
+5,0,4,
+
+
+Paso 2323. Num. abiertos: 1459. Num cerrados: 2324. Nodos creados: 6385. Nodo actual:
+2,6,3,
+7,1,8,
+5,4,0,
+Nodo padre del actual:
+2,6,3,
+7,1,8,
+5,0,4,
+
+
+Paso 2324. Num. abiertos: 1459. Num cerrados: 2325. Nodos creados: 6387. Nodo actual:
+2,3,8,
+1,0,4,
+7,6,5,
+Nodo padre del actual:
+2,3,8,
+1,6,4,
+7,0,5,
+
+
+Paso 2325. Num. abiertos: 1461. Num cerrados: 2326. Nodos creados: 6391. Nodo actual:
+2,3,8,
+1,6,4,
+0,7,5,
+Nodo padre del actual:
+2,3,8,
+1,6,4,
+7,0,5,
+
+
+Paso 2326. Num. abiertos: 1461. Num cerrados: 2327. Nodos creados: 6393. Nodo actual:
+2,3,8,
+1,5,6,
+7,4,0,
+Nodo padre del actual:
+2,3,8,
+1,5,6,
+7,0,4,
+
+
+Paso 2327. Num. abiertos: 1461. Num cerrados: 2328. Nodos creados: 6395. Nodo actual:
+2,3,8,
+1,5,6,
+0,7,4,
+Nodo padre del actual:
+2,3,8,
+1,5,6,
+7,0,4,
+
+
+Paso 2328. Num. abiertos: 1461. Num cerrados: 2329. Nodos creados: 6397. Nodo actual:
+2,8,0,
+1,3,6,
+7,5,4,
+Nodo padre del actual:
+2,0,8,
+1,3,6,
+7,5,4,
+
+
+Paso 2329. Num. abiertos: 1460. Num cerrados: 2330. Nodos creados: 6399. Nodo actual:
+0,2,8,
+1,3,6,
+7,5,4,
+Nodo padre del actual:
+2,0,8,
+1,3,6,
+7,5,4,
+
+
+Paso 2330. Num. abiertos: 1460. Num cerrados: 2331. Nodos creados: 6401. Nodo actual:
+2,3,8,
+7,1,6,
+0,5,4,
+Nodo padre del actual:
+2,3,8,
+0,1,6,
+7,5,4,
+
+
+Paso 2331. Num. abiertos: 1460. Num cerrados: 2332. Nodos creados: 6403. Nodo actual:
+0,3,8,
+2,1,6,
+7,5,4,
+Nodo padre del actual:
+2,3,8,
+0,1,6,
+7,5,4,
+
+
+Paso 2332. Num. abiertos: 1460. Num cerrados: 2333. Nodos creados: 6405. Nodo actual:
+2,5,0,
+1,7,3,
+6,4,8,
+Nodo padre del actual:
+2,5,3,
+1,7,0,
+6,4,8,
+
+
+Paso 2333. Num. abiertos: 1460. Num cerrados: 2334. Nodos creados: 6407. Nodo actual:
+2,5,3,
+1,0,7,
+6,4,8,
+Nodo padre del actual:
+2,5,3,
+1,7,0,
+6,4,8,
+
+
+Paso 2334. Num. abiertos: 1462. Num cerrados: 2335. Nodos creados: 6411. Nodo actual:
+0,5,3,
+2,7,8,
+1,6,4,
+Nodo padre del actual:
+2,5,3,
+0,7,8,
+1,6,4,
+
+
+Paso 2335. Num. abiertos: 1462. Num cerrados: 2336. Nodos creados: 6413. Nodo actual:
+2,5,3,
+7,0,8,
+1,6,4,
+Nodo padre del actual:
+2,5,3,
+0,7,8,
+1,6,4,
+
+
+Paso 2336. Num. abiertos: 1464. Num cerrados: 2337. Nodos creados: 6417. Nodo actual:
+2,5,3,
+1,0,4,
+6,8,7,
+Nodo padre del actual:
+2,5,3,
+1,8,4,
+6,0,7,
+
+
+Paso 2337. Num. abiertos: 1466. Num cerrados: 2338. Nodos creados: 6421. Nodo actual:
+2,5,3,
+1,8,4,
+0,6,7,
+Nodo padre del actual:
+2,5,3,
+1,8,4,
+6,0,7,
+
+
+Paso 2338. Num. abiertos: 1466. Num cerrados: 2339. Nodos creados: 6423. Nodo actual:
+2,8,5,
+1,0,3,
+6,7,4,
+Nodo padre del actual:
+2,0,5,
+1,8,3,
+6,7,4,
+
+
+Paso 2339. Num. abiertos: 1468. Num cerrados: 2340. Nodos creados: 6427. Nodo actual:
+0,2,5,
+1,8,3,
+6,7,4,
+Nodo padre del actual:
+2,0,5,
+1,8,3,
+6,7,4,
+
+
+Paso 2340. Num. abiertos: 1468. Num cerrados: 2341. Nodos creados: 6429. Nodo actual:
+2,5,3,
+6,0,8,
+7,1,4,
+Nodo padre del actual:
+2,5,3,
+6,1,8,
+7,0,4,
+
+
+Paso 2341. Num. abiertos: 1470. Num cerrados: 2342. Nodos creados: 6433. Nodo actual:
+2,5,3,
+6,1,8,
+7,4,0,
+Nodo padre del actual:
+2,5,3,
+6,1,8,
+7,0,4,
+
+
+Paso 2342. Num. abiertos: 1470. Num cerrados: 2343. Nodos creados: 6435. Nodo actual:
+5,3,0,
+2,1,8,
+6,7,4,
+Nodo padre del actual:
+5,0,3,
+2,1,8,
+6,7,4,
+
+
+Paso 2343. Num. abiertos: 1470. Num cerrados: 2344. Nodos creados: 6437. Nodo actual:
+2,3,8,
+1,0,4,
+6,5,7,
+Nodo padre del actual:
+2,3,8,
+1,5,4,
+6,0,7,
+
+
+Paso 2344. Num. abiertos: 1471. Num cerrados: 2345. Nodos creados: 6441. Nodo actual:
+2,3,8,
+1,5,4,
+0,6,7,
+Nodo padre del actual:
+2,3,8,
+1,5,4,
+6,0,7,
+
+
+Paso 2345. Num. abiertos: 1471. Num cerrados: 2346. Nodos creados: 6443. Nodo actual:
+2,3,8,
+1,7,5,
+6,4,0,
+Nodo padre del actual:
+2,3,8,
+1,7,5,
+6,0,4,
+
+
+Paso 2346. Num. abiertos: 1471. Num cerrados: 2347. Nodos creados: 6445. Nodo actual:
+2,3,8,
+1,7,5,
+0,6,4,
+Nodo padre del actual:
+2,3,8,
+1,7,5,
+6,0,4,
+
+
+Paso 2347. Num. abiertos: 1471. Num cerrados: 2348. Nodos creados: 6447. Nodo actual:
+2,8,0,
+1,3,5,
+6,7,4,
+Nodo padre del actual:
+2,0,8,
+1,3,5,
+6,7,4,
+
+
+Paso 2348. Num. abiertos: 1470. Num cerrados: 2349. Nodos creados: 6449. Nodo actual:
+0,2,8,
+1,3,5,
+6,7,4,
+Nodo padre del actual:
+2,0,8,
+1,3,5,
+6,7,4,
+
+
+Paso 2349. Num. abiertos: 1470. Num cerrados: 2350. Nodos creados: 6451. Nodo actual:
+2,3,8,
+6,1,5,
+0,7,4,
+Nodo padre del actual:
+2,3,8,
+0,1,5,
+6,7,4,
+
+
+Paso 2350. Num. abiertos: 1470. Num cerrados: 2351. Nodos creados: 6453. Nodo actual:
+0,3,8,
+2,1,5,
+6,7,4,
+Nodo padre del actual:
+2,3,8,
+0,1,5,
+6,7,4,
+
+
+Paso 2351. Num. abiertos: 1470. Num cerrados: 2352. Nodos creados: 6455. Nodo actual:
+1,7,2,
+5,0,3,
+6,4,8,
+Nodo padre del actual:
+1,0,2,
+5,7,3,
+6,4,8,
+
+
+Paso 2352. Num. abiertos: 1472. Num cerrados: 2353. Nodos creados: 6459. Nodo actual:
+0,1,2,
+5,7,3,
+6,4,8,
+Nodo padre del actual:
+1,0,2,
+5,7,3,
+6,4,8,
+
+
+Paso 2353. Num. abiertos: 1472. Num cerrados: 2354. Nodos creados: 6461. Nodo actual:
+1,2,3,
+5,4,7,
+6,8,0,
+Nodo padre del actual:
+1,2,3,
+5,4,7,
+6,0,8,
+
+
+Paso 2354. Num. abiertos: 1471. Num cerrados: 2355. Nodos creados: 6463. Nodo actual:
+1,2,3,
+5,4,7,
+0,6,8,
+Nodo padre del actual:
+1,2,3,
+5,4,7,
+6,0,8,
+
+
+Paso 2355. Num. abiertos: 1471. Num cerrados: 2356. Nodos creados: 6465. Nodo actual:
+1,3,0,
+5,2,7,
+6,4,8,
+Nodo padre del actual:
+1,0,3,
+5,2,7,
+6,4,8,
+
+
+Paso 2356. Num. abiertos: 1471. Num cerrados: 2357. Nodos creados: 6467. Nodo actual:
+0,1,3,
+5,2,7,
+6,4,8,
+Nodo padre del actual:
+1,0,3,
+5,2,7,
+6,4,8,
+
+
+Paso 2357. Num. abiertos: 1471. Num cerrados: 2358. Nodos creados: 6469. Nodo actual:
+1,2,3,
+6,5,7,
+0,4,8,
+Nodo padre del actual:
+1,2,3,
+0,5,7,
+6,4,8,
+
+
+Paso 2358. Num. abiertos: 1471. Num cerrados: 2359. Nodos creados: 6471. Nodo actual:
+0,2,3,
+1,5,7,
+6,4,8,
+Nodo padre del actual:
+1,2,3,
+0,5,7,
+6,4,8,
+
+
+Paso 2359. Num. abiertos: 1470. Num cerrados: 2360. Nodos creados: 6473. Nodo actual:
+1,3,8,
+5,0,4,
+6,2,7,
+Nodo padre del actual:
+1,3,8,
+5,2,4,
+6,0,7,
+
+
+Paso 2360. Num. abiertos: 1472. Num cerrados: 2361. Nodos creados: 6477. Nodo actual:
+1,3,8,
+5,2,4,
+0,6,7,
+Nodo padre del actual:
+1,3,8,
+5,2,4,
+6,0,7,
+
+
+Paso 2361. Num. abiertos: 1472. Num cerrados: 2362. Nodos creados: 6479. Nodo actual:
+1,3,8,
+5,7,2,
+6,4,0,
+Nodo padre del actual:
+1,3,8,
+5,7,2,
+6,0,4,
+
+
+Paso 2362. Num. abiertos: 1472. Num cerrados: 2363. Nodos creados: 6481. Nodo actual:
+1,3,8,
+5,7,2,
+0,6,4,
+Nodo padre del actual:
+1,3,8,
+5,7,2,
+6,0,4,
+
+
+Paso 2363. Num. abiertos: 1471. Num cerrados: 2364. Nodos creados: 6483. Nodo actual:
+1,8,0,
+5,3,2,
+6,7,4,
+Nodo padre del actual:
+1,0,8,
+5,3,2,
+6,7,4,
+
+
+Paso 2364. Num. abiertos: 1470. Num cerrados: 2365. Nodos creados: 6485. Nodo actual:
+0,1,8,
+5,3,2,
+6,7,4,
+Nodo padre del actual:
+1,0,8,
+5,3,2,
+6,7,4,
+
+
+Paso 2365. Num. abiertos: 1470. Num cerrados: 2366. Nodos creados: 6487. Nodo actual:
+5,1,3,
+6,0,8,
+7,2,4,
+Nodo padre del actual:
+5,1,3,
+6,2,8,
+7,0,4,
+
+
+Paso 2366. Num. abiertos: 1472. Num cerrados: 2367. Nodos creados: 6491. Nodo actual:
+5,1,3,
+6,2,8,
+7,4,0,
+Nodo padre del actual:
+5,1,3,
+6,2,8,
+7,0,4,
+
+
+Paso 2367. Num. abiertos: 1471. Num cerrados: 2368. Nodos creados: 6493. Nodo actual:
+5,1,3,
+2,7,8,
+6,4,0,
+Nodo padre del actual:
+5,1,3,
+2,7,8,
+6,0,4,
+
+
+Paso 2368. Num. abiertos: 1471. Num cerrados: 2369. Nodos creados: 6495. Nodo actual:
+5,1,3,
+2,7,8,
+0,6,4,
+Nodo padre del actual:
+5,1,3,
+2,7,8,
+6,0,4,
+
+
+Paso 2369. Num. abiertos: 1471. Num cerrados: 2370. Nodos creados: 6497. Nodo actual:
+5,1,3,
+2,8,4,
+6,7,0,
+Nodo padre del actual:
+5,1,3,
+2,8,0,
+6,7,4,
+
+
+Paso 2370. Num. abiertos: 1471. Num cerrados: 2371. Nodos creados: 6499. Nodo actual:
+5,1,0,
+2,8,3,
+6,7,4,
+Nodo padre del actual:
+5,1,3,
+2,8,0,
+6,7,4,
+
+
+Paso 2371. Num. abiertos: 1471. Num cerrados: 2372. Nodos creados: 6501. Nodo actual:
+1,3,0,
+5,2,4,
+6,8,7,
+Nodo padre del actual:
+1,0,3,
+5,2,4,
+6,8,7,
+
+
+Paso 2372. Num. abiertos: 1471. Num cerrados: 2373. Nodos creados: 6503. Nodo actual:
+0,1,3,
+5,2,4,
+6,8,7,
+Nodo padre del actual:
+1,0,3,
+5,2,4,
+6,8,7,
+
+
+Paso 2373. Num. abiertos: 1471. Num cerrados: 2374. Nodos creados: 6505. Nodo actual:
+1,2,0,
+5,4,3,
+6,8,7,
+Nodo padre del actual:
+1,2,3,
+5,4,0,
+6,8,7,
+
+
+Paso 2374. Num. abiertos: 1471. Num cerrados: 2375. Nodos creados: 6507. Nodo actual:
+1,2,3,
+6,5,4,
+0,8,7,
+Nodo padre del actual:
+1,2,3,
+0,5,4,
+6,8,7,
+
+
+Paso 2375. Num. abiertos: 1471. Num cerrados: 2376. Nodos creados: 6509. Nodo actual:
+0,2,3,
+1,5,4,
+6,8,7,
+Nodo padre del actual:
+1,2,3,
+0,5,4,
+6,8,7,
+
+
+Paso 2376. Num. abiertos: 1470. Num cerrados: 2377. Nodos creados: 6511. Nodo actual:
+0,2,3,
+1,8,4,
+5,6,7,
+Nodo padre del actual:
+1,2,3,
+0,8,4,
+5,6,7,
+
+
+Paso 2377. Num. abiertos: 1470. Num cerrados: 2378. Nodos creados: 6513. Nodo actual:
+1,2,3,
+8,0,4,
+5,6,7,
+Nodo padre del actual:
+1,2,3,
+0,8,4,
+5,6,7,
+
+
+Paso 2378. Num. abiertos: 1472. Num cerrados: 2379. Nodos creados: 6517. Nodo actual:
+1,8,2,
+5,7,3,
+6,4,0,
+Nodo padre del actual:
+1,8,2,
+5,7,3,
+6,0,4,
+
+
+Paso 2379. Num. abiertos: 1472. Num cerrados: 2380. Nodos creados: 6519. Nodo actual:
+1,8,2,
+5,7,3,
+0,6,4,
+Nodo padre del actual:
+1,8,2,
+5,7,3,
+6,0,4,
+
+
+Paso 2380. Num. abiertos: 1471. Num cerrados: 2381. Nodos creados: 6521. Nodo actual:
+1,8,2,
+5,3,4,
+6,7,0,
+Nodo padre del actual:
+1,8,2,
+5,3,0,
+6,7,4,
+
+
+Paso 2381. Num. abiertos: 1471. Num cerrados: 2382. Nodos creados: 6523. Nodo actual:
+5,1,2,
+6,8,3,
+0,7,4,
+Nodo padre del actual:
+5,1,2,
+0,8,3,
+6,7,4,
+
+
+Paso 2382. Num. abiertos: 1471. Num cerrados: 2383. Nodos creados: 6525. Nodo actual:
+5,1,2,
+8,0,3,
+6,7,4,
+Nodo padre del actual:
+5,1,2,
+0,8,3,
+6,7,4,
+
+
+Paso 2383. Num. abiertos: 1473. Num cerrados: 2384. Nodos creados: 6529. Nodo actual:
+1,4,5,
+6,8,2,
+7,3,0,
+Nodo padre del actual:
+1,4,5,
+6,8,2,
+7,0,3,
+
+
+Paso 2384. Num. abiertos: 1473. Num cerrados: 2385. Nodos creados: 6531. Nodo actual:
+1,4,5,
+6,8,2,
+0,7,3,
+Nodo padre del actual:
+1,4,5,
+6,8,2,
+7,0,3,
+
+
+Paso 2385. Num. abiertos: 1473. Num cerrados: 2386. Nodos creados: 6533. Nodo actual:
+1,4,5,
+6,2,3,
+7,8,0,
+Nodo padre del actual:
+1,4,5,
+6,2,0,
+7,8,3,
+
+
+Paso 2386. Num. abiertos: 1473. Num cerrados: 2387. Nodos creados: 6535. Nodo actual:
+1,4,0,
+6,2,5,
+7,8,3,
+Nodo padre del actual:
+1,4,5,
+6,2,0,
+7,8,3,
+
+
+Paso 2387. Num. abiertos: 1473. Num cerrados: 2388. Nodos creados: 6537. Nodo actual:
+1,4,5,
+7,6,2,
+0,8,3,
+Nodo padre del actual:
+1,4,5,
+0,6,2,
+7,8,3,
+
+
+Paso 2388. Num. abiertos: 1473. Num cerrados: 2389. Nodos creados: 6539. Nodo actual:
+0,4,5,
+1,6,2,
+7,8,3,
+Nodo padre del actual:
+1,4,5,
+0,6,2,
+7,8,3,
+
+
+Paso 2389. Num. abiertos: 1473. Num cerrados: 2390. Nodos creados: 6541. Nodo actual:
+6,1,5,
+7,4,2,
+0,8,3,
+Nodo padre del actual:
+6,1,5,
+0,4,2,
+7,8,3,
+
+
+Paso 2390. Num. abiertos: 1473. Num cerrados: 2391. Nodos creados: 6543. Nodo actual:
+6,1,5,
+4,0,2,
+7,8,3,
+Nodo padre del actual:
+6,1,5,
+0,4,2,
+7,8,3,
+
+
+Paso 2391. Num. abiertos: 1475. Num cerrados: 2392. Nodos creados: 6547. Nodo actual:
+0,5,2,
+1,8,4,
+6,7,3,
+Nodo padre del actual:
+1,5,2,
+0,8,4,
+6,7,3,
+
+
+Paso 2392. Num. abiertos: 1475. Num cerrados: 2393. Nodos creados: 6549. Nodo actual:
+1,5,2,
+8,0,4,
+6,7,3,
+Nodo padre del actual:
+1,5,2,
+0,8,4,
+6,7,3,
+
+
+Paso 2393. Num. abiertos: 1477. Num cerrados: 2394. Nodos creados: 6553. Nodo actual:
+1,2,4,
+6,5,3,
+7,8,0,
+Nodo padre del actual:
+1,2,4,
+6,5,0,
+7,8,3,
+
+
+Paso 2394. Num. abiertos: 1476. Num cerrados: 2395. Nodos creados: 6555. Nodo actual:
+1,2,4,
+6,0,5,
+7,8,3,
+Nodo padre del actual:
+1,2,4,
+6,5,0,
+7,8,3,
+
+
+Paso 2395. Num. abiertos: 1477. Num cerrados: 2396. Nodos creados: 6559. Nodo actual:
+6,1,2,
+7,5,4,
+0,8,3,
+Nodo padre del actual:
+6,1,2,
+0,5,4,
+7,8,3,
+
+
+Paso 2396. Num. abiertos: 1476. Num cerrados: 2397. Nodos creados: 6561. Nodo actual:
+1,5,2,
+7,0,4,
+8,6,3,
+Nodo padre del actual:
+1,5,2,
+7,6,4,
+8,0,3,
+
+
+Paso 2397. Num. abiertos: 1478. Num cerrados: 2398. Nodos creados: 6565. Nodo actual:
+1,5,2,
+7,6,4,
+8,3,0,
+Nodo padre del actual:
+1,5,2,
+7,6,4,
+8,0,3,
+
+
+Paso 2398. Num. abiertos: 1478. Num cerrados: 2399. Nodos creados: 6567. Nodo actual:
+5,6,2,
+1,0,4,
+7,8,3,
+Nodo padre del actual:
+5,0,2,
+1,6,4,
+7,8,3,
+
+
+Paso 2399. Num. abiertos: 1479. Num cerrados: 2400. Nodos creados: 6571. Nodo actual:
+5,2,0,
+1,6,4,
+7,8,3,
+Nodo padre del actual:
+5,0,2,
+1,6,4,
+7,8,3,
+
+
+Paso 2400. Num. abiertos: 1479. Num cerrados: 2401. Nodos creados: 6573. Nodo actual:
+5,4,2,
+1,7,3,
+6,8,0,
+Nodo padre del actual:
+5,4,2,
+1,7,3,
+6,0,8,
+
+
+Paso 2401. Num. abiertos: 1479. Num cerrados: 2402. Nodos creados: 6575. Nodo actual:
+5,4,2,
+1,7,3,
+0,6,8,
+Nodo padre del actual:
+5,4,2,
+1,7,3,
+6,0,8,
+
+
+Paso 2402. Num. abiertos: 1479. Num cerrados: 2403. Nodos creados: 6577. Nodo actual:
+5,4,2,
+1,3,8,
+6,7,0,
+Nodo padre del actual:
+5,4,2,
+1,3,0,
+6,7,8,
+
+
+Paso 2403. Num. abiertos: 1479. Num cerrados: 2404. Nodos creados: 6579. Nodo actual:
+5,4,0,
+1,3,2,
+6,7,8,
+Nodo padre del actual:
+5,4,2,
+1,3,0,
+6,7,8,
+
+
+Paso 2404. Num. abiertos: 1479. Num cerrados: 2405. Nodos creados: 6581. Nodo actual:
+5,4,2,
+6,1,3,
+0,7,8,
+Nodo padre del actual:
+5,4,2,
+0,1,3,
+6,7,8,
+
+
+Paso 2405. Num. abiertos: 1479. Num cerrados: 2406. Nodos creados: 6583. Nodo actual:
+5,2,3,
+1,4,8,
+6,7,0,
+Nodo padre del actual:
+5,2,3,
+1,4,0,
+6,7,8,
+
+
+Paso 2406. Num. abiertos: 1479. Num cerrados: 2407. Nodos creados: 6585. Nodo actual:
+5,2,3,
+1,0,4,
+6,7,8,
+Nodo padre del actual:
+5,2,3,
+1,4,0,
+6,7,8,
+
+
+Paso 2407. Num. abiertos: 1481. Num cerrados: 2408. Nodos creados: 6589. Nodo actual:
+1,2,8,
+6,5,4,
+7,3,0,
+Nodo padre del actual:
+1,2,8,
+6,5,0,
+7,3,4,
+
+
+Paso 2408. Num. abiertos: 1481. Num cerrados: 2409. Nodos creados: 6591. Nodo actual:
+1,2,8,
+6,0,5,
+7,3,4,
+Nodo padre del actual:
+1,2,8,
+6,5,0,
+7,3,4,
+
+
+Paso 2409. Num. abiertos: 1483. Num cerrados: 2410. Nodos creados: 6595. Nodo actual:
+6,1,2,
+7,5,8,
+0,3,4,
+Nodo padre del actual:
+6,1,2,
+0,5,8,
+7,3,4,
+
+
+Paso 2410. Num. abiertos: 1483. Num cerrados: 2411. Nodos creados: 6597. Nodo actual:
+1,8,5,
+6,0,2,
+7,3,4,
+Nodo padre del actual:
+1,0,5,
+6,8,2,
+7,3,4,
+
+
+Paso 2411. Num. abiertos: 1485. Num cerrados: 2412. Nodos creados: 6601. Nodo actual:
+0,1,5,
+6,8,2,
+7,3,4,
+Nodo padre del actual:
+1,0,5,
+6,8,2,
+7,3,4,
+
+
+Paso 2412. Num. abiertos: 1485. Num cerrados: 2413. Nodos creados: 6603. Nodo actual:
+1,5,2,
+7,0,8,
+3,6,4,
+Nodo padre del actual:
+1,5,2,
+7,6,8,
+3,0,4,
+
+
+Paso 2413. Num. abiertos: 1487. Num cerrados: 2414. Nodos creados: 6607. Nodo actual:
+1,5,2,
+7,6,8,
+3,4,0,
+Nodo padre del actual:
+1,5,2,
+7,6,8,
+3,0,4,
+
+
+Paso 2414. Num. abiertos: 1487. Num cerrados: 2415. Nodos creados: 6609. Nodo actual:
+5,6,2,
+1,0,8,
+7,3,4,
+Nodo padre del actual:
+5,0,2,
+1,6,8,
+7,3,4,
+
+
+Paso 2415. Num. abiertos: 1488. Num cerrados: 2416. Nodos creados: 6613. Nodo actual:
+5,2,0,
+1,6,8,
+7,3,4,
+Nodo padre del actual:
+5,0,2,
+1,6,8,
+7,3,4,
+
+
+Paso 2416. Num. abiertos: 1488. Num cerrados: 2417. Nodos creados: 6615. Nodo actual:
+5,3,2,
+1,0,8,
+6,7,4,
+Nodo padre del actual:
+5,0,2,
+1,3,8,
+6,7,4,
+
+
+Paso 2417. Num. abiertos: 1490. Num cerrados: 2418. Nodos creados: 6619. Nodo actual:
+5,2,0,
+1,3,8,
+6,7,4,
+Nodo padre del actual:
+5,0,2,
+1,3,8,
+6,7,4,
+
+
+Paso 2418. Num. abiertos: 1490. Num cerrados: 2419. Nodos creados: 6621. Nodo actual:
+1,5,2,
+3,7,8,
+6,4,0,
+Nodo padre del actual:
+1,5,2,
+3,7,8,
+6,0,4,
+
+
+Paso 2419. Num. abiertos: 1490. Num cerrados: 2420. Nodos creados: 6623. Nodo actual:
+1,5,2,
+3,7,8,
+0,6,4,
+Nodo padre del actual:
+1,5,2,
+3,7,8,
+6,0,4,
+
+
+Paso 2420. Num. abiertos: 1489. Num cerrados: 2421. Nodos creados: 6625. Nodo actual:
+1,2,0,
+3,5,8,
+6,7,4,
+Nodo padre del actual:
+1,0,2,
+3,5,8,
+6,7,4,
+
+
+Paso 2421. Num. abiertos: 1489. Num cerrados: 2422. Nodos creados: 6627. Nodo actual:
+0,1,2,
+3,5,8,
+6,7,4,
+Nodo padre del actual:
+1,0,2,
+3,5,8,
+6,7,4,
+
+
+Paso 2422. Num. abiertos: 1489. Num cerrados: 2423. Nodos creados: 6629. Nodo actual:
+1,5,2,
+3,8,4,
+6,7,0,
+Nodo padre del actual:
+1,5,2,
+3,8,0,
+6,7,4,
+
+
+Paso 2423. Num. abiertos: 1489. Num cerrados: 2424. Nodos creados: 6631. Nodo actual:
+1,5,0,
+3,8,2,
+6,7,4,
+Nodo padre del actual:
+1,5,2,
+3,8,0,
+6,7,4,
+
+
+Paso 2424. Num. abiertos: 1489. Num cerrados: 2425. Nodos creados: 6633. Nodo actual:
+1,5,2,
+7,0,8,
+4,3,6,
+Nodo padre del actual:
+1,5,2,
+7,3,8,
+4,0,6,
+
+
+Paso 2425. Num. abiertos: 1491. Num cerrados: 2426. Nodos creados: 6637. Nodo actual:
+1,5,2,
+7,3,8,
+0,4,6,
+Nodo padre del actual:
+1,5,2,
+7,3,8,
+4,0,6,
+
+
+Paso 2426. Num. abiertos: 1491. Num cerrados: 2427. Nodos creados: 6639. Nodo actual:
+5,7,2,
+1,0,3,
+4,6,8,
+Nodo padre del actual:
+5,0,2,
+1,7,3,
+4,6,8,
+
+
+Paso 2427. Num. abiertos: 1493. Num cerrados: 2428. Nodos creados: 6643. Nodo actual:
+5,2,0,
+1,7,3,
+4,6,8,
+Nodo padre del actual:
+5,0,2,
+1,7,3,
+4,6,8,
+
+
+Paso 2428. Num. abiertos: 1493. Num cerrados: 2429. Nodos creados: 6645. Nodo actual:
+1,6,5,
+7,0,2,
+4,8,3,
+Nodo padre del actual:
+1,0,5,
+7,6,2,
+4,8,3,
+
+
+Paso 2429. Num. abiertos: 1495. Num cerrados: 2430. Nodos creados: 6649. Nodo actual:
+0,1,5,
+7,6,2,
+4,8,3,
+Nodo padre del actual:
+1,0,5,
+7,6,2,
+4,8,3,
+
+
+Paso 2430. Num. abiertos: 1495. Num cerrados: 2431. Nodos creados: 6651. Nodo actual:
+1,5,2,
+7,8,6,
+4,3,0,
+Nodo padre del actual:
+1,5,2,
+7,8,6,
+4,0,3,
+
+
+Paso 2431. Num. abiertos: 1494. Num cerrados: 2432. Nodos creados: 6653. Nodo actual:
+1,5,2,
+7,8,6,
+0,4,3,
+Nodo padre del actual:
+1,5,2,
+7,8,6,
+4,0,3,
+
+
+Paso 2432. Num. abiertos: 1494. Num cerrados: 2433. Nodos creados: 6655. Nodo actual:
+1,2,0,
+7,5,6,
+4,8,3,
+Nodo padre del actual:
+1,0,2,
+7,5,6,
+4,8,3,
+
+
+Paso 2433. Num. abiertos: 1494. Num cerrados: 2434. Nodos creados: 6657. Nodo actual:
+0,1,2,
+7,5,6,
+4,8,3,
+Nodo padre del actual:
+1,0,2,
+7,5,6,
+4,8,3,
+
+
+Paso 2434. Num. abiertos: 1494. Num cerrados: 2435. Nodos creados: 6659. Nodo actual:
+1,5,2,
+4,7,6,
+0,8,3,
+Nodo padre del actual:
+1,5,2,
+0,7,6,
+4,8,3,
+
+
+Paso 2435. Num. abiertos: 1494. Num cerrados: 2436. Nodos creados: 6661. Nodo actual:
+0,5,2,
+1,7,6,
+4,8,3,
+Nodo padre del actual:
+1,5,2,
+0,7,6,
+4,8,3,
+
+
+Paso 2436. Num. abiertos: 1494. Num cerrados: 2437. Nodos creados: 6663. Nodo actual:
+5,6,0,
+1,4,2,
+7,8,3,
+Nodo padre del actual:
+5,6,2,
+1,4,0,
+7,8,3,
+
+
+Paso 2437. Num. abiertos: 1494. Num cerrados: 2438. Nodos creados: 6665. Nodo actual:
+0,6,2,
+5,4,3,
+1,7,8,
+Nodo padre del actual:
+5,6,2,
+0,4,3,
+1,7,8,
+
+
+Paso 2438. Num. abiertos: 1494. Num cerrados: 2439. Nodos creados: 6667. Nodo actual:
+5,6,2,
+4,0,3,
+1,7,8,
+Nodo padre del actual:
+5,6,2,
+0,4,3,
+1,7,8,
+
+
+Paso 2439. Num. abiertos: 1496. Num cerrados: 2440. Nodos creados: 6671. Nodo actual:
+5,6,2,
+1,3,8,
+0,7,4,
+Nodo padre del actual:
+5,6,2,
+1,3,8,
+7,0,4,
+
+
+Paso 2440. Num. abiertos: 1496. Num cerrados: 2441. Nodos creados: 6673. Nodo actual:
+5,3,6,
+1,0,2,
+7,4,8,
+Nodo padre del actual:
+5,0,6,
+1,3,2,
+7,4,8,
+
+
+Paso 2441. Num. abiertos: 1498. Num cerrados: 2442. Nodos creados: 6677. Nodo actual:
+0,5,6,
+1,3,2,
+7,4,8,
+Nodo padre del actual:
+5,0,6,
+1,3,2,
+7,4,8,
+
+
+Paso 2442. Num. abiertos: 1498. Num cerrados: 2443. Nodos creados: 6679. Nodo actual:
+5,6,2,
+7,0,3,
+4,1,8,
+Nodo padre del actual:
+5,6,2,
+7,1,3,
+4,0,8,
+
+
+Paso 2443. Num. abiertos: 1500. Num cerrados: 2444. Nodos creados: 6683. Nodo actual:
+5,6,2,
+7,1,3,
+4,8,0,
+Nodo padre del actual:
+5,6,2,
+7,1,3,
+4,0,8,
+
+
+Paso 2444. Num. abiertos: 1500. Num cerrados: 2445. Nodos creados: 6685. Nodo actual:
+5,2,3,
+1,0,8,
+7,6,4,
+Nodo padre del actual:
+5,2,3,
+1,6,8,
+7,0,4,
+
+
+Paso 2445. Num. abiertos: 1502. Num cerrados: 2446. Nodos creados: 6689. Nodo actual:
+5,2,3,
+1,6,8,
+0,7,4,
+Nodo padre del actual:
+5,2,3,
+1,6,8,
+7,0,4,
+
+
+Paso 2446. Num. abiertos: 1502. Num cerrados: 2447. Nodos creados: 6691. Nodo actual:
+5,2,3,
+1,4,6,
+7,8,0,
+Nodo padre del actual:
+5,2,3,
+1,4,6,
+7,0,8,
+
+
+Paso 2447. Num. abiertos: 1502. Num cerrados: 2448. Nodos creados: 6693. Nodo actual:
+5,2,3,
+1,4,6,
+0,7,8,
+Nodo padre del actual:
+5,2,3,
+1,4,6,
+7,0,8,
+
+
+Paso 2448. Num. abiertos: 1502. Num cerrados: 2449. Nodos creados: 6695. Nodo actual:
+5,3,0,
+1,2,6,
+7,4,8,
+Nodo padre del actual:
+5,0,3,
+1,2,6,
+7,4,8,
+
+
+Paso 2449. Num. abiertos: 1501. Num cerrados: 2450. Nodos creados: 6697. Nodo actual:
+0,5,3,
+1,2,6,
+7,4,8,
+Nodo padre del actual:
+5,0,3,
+1,2,6,
+7,4,8,
+
+
+Paso 2450. Num. abiertos: 1501. Num cerrados: 2451. Nodos creados: 6699. Nodo actual:
+5,2,3,
+7,1,6,
+0,4,8,
+Nodo padre del actual:
+5,2,3,
+0,1,6,
+7,4,8,
+
+
+Paso 2451. Num. abiertos: 1501. Num cerrados: 2452. Nodos creados: 6701. Nodo actual:
+0,2,3,
+5,1,6,
+7,4,8,
+Nodo padre del actual:
+5,2,3,
+0,1,6,
+7,4,8,
+
+
+Paso 2452. Num. abiertos: 1501. Num cerrados: 2453. Nodos creados: 6703. Nodo actual:
+6,2,3,
+7,1,8,
+4,5,0,
+Nodo padre del actual:
+6,2,3,
+7,1,0,
+4,5,8,
+
+
+Paso 2453. Num. abiertos: 1501. Num cerrados: 2454. Nodos creados: 6705. Nodo actual:
+6,2,3,
+7,0,1,
+4,5,8,
+Nodo padre del actual:
+6,2,3,
+7,1,0,
+4,5,8,
+
+
+Paso 2454. Num. abiertos: 1503. Num cerrados: 2455. Nodos creados: 6709. Nodo actual:
+7,6,2,
+4,1,3,
+0,5,8,
+Nodo padre del actual:
+7,6,2,
+0,1,3,
+4,5,8,
+
+
+Paso 2455. Num. abiertos: 1503. Num cerrados: 2456. Nodos creados: 6711. Nodo actual:
+7,6,2,
+1,0,3,
+4,5,8,
+Nodo padre del actual:
+7,6,2,
+0,1,3,
+4,5,8,
+
+
+Paso 2456. Num. abiertos: 1505. Num cerrados: 2457. Nodos creados: 6715. Nodo actual:
+6,1,2,
+7,0,8,
+4,3,5,
+Nodo padre del actual:
+6,1,2,
+7,3,8,
+4,0,5,
+
+
+Paso 2457. Num. abiertos: 1507. Num cerrados: 2458. Nodos creados: 6719. Nodo actual:
+6,1,2,
+7,3,8,
+0,4,5,
+Nodo padre del actual:
+6,1,2,
+7,3,8,
+4,0,5,
+
+
+Paso 2458. Num. abiertos: 1507. Num cerrados: 2459. Nodos creados: 6721. Nodo actual:
+6,3,1,
+7,0,2,
+4,5,8,
+Nodo padre del actual:
+6,0,1,
+7,3,2,
+4,5,8,
+
+
+Paso 2459. Num. abiertos: 1509. Num cerrados: 2460. Nodos creados: 6725. Nodo actual:
+0,6,1,
+7,3,2,
+4,5,8,
+Nodo padre del actual:
+6,0,1,
+7,3,2,
+4,5,8,
+
+
+Paso 2460. Num. abiertos: 1509. Num cerrados: 2461. Nodos creados: 6727. Nodo actual:
+6,1,2,
+4,7,3,
+5,8,0,
+Nodo padre del actual:
+6,1,2,
+4,7,3,
+5,0,8,
+
+
+Paso 2461. Num. abiertos: 1509. Num cerrados: 2462. Nodos creados: 6729. Nodo actual:
+1,7,2,
+6,0,3,
+4,5,8,
+Nodo padre del actual:
+1,0,2,
+6,7,3,
+4,5,8,
+
+
+Paso 2462. Num. abiertos: 1511. Num cerrados: 2463. Nodos creados: 6733. Nodo actual:
+1,2,0,
+6,7,3,
+4,5,8,
+Nodo padre del actual:
+1,0,2,
+6,7,3,
+4,5,8,
+
+
+Paso 2463. Num. abiertos: 1511. Num cerrados: 2464. Nodos creados: 6735. Nodo actual:
+6,5,1,
+7,0,2,
+4,8,3,
+Nodo padre del actual:
+6,0,1,
+7,5,2,
+4,8,3,
+
+
+Paso 2464. Num. abiertos: 1512. Num cerrados: 2465. Nodos creados: 6739. Nodo actual:
+0,6,1,
+7,5,2,
+4,8,3,
+Nodo padre del actual:
+6,0,1,
+7,5,2,
+4,8,3,
+
+
+Paso 2465. Num. abiertos: 1512. Num cerrados: 2466. Nodos creados: 6741. Nodo actual:
+6,1,2,
+7,8,5,
+4,3,0,
+Nodo padre del actual:
+6,1,2,
+7,8,5,
+4,0,3,
+
+
+Paso 2466. Num. abiertos: 1511. Num cerrados: 2467. Nodos creados: 6743. Nodo actual:
+6,1,2,
+7,8,5,
+0,4,3,
+Nodo padre del actual:
+6,1,2,
+7,8,5,
+4,0,3,
+
+
+Paso 2467. Num. abiertos: 1511. Num cerrados: 2468. Nodos creados: 6745. Nodo actual:
+6,2,0,
+7,1,5,
+4,8,3,
+Nodo padre del actual:
+6,0,2,
+7,1,5,
+4,8,3,
+
+
+Paso 2468. Num. abiertos: 1511. Num cerrados: 2469. Nodos creados: 6747. Nodo actual:
+0,6,2,
+7,1,5,
+4,8,3,
+Nodo padre del actual:
+6,0,2,
+7,1,5,
+4,8,3,
+
+
+Paso 2469. Num. abiertos: 1511. Num cerrados: 2470. Nodos creados: 6749. Nodo actual:
+6,1,2,
+4,7,5,
+0,8,3,
+Nodo padre del actual:
+6,1,2,
+0,7,5,
+4,8,3,
+
+
+Paso 2470. Num. abiertos: 1511. Num cerrados: 2471. Nodos creados: 6751. Nodo actual:
+0,1,2,
+6,7,5,
+4,8,3,
+Nodo padre del actual:
+6,1,2,
+0,7,5,
+4,8,3,
+
+
+Paso 2471. Num. abiertos: 1511. Num cerrados: 2472. Nodos creados: 6753. Nodo actual:
+6,4,1,
+5,0,2,
+7,8,3,
+Nodo padre del actual:
+6,0,1,
+5,4,2,
+7,8,3,
+
+
+Paso 2472. Num. abiertos: 1513. Num cerrados: 2473. Nodos creados: 6757. Nodo actual:
+0,6,1,
+5,4,2,
+7,8,3,
+Nodo padre del actual:
+6,0,1,
+5,4,2,
+7,8,3,
+
+
+Paso 2473. Num. abiertos: 1513. Num cerrados: 2474. Nodos creados: 6759. Nodo actual:
+6,1,2,
+5,8,4,
+7,3,0,
+Nodo padre del actual:
+6,1,2,
+5,8,4,
+7,0,3,
+
+
+Paso 2474. Num. abiertos: 1512. Num cerrados: 2475. Nodos creados: 6761. Nodo actual:
+6,1,2,
+5,8,4,
+0,7,3,
+Nodo padre del actual:
+6,1,2,
+5,8,4,
+7,0,3,
+
+
+Paso 2475. Num. abiertos: 1512. Num cerrados: 2476. Nodos creados: 6763. Nodo actual:
+6,2,0,
+5,1,4,
+7,8,3,
+Nodo padre del actual:
+6,0,2,
+5,1,4,
+7,8,3,
+
+
+Paso 2476. Num. abiertos: 1512. Num cerrados: 2477. Nodos creados: 6765. Nodo actual:
+0,6,2,
+5,1,4,
+7,8,3,
+Nodo padre del actual:
+6,0,2,
+5,1,4,
+7,8,3,
+
+
+Paso 2477. Num. abiertos: 1511. Num cerrados: 2478. Nodos creados: 6767. Nodo actual:
+1,4,2,
+6,0,3,
+5,7,8,
+Nodo padre del actual:
+1,0,2,
+6,4,3,
+5,7,8,
+
+
+Paso 2478. Num. abiertos: 1513. Num cerrados: 2479. Nodos creados: 6771. Nodo actual:
+1,2,0,
+6,4,3,
+5,7,8,
+Nodo padre del actual:
+1,0,2,
+6,4,3,
+5,7,8,
+
+
+Paso 2479. Num. abiertos: 1512. Num cerrados: 2480. Nodos creados: 6773. Nodo actual:
+6,2,0,
+4,1,3,
+5,7,8,
+Nodo padre del actual:
+6,0,2,
+4,1,3,
+5,7,8,
+
+
+Paso 2480. Num. abiertos: 1512. Num cerrados: 2481. Nodos creados: 6775. Nodo actual:
+0,6,2,
+4,1,3,
+5,7,8,
+Nodo padre del actual:
+6,0,2,
+4,1,3,
+5,7,8,
+
+
+Paso 2481. Num. abiertos: 1512. Num cerrados: 2482. Nodos creados: 6777. Nodo actual:
+6,1,2,
+4,3,8,
+5,7,0,
+Nodo padre del actual:
+6,1,2,
+4,3,0,
+5,7,8,
+
+
+Paso 2482. Num. abiertos: 1512. Num cerrados: 2483. Nodos creados: 6779. Nodo actual:
+6,1,0,
+4,3,2,
+5,7,8,
+Nodo padre del actual:
+6,1,2,
+4,3,0,
+5,7,8,
+
+
+Paso 2483. Num. abiertos: 1512. Num cerrados: 2484. Nodos creados: 6781. Nodo actual:
+6,2,3,
+5,0,8,
+7,1,4,
+Nodo padre del actual:
+6,2,3,
+5,1,8,
+7,0,4,
+
+
+Paso 2484. Num. abiertos: 1514. Num cerrados: 2485. Nodos creados: 6785. Nodo actual:
+6,2,3,
+5,1,8,
+0,7,4,
+Nodo padre del actual:
+6,2,3,
+5,1,8,
+7,0,4,
+
+
+Paso 2485. Num. abiertos: 1514. Num cerrados: 2486. Nodos creados: 6787. Nodo actual:
+6,2,3,
+5,4,1,
+7,8,0,
+Nodo padre del actual:
+6,2,3,
+5,4,1,
+7,0,8,
+
+
+Paso 2486. Num. abiertos: 1514. Num cerrados: 2487. Nodos creados: 6789. Nodo actual:
+6,2,3,
+5,4,1,
+0,7,8,
+Nodo padre del actual:
+6,2,3,
+5,4,1,
+7,0,8,
+
+
+Paso 2487. Num. abiertos: 1514. Num cerrados: 2488. Nodos creados: 6791. Nodo actual:
+6,3,0,
+5,2,1,
+7,4,8,
+Nodo padre del actual:
+6,0,3,
+5,2,1,
+7,4,8,
+
+
+Paso 2488. Num. abiertos: 1513. Num cerrados: 2489. Nodos creados: 6793. Nodo actual:
+0,6,3,
+5,2,1,
+7,4,8,
+Nodo padre del actual:
+6,0,3,
+5,2,1,
+7,4,8,
+
+
+Paso 2489. Num. abiertos: 1513. Num cerrados: 2490. Nodos creados: 6795. Nodo actual:
+6,2,3,
+7,5,1,
+0,4,8,
+Nodo padre del actual:
+6,2,3,
+0,5,1,
+7,4,8,
+
+
+Paso 2490. Num. abiertos: 1512. Num cerrados: 2491. Nodos creados: 6797. Nodo actual:
+0,2,3,
+6,5,1,
+7,4,8,
+Nodo padre del actual:
+6,2,3,
+0,5,1,
+7,4,8,
+
+
+Paso 2491. Num. abiertos: 1512. Num cerrados: 2492. Nodos creados: 6799. Nodo actual:
+6,2,0,
+5,1,8,
+7,3,4,
+Nodo padre del actual:
+6,0,2,
+5,1,8,
+7,3,4,
+
+
+Paso 2492. Num. abiertos: 1512. Num cerrados: 2493. Nodos creados: 6801. Nodo actual:
+0,6,2,
+5,1,8,
+7,3,4,
+Nodo padre del actual:
+6,0,2,
+5,1,8,
+7,3,4,
+
+
+Paso 2493. Num. abiertos: 1511. Num cerrados: 2494. Nodos creados: 6803. Nodo actual:
+6,1,0,
+5,8,2,
+7,3,4,
+Nodo padre del actual:
+6,1,2,
+5,8,0,
+7,3,4,
+
+
+Paso 2494. Num. abiertos: 1511. Num cerrados: 2495. Nodos creados: 6805. Nodo actual:
+0,1,2,
+6,3,8,
+5,7,4,
+Nodo padre del actual:
+6,1,2,
+0,3,8,
+5,7,4,
+
+
+Paso 2495. Num. abiertos: 1511. Num cerrados: 2496. Nodos creados: 6807. Nodo actual:
+6,1,2,
+3,0,8,
+5,7,4,
+Nodo padre del actual:
+6,1,2,
+0,3,8,
+5,7,4,
+
+
+Paso 2496. Num. abiertos: 1513. Num cerrados: 2497. Nodos creados: 6811. Nodo actual:
+6,3,1,
+5,4,2,
+7,8,0,
+Nodo padre del actual:
+6,3,1,
+5,4,2,
+7,0,8,
+
+
+Paso 2497. Num. abiertos: 1513. Num cerrados: 2498. Nodos creados: 6813. Nodo actual:
+6,3,1,
+5,4,2,
+0,7,8,
+Nodo padre del actual:
+6,3,1,
+5,4,2,
+7,0,8,
+
+
+Paso 2498. Num. abiertos: 1513. Num cerrados: 2499. Nodos creados: 6815. Nodo actual:
+6,3,1,
+5,2,8,
+7,4,0,
+Nodo padre del actual:
+6,3,1,
+5,2,0,
+7,4,8,
+
+
+Paso 2499. Num. abiertos: 1513. Num cerrados: 2500. Nodos creados: 6817. Nodo actual:
+6,3,1,
+7,5,2,
+0,4,8,
+Nodo padre del actual:
+6,3,1,
+0,5,2,
+7,4,8,
+
+
+Paso 2500. Num. abiertos: 1512. Num cerrados: 2501. Nodos creados: 6819. Nodo actual:
+0,3,1,
+6,5,2,
+7,4,8,
+Nodo padre del actual:
+6,3,1,
+0,5,2,
+7,4,8,
+
+
+Paso 2501. Num. abiertos: 1512. Num cerrados: 2502. Nodos creados: 6821. Nodo actual:
+5,6,1,
+7,3,2,
+0,4,8,
+Nodo padre del actual:
+5,6,1,
+0,3,2,
+7,4,8,
+
+
+Paso 2502. Num. abiertos: 1512. Num cerrados: 2503. Nodos creados: 6823. Nodo actual:
+5,6,1,
+3,0,2,
+7,4,8,
+Nodo padre del actual:
+5,6,1,
+0,3,2,
+7,4,8,
+
+
+Paso 2503. Num. abiertos: 1514. Num cerrados: 2504. Nodos creados: 6827. Nodo actual:
+1,5,0,
+7,3,8,
+4,2,6,
+Nodo padre del actual:
+1,0,5,
+7,3,8,
+4,2,6,
+
+
+Paso 2504. Num. abiertos: 1514. Num cerrados: 2505. Nodos creados: 6829. Nodo actual:
+0,1,5,
+7,3,8,
+4,2,6,
+Nodo padre del actual:
+1,0,5,
+7,3,8,
+4,2,6,
+
+
+Paso 2505. Num. abiertos: 1514. Num cerrados: 2506. Nodos creados: 6831. Nodo actual:
+1,3,0,
+7,8,5,
+4,2,6,
+Nodo padre del actual:
+1,3,5,
+7,8,0,
+4,2,6,
+
+
+Paso 2506. Num. abiertos: 1514. Num cerrados: 2507. Nodos creados: 6833. Nodo actual:
+1,3,5,
+4,7,8,
+0,2,6,
+Nodo padre del actual:
+1,3,5,
+0,7,8,
+4,2,6,
+
+
+Paso 2507. Num. abiertos: 1514. Num cerrados: 2508. Nodos creados: 6835. Nodo actual:
+0,3,5,
+1,7,8,
+4,2,6,
+Nodo padre del actual:
+1,3,5,
+0,7,8,
+4,2,6,
+
+
+Paso 2508. Num. abiertos: 1514. Num cerrados: 2509. Nodos creados: 6837. Nodo actual:
+0,3,5,
+1,2,8,
+7,4,6,
+Nodo padre del actual:
+1,3,5,
+0,2,8,
+7,4,6,
+
+
+Paso 2509. Num. abiertos: 1514. Num cerrados: 2510. Nodos creados: 6839. Nodo actual:
+1,3,5,
+2,0,8,
+7,4,6,
+Nodo padre del actual:
+1,3,5,
+0,2,8,
+7,4,6,
+
+
+Paso 2510. Num. abiertos: 1516. Num cerrados: 2511. Nodos creados: 6843. Nodo actual:
+7,3,0,
+4,1,5,
+6,2,8,
+Nodo padre del actual:
+7,0,3,
+4,1,5,
+6,2,8,
+
+
+Paso 2511. Num. abiertos: 1516. Num cerrados: 2512. Nodos creados: 6845. Nodo actual:
+0,7,3,
+4,1,5,
+6,2,8,
+Nodo padre del actual:
+7,0,3,
+4,1,5,
+6,2,8,
+
+
+Paso 2512. Num. abiertos: 1516. Num cerrados: 2513. Nodos creados: 6847. Nodo actual:
+7,1,3,
+4,5,8,
+6,2,0,
+Nodo padre del actual:
+7,1,3,
+4,5,0,
+6,2,8,
+
+
+Paso 2513. Num. abiertos: 1516. Num cerrados: 2514. Nodos creados: 6849. Nodo actual:
+7,1,0,
+4,5,3,
+6,2,8,
+Nodo padre del actual:
+7,1,3,
+4,5,0,
+6,2,8,
+
+
+Paso 2514. Num. abiertos: 1516. Num cerrados: 2515. Nodos creados: 6851. Nodo actual:
+7,1,3,
+6,4,5,
+0,2,8,
+Nodo padre del actual:
+7,1,3,
+0,4,5,
+6,2,8,
+
+
+Paso 2515. Num. abiertos: 1516. Num cerrados: 2516. Nodos creados: 6853. Nodo actual:
+0,1,3,
+7,4,5,
+6,2,8,
+Nodo padre del actual:
+7,1,3,
+0,4,5,
+6,2,8,
+
+
+Paso 2516. Num. abiertos: 1516. Num cerrados: 2517. Nodos creados: 6855. Nodo actual:
+7,1,0,
+4,2,3,
+6,8,5,
+Nodo padre del actual:
+7,1,3,
+4,2,0,
+6,8,5,
+
+
+Paso 2517. Num. abiertos: 1516. Num cerrados: 2518. Nodos creados: 6857. Nodo actual:
+7,1,3,
+4,0,2,
+6,8,5,
+Nodo padre del actual:
+7,1,3,
+4,2,0,
+6,8,5,
+
+
+Paso 2518. Num. abiertos: 1518. Num cerrados: 2519. Nodos creados: 6861. Nodo actual:
+7,1,0,
+2,6,3,
+4,8,5,
+Nodo padre del actual:
+7,1,3,
+2,6,0,
+4,8,5,
+
+
+Paso 2519. Num. abiertos: 1517. Num cerrados: 2520. Nodos creados: 6863. Nodo actual:
+0,1,3,
+7,6,5,
+2,4,8,
+Nodo padre del actual:
+7,1,3,
+0,6,5,
+2,4,8,
+
+
+Paso 2520. Num. abiertos: 1516. Num cerrados: 2521. Nodos creados: 6865. Nodo actual:
+7,1,3,
+6,0,5,
+2,4,8,
+Nodo padre del actual:
+7,1,3,
+0,6,5,
+2,4,8,
+
+
+Paso 2521. Num. abiertos: 1517. Num cerrados: 2522. Nodos creados: 6869. Nodo actual:
+7,3,5,
+2,1,8,
+4,6,0,
+Nodo padre del actual:
+7,3,5,
+2,1,0,
+4,6,8,
+
+
+Paso 2522. Num. abiertos: 1517. Num cerrados: 2523. Nodos creados: 6871. Nodo actual:
+7,3,5,
+2,0,1,
+4,6,8,
+Nodo padre del actual:
+7,3,5,
+2,1,0,
+4,6,8,
+
+
+Paso 2523. Num. abiertos: 1519. Num cerrados: 2524. Nodos creados: 6875. Nodo actual:
+7,1,3,
+2,0,8,
+4,5,6,
+Nodo padre del actual:
+7,1,3,
+2,5,8,
+4,0,6,
+
+
+Paso 2524. Num. abiertos: 1520. Num cerrados: 2525. Nodos creados: 6879. Nodo actual:
+7,1,3,
+2,5,8,
+0,4,6,
+Nodo padre del actual:
+7,1,3,
+2,5,8,
+4,0,6,
+
+
+Paso 2525. Num. abiertos: 1520. Num cerrados: 2526. Nodos creados: 6881. Nodo actual:
+7,5,1,
+2,0,3,
+4,6,8,
+Nodo padre del actual:
+7,0,1,
+2,5,3,
+4,6,8,
+
+
+Paso 2526. Num. abiertos: 1522. Num cerrados: 2527. Nodos creados: 6885. Nodo actual:
+0,7,1,
+2,5,3,
+4,6,8,
+Nodo padre del actual:
+7,0,1,
+2,5,3,
+4,6,8,
+
+
+Paso 2527. Num. abiertos: 1522. Num cerrados: 2528. Nodos creados: 6887. Nodo actual:
+1,3,8,
+7,2,6,
+4,5,0,
+Nodo padre del actual:
+1,3,8,
+7,2,0,
+4,5,6,
+
+
+Paso 2528. Num. abiertos: 1522. Num cerrados: 2529. Nodos creados: 6889. Nodo actual:
+1,3,8,
+7,0,2,
+4,5,6,
+Nodo padre del actual:
+1,3,8,
+7,2,0,
+4,5,6,
+
+
+Paso 2529. Num. abiertos: 1524. Num cerrados: 2530. Nodos creados: 6893. Nodo actual:
+7,1,3,
+4,2,8,
+0,5,6,
+Nodo padre del actual:
+7,1,3,
+0,2,8,
+4,5,6,
+
+
+Paso 2530. Num. abiertos: 1524. Num cerrados: 2531. Nodos creados: 6895. Nodo actual:
+1,8,2,
+7,0,3,
+4,5,6,
+Nodo padre del actual:
+1,0,2,
+7,8,3,
+4,5,6,
+
+
+Paso 2531. Num. abiertos: 1526. Num cerrados: 2532. Nodos creados: 6899. Nodo actual:
+0,1,2,
+7,8,3,
+4,5,6,
+Nodo padre del actual:
+1,0,2,
+7,8,3,
+4,5,6,
+
+
+Paso 2532. Num. abiertos: 1526. Num cerrados: 2533. Nodos creados: 6901. Nodo actual:
+1,2,3,
+4,0,8,
+5,7,6,
+Nodo padre del actual:
+1,2,3,
+4,7,8,
+5,0,6,
+
+
+Paso 2533. Num. abiertos: 1528. Num cerrados: 2534. Nodos creados: 6905. Nodo actual:
+1,2,3,
+4,7,8,
+5,6,0,
+Nodo padre del actual:
+1,2,3,
+4,7,8,
+5,0,6,
+
+
+Paso 2534. Num. abiertos: 1528. Num cerrados: 2535. Nodos creados: 6907. Nodo actual:
+2,7,3,
+1,0,8,
+4,5,6,
+Nodo padre del actual:
+2,0,3,
+1,7,8,
+4,5,6,
+
+
+Paso 2535. Num. abiertos: 1529. Num cerrados: 2536. Nodos creados: 6911. Nodo actual:
+2,3,0,
+1,7,8,
+4,5,6,
+Nodo padre del actual:
+2,0,3,
+1,7,8,
+4,5,6,
+
+
+Paso 2536. Num. abiertos: 1529. Num cerrados: 2537. Nodos creados: 6913. Nodo actual:
+2,5,3,
+1,0,8,
+7,4,6,
+Nodo padre del actual:
+2,0,3,
+1,5,8,
+7,4,6,
+
+
+Paso 2537. Num. abiertos: 1531. Num cerrados: 2538. Nodos creados: 6917. Nodo actual:
+2,3,0,
+1,5,8,
+7,4,6,
+Nodo padre del actual:
+2,0,3,
+1,5,8,
+7,4,6,
+
+
+Paso 2538. Num. abiertos: 1530. Num cerrados: 2539. Nodos creados: 6919. Nodo actual:
+1,2,3,
+5,4,8,
+7,6,0,
+Nodo padre del actual:
+1,2,3,
+5,4,8,
+7,0,6,
+
+
+Paso 2539. Num. abiertos: 1530. Num cerrados: 2540. Nodos creados: 6921. Nodo actual:
+1,2,3,
+5,4,8,
+0,7,6,
+Nodo padre del actual:
+1,2,3,
+5,4,8,
+7,0,6,
+
+
+Paso 2540. Num. abiertos: 1529. Num cerrados: 2541. Nodos creados: 6923. Nodo actual:
+1,3,0,
+5,2,8,
+7,4,6,
+Nodo padre del actual:
+1,0,3,
+5,2,8,
+7,4,6,
+
+
+Paso 2541. Num. abiertos: 1529. Num cerrados: 2542. Nodos creados: 6925. Nodo actual:
+0,1,3,
+5,2,8,
+7,4,6,
+Nodo padre del actual:
+1,0,3,
+5,2,8,
+7,4,6,
+
+
+Paso 2542. Num. abiertos: 1529. Num cerrados: 2543. Nodos creados: 6927. Nodo actual:
+1,2,3,
+5,8,6,
+7,4,0,
+Nodo padre del actual:
+1,2,3,
+5,8,0,
+7,4,6,
+
+
+Paso 2543. Num. abiertos: 1529. Num cerrados: 2544. Nodos creados: 6929. Nodo actual:
+1,2,0,
+5,8,3,
+7,4,6,
+Nodo padre del actual:
+1,2,3,
+5,8,0,
+7,4,6,
+
+
+Paso 2544. Num. abiertos: 1529. Num cerrados: 2545. Nodos creados: 6931. Nodo actual:
+7,1,2,
+4,0,3,
+6,5,8,
+Nodo padre del actual:
+7,1,2,
+4,5,3,
+6,0,8,
+
+
+Paso 2545. Num. abiertos: 1531. Num cerrados: 2546. Nodos creados: 6935. Nodo actual:
+7,1,2,
+4,5,3,
+6,8,0,
+Nodo padre del actual:
+7,1,2,
+4,5,3,
+6,0,8,
+
+
+Paso 2546. Num. abiertos: 1531. Num cerrados: 2547. Nodos creados: 6937. Nodo actual:
+7,1,2,
+5,6,3,
+4,8,0,
+Nodo padre del actual:
+7,1,2,
+5,6,3,
+4,0,8,
+
+
+Paso 2547. Num. abiertos: 1531. Num cerrados: 2548. Nodos creados: 6939. Nodo actual:
+7,1,2,
+5,6,3,
+0,4,8,
+Nodo padre del actual:
+7,1,2,
+5,6,3,
+4,0,8,
+
+
+Paso 2548. Num. abiertos: 1530. Num cerrados: 2549. Nodos creados: 6941. Nodo actual:
+7,2,0,
+5,1,3,
+4,6,8,
+Nodo padre del actual:
+7,0,2,
+5,1,3,
+4,6,8,
+
+
+Paso 2549. Num. abiertos: 1530. Num cerrados: 2550. Nodos creados: 6943. Nodo actual:
+0,7,2,
+5,1,3,
+4,6,8,
+Nodo padre del actual:
+7,0,2,
+5,1,3,
+4,6,8,
+
+
+Paso 2550. Num. abiertos: 1529. Num cerrados: 2551. Nodos creados: 6945. Nodo actual:
+7,1,2,
+5,3,8,
+4,6,0,
+Nodo padre del actual:
+7,1,2,
+5,3,0,
+4,6,8,
+
+
+Paso 2551. Num. abiertos: 1529. Num cerrados: 2552. Nodos creados: 6947. Nodo actual:
+7,1,0,
+5,3,2,
+4,6,8,
+Nodo padre del actual:
+7,1,2,
+5,3,0,
+4,6,8,
+
+
+Paso 2552. Num. abiertos: 1529. Num cerrados: 2553. Nodos creados: 6949. Nodo actual:
+2,7,0,
+1,6,3,
+4,8,5,
+Nodo padre del actual:
+2,7,3,
+1,6,0,
+4,8,5,
+
+
+Paso 2553. Num. abiertos: 1529. Num cerrados: 2554. Nodos creados: 6951. Nodo actual:
+0,7,3,
+2,6,5,
+1,4,8,
+Nodo padre del actual:
+2,7,3,
+0,6,5,
+1,4,8,
+
+
+Paso 2554. Num. abiertos: 1529. Num cerrados: 2555. Nodos creados: 6953. Nodo actual:
+2,7,3,
+6,0,5,
+1,4,8,
+Nodo padre del actual:
+2,7,3,
+0,6,5,
+1,4,8,
+
+
+Paso 2555. Num. abiertos: 1531. Num cerrados: 2556. Nodos creados: 6957. Nodo actual:
+2,7,3,
+1,5,8,
+0,4,6,
+Nodo padre del actual:
+2,7,3,
+1,5,8,
+4,0,6,
+
+
+Paso 2556. Num. abiertos: 1531. Num cerrados: 2557. Nodos creados: 6959. Nodo actual:
+2,5,7,
+1,0,3,
+4,6,8,
+Nodo padre del actual:
+2,0,7,
+1,5,3,
+4,6,8,
+
+
+Paso 2557. Num. abiertos: 1533. Num cerrados: 2558. Nodos creados: 6963. Nodo actual:
+0,2,7,
+1,5,3,
+4,6,8,
+Nodo padre del actual:
+2,0,7,
+1,5,3,
+4,6,8,
+
+
+Paso 2558. Num. abiertos: 1533. Num cerrados: 2559. Nodos creados: 6965. Nodo actual:
+2,7,3,
+4,0,5,
+6,1,8,
+Nodo padre del actual:
+2,7,3,
+4,1,5,
+6,0,8,
+
+
+Paso 2559. Num. abiertos: 1535. Num cerrados: 2560. Nodos creados: 6969. Nodo actual:
+2,7,3,
+4,1,5,
+6,8,0,
+Nodo padre del actual:
+2,7,3,
+4,1,5,
+6,0,8,
+
+
+Paso 2560. Num. abiertos: 1535. Num cerrados: 2561. Nodos creados: 6971. Nodo actual:
+2,3,5,
+1,0,8,
+4,7,6,
+Nodo padre del actual:
+2,3,5,
+1,7,8,
+4,0,6,
+
+
+Paso 2561. Num. abiertos: 1537. Num cerrados: 2562. Nodos creados: 6975. Nodo actual:
+2,3,5,
+1,7,8,
+0,4,6,
+Nodo padre del actual:
+2,3,5,
+1,7,8,
+4,0,6,
+
+
+Paso 2562. Num. abiertos: 1537. Num cerrados: 2563. Nodos creados: 6977. Nodo actual:
+2,3,5,
+1,6,7,
+4,8,0,
+Nodo padre del actual:
+2,3,5,
+1,6,7,
+4,0,8,
+
+
+Paso 2563. Num. abiertos: 1537. Num cerrados: 2564. Nodos creados: 6979. Nodo actual:
+2,3,5,
+1,6,7,
+0,4,8,
+Nodo padre del actual:
+2,3,5,
+1,6,7,
+4,0,8,
+
+
+Paso 2564. Num. abiertos: 1537. Num cerrados: 2565. Nodos creados: 6981. Nodo actual:
+2,5,0,
+1,3,7,
+4,6,8,
+Nodo padre del actual:
+2,0,5,
+1,3,7,
+4,6,8,
+
+
+Paso 2565. Num. abiertos: 1536. Num cerrados: 2566. Nodos creados: 6983. Nodo actual:
+0,2,5,
+1,3,7,
+4,6,8,
+Nodo padre del actual:
+2,0,5,
+1,3,7,
+4,6,8,
+
+
+Paso 2566. Num. abiertos: 1536. Num cerrados: 2567. Nodos creados: 6985. Nodo actual:
+2,3,5,
+4,1,7,
+0,6,8,
+Nodo padre del actual:
+2,3,5,
+0,1,7,
+4,6,8,
+
+
+Paso 2567. Num. abiertos: 1536. Num cerrados: 2568. Nodos creados: 6987. Nodo actual:
+0,3,5,
+2,1,7,
+4,6,8,
+Nodo padre del actual:
+2,3,5,
+0,1,7,
+4,6,8,
+
+
+Paso 2568. Num. abiertos: 1536. Num cerrados: 2569. Nodos creados: 6989. Nodo actual:
+1,6,0,
+7,8,2,
+4,5,3,
+Nodo padre del actual:
+1,6,2,
+7,8,0,
+4,5,3,
+
+
+Paso 2569. Num. abiertos: 1536. Num cerrados: 2570. Nodos creados: 6991. Nodo actual:
+1,6,2,
+7,0,8,
+4,5,3,
+Nodo padre del actual:
+1,6,2,
+7,8,0,
+4,5,3,
+
+
+Paso 2570. Num. abiertos: 1538. Num cerrados: 2571. Nodos creados: 6995. Nodo actual:
+0,6,2,
+1,8,3,
+7,4,5,
+Nodo padre del actual:
+1,6,2,
+0,8,3,
+7,4,5,
+
+
+Paso 2571. Num. abiertos: 1538. Num cerrados: 2572. Nodos creados: 6997. Nodo actual:
+1,6,2,
+8,0,3,
+7,4,5,
+Nodo padre del actual:
+1,6,2,
+0,8,3,
+7,4,5,
+
+
+Paso 2572. Num. abiertos: 1540. Num cerrados: 2573. Nodos creados: 7001. Nodo actual:
+1,6,2,
+7,0,5,
+4,3,8,
+Nodo padre del actual:
+1,6,2,
+7,3,5,
+4,0,8,
+
+
+Paso 2573. Num. abiertos: 1542. Num cerrados: 2574. Nodos creados: 7005. Nodo actual:
+1,6,2,
+7,3,5,
+0,4,8,
+Nodo padre del actual:
+1,6,2,
+7,3,5,
+4,0,8,
+
+
+Paso 2574. Num. abiertos: 1542. Num cerrados: 2575. Nodos creados: 7007. Nodo actual:
+0,1,6,
+7,3,2,
+4,8,5,
+Nodo padre del actual:
+1,0,6,
+7,3,2,
+4,8,5,
+
+
+Paso 2575. Num. abiertos: 1542. Num cerrados: 2576. Nodos creados: 7009. Nodo actual:
+1,6,2,
+4,0,3,
+8,7,5,
+Nodo padre del actual:
+1,6,2,
+4,7,3,
+8,0,5,
+
+
+Paso 2576. Num. abiertos: 1544. Num cerrados: 2577. Nodos creados: 7013. Nodo actual:
+1,6,2,
+4,7,3,
+8,5,0,
+Nodo padre del actual:
+1,6,2,
+4,7,3,
+8,0,5,
+
+
+Paso 2577. Num. abiertos: 1544. Num cerrados: 2578. Nodos creados: 7015. Nodo actual:
+6,7,2,
+1,0,3,
+4,8,5,
+Nodo padre del actual:
+6,0,2,
+1,7,3,
+4,8,5,
+
+
+Paso 2578. Num. abiertos: 1546. Num cerrados: 2579. Nodos creados: 7019. Nodo actual:
+6,2,0,
+1,7,3,
+4,8,5,
+Nodo padre del actual:
+6,0,2,
+1,7,3,
+4,8,5,
+
+
+Paso 2579. Num. abiertos: 1546. Num cerrados: 2580. Nodos creados: 7021. Nodo actual:
+7,1,2,
+4,0,3,
+8,6,5,
+Nodo padre del actual:
+7,1,2,
+4,6,3,
+8,0,5,
+
+
+Paso 2580. Num. abiertos: 1547. Num cerrados: 2581. Nodos creados: 7025. Nodo actual:
+7,1,2,
+4,6,3,
+8,5,0,
+Nodo padre del actual:
+7,1,2,
+4,6,3,
+8,0,5,
+
+
+Paso 2581. Num. abiertos: 1547. Num cerrados: 2582. Nodos creados: 7027. Nodo actual:
+7,1,2,
+6,8,3,
+4,5,0,
+Nodo padre del actual:
+7,1,2,
+6,8,3,
+4,0,5,
+
+
+Paso 2582. Num. abiertos: 1547. Num cerrados: 2583. Nodos creados: 7029. Nodo actual:
+7,1,2,
+6,8,3,
+0,4,5,
+Nodo padre del actual:
+7,1,2,
+6,8,3,
+4,0,5,
+
+
+Paso 2583. Num. abiertos: 1547. Num cerrados: 2584. Nodos creados: 7031. Nodo actual:
+7,2,0,
+6,1,3,
+4,8,5,
+Nodo padre del actual:
+7,0,2,
+6,1,3,
+4,8,5,
+
+
+Paso 2584. Num. abiertos: 1547. Num cerrados: 2585. Nodos creados: 7033. Nodo actual:
+0,7,2,
+6,1,3,
+4,8,5,
+Nodo padre del actual:
+7,0,2,
+6,1,3,
+4,8,5,
+
+
+Paso 2585. Num. abiertos: 1546. Num cerrados: 2586. Nodos creados: 7035. Nodo actual:
+7,1,2,
+6,3,5,
+4,8,0,
+Nodo padre del actual:
+7,1,2,
+6,3,0,
+4,8,5,
+
+
+Paso 2586. Num. abiertos: 1546. Num cerrados: 2587. Nodos creados: 7037. Nodo actual:
+7,1,0,
+6,3,2,
+4,8,5,
+Nodo padre del actual:
+7,1,2,
+6,3,0,
+4,8,5,
+
+
+Paso 2587. Num. abiertos: 1546. Num cerrados: 2588. Nodos creados: 7039. Nodo actual:
+2,8,3,
+1,0,6,
+7,4,5,
+Nodo padre del actual:
+2,0,3,
+1,8,6,
+7,4,5,
+
+
+Paso 2588. Num. abiertos: 1548. Num cerrados: 2589. Nodos creados: 7043. Nodo actual:
+2,3,0,
+1,8,6,
+7,4,5,
+Nodo padre del actual:
+2,0,3,
+1,8,6,
+7,4,5,
+
+
+Paso 2589. Num. abiertos: 1548. Num cerrados: 2590. Nodos creados: 7045. Nodo actual:
+1,2,3,
+8,4,6,
+7,5,0,
+Nodo padre del actual:
+1,2,3,
+8,4,6,
+7,0,5,
+
+
+Paso 2590. Num. abiertos: 1548. Num cerrados: 2591. Nodos creados: 7047. Nodo actual:
+1,2,3,
+8,4,6,
+0,7,5,
+Nodo padre del actual:
+1,2,3,
+8,4,6,
+7,0,5,
+
+
+Paso 2591. Num. abiertos: 1547. Num cerrados: 2592. Nodos creados: 7049. Nodo actual:
+1,3,0,
+8,2,6,
+7,4,5,
+Nodo padre del actual:
+1,0,3,
+8,2,6,
+7,4,5,
+
+
+Paso 2592. Num. abiertos: 1547. Num cerrados: 2593. Nodos creados: 7051. Nodo actual:
+0,1,3,
+8,2,6,
+7,4,5,
+Nodo padre del actual:
+1,0,3,
+8,2,6,
+7,4,5,
+
+
+Paso 2593. Num. abiertos: 1547. Num cerrados: 2594. Nodos creados: 7053. Nodo actual:
+1,2,3,
+8,6,5,
+7,4,0,
+Nodo padre del actual:
+1,2,3,
+8,6,0,
+7,4,5,
+
+
+Paso 2594. Num. abiertos: 1547. Num cerrados: 2595. Nodos creados: 7055. Nodo actual:
+1,2,0,
+8,6,3,
+7,4,5,
+Nodo padre del actual:
+1,2,3,
+8,6,0,
+7,4,5,
+
+
+Paso 2595. Num. abiertos: 1546. Num cerrados: 2596. Nodos creados: 7057. Nodo actual:
+1,3,6,
+7,0,5,
+4,2,8,
+Nodo padre del actual:
+1,3,6,
+7,2,5,
+4,0,8,
+
+
+Paso 2596. Num. abiertos: 1548. Num cerrados: 2597. Nodos creados: 7061. Nodo actual:
+1,3,6,
+7,2,5,
+0,4,8,
+Nodo padre del actual:
+1,3,6,
+7,2,5,
+4,0,8,
+
+
+Paso 2597. Num. abiertos: 1547. Num cerrados: 2598. Nodos creados: 7063. Nodo actual:
+1,3,6,
+7,8,2,
+4,5,0,
+Nodo padre del actual:
+1,3,6,
+7,8,2,
+4,0,5,
+
+
+Paso 2598. Num. abiertos: 1547. Num cerrados: 2599. Nodos creados: 7065. Nodo actual:
+1,3,6,
+7,8,2,
+0,4,5,
+Nodo padre del actual:
+1,3,6,
+7,8,2,
+4,0,5,
+
+
+Paso 2599. Num. abiertos: 1547. Num cerrados: 2600. Nodos creados: 7067. Nodo actual:
+1,3,6,
+4,7,2,
+0,8,5,
+Nodo padre del actual:
+1,3,6,
+0,7,2,
+4,8,5,
+
+
+Paso 2600. Num. abiertos: 1547. Num cerrados: 2601. Nodos creados: 7069. Nodo actual:
+0,3,6,
+1,7,2,
+4,8,5,
+Nodo padre del actual:
+1,3,6,
+0,7,2,
+4,8,5,
+
+
+Paso 2601. Num. abiertos: 1547. Num cerrados: 2602. Nodos creados: 7071. Nodo actual:
+7,1,3,
+4,0,6,
+8,2,5,
+Nodo padre del actual:
+7,1,3,
+4,2,6,
+8,0,5,
+
+
+Paso 2602. Num. abiertos: 1549. Num cerrados: 2603. Nodos creados: 7075. Nodo actual:
+7,1,3,
+4,2,6,
+8,5,0,
+Nodo padre del actual:
+7,1,3,
+4,2,6,
+8,0,5,
+
+
+Paso 2603. Num. abiertos: 1549. Num cerrados: 2604. Nodos creados: 7077. Nodo actual:
+7,1,3,
+2,8,6,
+4,5,0,
+Nodo padre del actual:
+7,1,3,
+2,8,6,
+4,0,5,
+
+
+Paso 2604. Num. abiertos: 1548. Num cerrados: 2605. Nodos creados: 7079. Nodo actual:
+7,1,3,
+2,8,6,
+0,4,5,
+Nodo padre del actual:
+7,1,3,
+2,8,6,
+4,0,5,
+
+
+Paso 2605. Num. abiertos: 1548. Num cerrados: 2606. Nodos creados: 7081. Nodo actual:
+7,3,0,
+2,1,6,
+4,8,5,
+Nodo padre del actual:
+7,0,3,
+2,1,6,
+4,8,5,
+
+
+Paso 2606. Num. abiertos: 1548. Num cerrados: 2607. Nodos creados: 7083. Nodo actual:
+0,7,3,
+2,1,6,
+4,8,5,
+Nodo padre del actual:
+7,0,3,
+2,1,6,
+4,8,5,
+
+
+Paso 2607. Num. abiertos: 1547. Num cerrados: 2608. Nodos creados: 7085. Nodo actual:
+1,3,0,
+4,2,6,
+8,7,5,
+Nodo padre del actual:
+1,0,3,
+4,2,6,
+8,7,5,
+
+
+Paso 2608. Num. abiertos: 1547. Num cerrados: 2609. Nodos creados: 7087. Nodo actual:
+0,1,3,
+4,2,6,
+8,7,5,
+Nodo padre del actual:
+1,0,3,
+4,2,6,
+8,7,5,
+
+
+Paso 2609. Num. abiertos: 1547. Num cerrados: 2610. Nodos creados: 7089. Nodo actual:
+1,2,3,
+4,6,5,
+8,7,0,
+Nodo padre del actual:
+1,2,3,
+4,6,0,
+8,7,5,
+
+
+Paso 2610. Num. abiertos: 1547. Num cerrados: 2611. Nodos creados: 7091. Nodo actual:
+1,2,0,
+4,6,3,
+8,7,5,
+Nodo padre del actual:
+1,2,3,
+4,6,0,
+8,7,5,
+
+
+Paso 2611. Num. abiertos: 1546. Num cerrados: 2612. Nodos creados: 7093. Nodo actual:
+0,2,3,
+1,4,6,
+8,7,5,
+Nodo padre del actual:
+1,2,3,
+0,4,6,
+8,7,5,
+
+
+Paso 2612. Num. abiertos: 1546. Num cerrados: 2613. Nodos creados: 7095. Nodo actual:
+1,2,0,
+4,7,3,
+8,5,6,
+Nodo padre del actual:
+1,2,3,
+4,7,0,
+8,5,6,
+
+
+Paso 2613. Num. abiertos: 1546. Num cerrados: 2614. Nodos creados: 7097. Nodo actual:
+1,2,3,
+4,0,7,
+8,5,6,
+Nodo padre del actual:
+1,2,3,
+4,7,0,
+8,5,6,
+
+
+Paso 2614. Num. abiertos: 1548. Num cerrados: 2615. Nodos creados: 7101. Nodo actual:
+2,7,3,
+1,8,6,
+4,5,0,
+Nodo padre del actual:
+2,7,3,
+1,8,6,
+4,0,5,
+
+
+Paso 2615. Num. abiertos: 1547. Num cerrados: 2616. Nodos creados: 7103. Nodo actual:
+2,7,3,
+1,8,6,
+0,4,5,
+Nodo padre del actual:
+2,7,3,
+1,8,6,
+4,0,5,
+
+
+Paso 2616. Num. abiertos: 1547. Num cerrados: 2617. Nodos creados: 7105. Nodo actual:
+2,7,3,
+4,1,6,
+0,8,5,
+Nodo padre del actual:
+2,7,3,
+0,1,6,
+4,8,5,
+
+
+Paso 2617. Num. abiertos: 1547. Num cerrados: 2618. Nodos creados: 7107. Nodo actual:
+2,3,6,
+1,7,5,
+4,8,0,
+Nodo padre del actual:
+2,3,6,
+1,7,0,
+4,8,5,
+
+
+Paso 2618. Num. abiertos: 1547. Num cerrados: 2619. Nodos creados: 7109. Nodo actual:
+2,3,6,
+1,0,7,
+4,8,5,
+Nodo padre del actual:
+2,3,6,
+1,7,0,
+4,8,5,
+
+
+Paso 2619. Num. abiertos: 1549. Num cerrados: 2620. Nodos creados: 7113. Nodo actual:
+2,4,6,
+1,8,3,
+7,5,0,
+Nodo padre del actual:
+2,4,6,
+1,8,3,
+7,0,5,
+
+
+Paso 2620. Num. abiertos: 1549. Num cerrados: 2621. Nodos creados: 7115. Nodo actual:
+2,4,6,
+1,8,3,
+0,7,5,
+Nodo padre del actual:
+2,4,6,
+1,8,3,
+7,0,5,
+
+
+Paso 2621. Num. abiertos: 1549. Num cerrados: 2622. Nodos creados: 7117. Nodo actual:
+2,4,6,
+1,3,5,
+7,8,0,
+Nodo padre del actual:
+2,4,6,
+1,3,0,
+7,8,5,
+
+
+Paso 2622. Num. abiertos: 1549. Num cerrados: 2623. Nodos creados: 7119. Nodo actual:
+2,4,6,
+7,1,3,
+0,8,5,
+Nodo padre del actual:
+2,4,6,
+0,1,3,
+7,8,5,
+
+
+Paso 2623. Num. abiertos: 1549. Num cerrados: 2624. Nodos creados: 7121. Nodo actual:
+0,4,6,
+2,1,3,
+7,8,5,
+Nodo padre del actual:
+2,4,6,
+0,1,3,
+7,8,5,
+
+
+Paso 2624. Num. abiertos: 1549. Num cerrados: 2625. Nodos creados: 7123. Nodo actual:
+1,2,6,
+7,4,3,
+0,8,5,
+Nodo padre del actual:
+1,2,6,
+0,4,3,
+7,8,5,
+
+
+Paso 2625. Num. abiertos: 1549. Num cerrados: 2626. Nodos creados: 7125. Nodo actual:
+1,2,6,
+4,0,3,
+7,8,5,
+Nodo padre del actual:
+1,2,6,
+0,4,3,
+7,8,5,
+
+
+Paso 2626. Num. abiertos: 1551. Num cerrados: 2627. Nodos creados: 7129. Nodo actual:
+6,4,3,
+2,7,5,
+1,8,0,
+Nodo padre del actual:
+6,4,3,
+2,7,5,
+1,0,8,
+
+
+Paso 2627. Num. abiertos: 1551. Num cerrados: 2628. Nodos creados: 7131. Nodo actual:
+6,4,3,
+2,7,5,
+0,1,8,
+Nodo padre del actual:
+6,4,3,
+2,7,5,
+1,0,8,
+
+
+Paso 2628. Num. abiertos: 1551. Num cerrados: 2629. Nodos creados: 7133. Nodo actual:
+6,4,3,
+2,5,8,
+1,7,0,
+Nodo padre del actual:
+6,4,3,
+2,5,0,
+1,7,8,
+
+
+Paso 2629. Num. abiertos: 1551. Num cerrados: 2630. Nodos creados: 7135. Nodo actual:
+6,4,0,
+2,5,3,
+1,7,8,
+Nodo padre del actual:
+6,4,3,
+2,5,0,
+1,7,8,
+
+
+Paso 2630. Num. abiertos: 1551. Num cerrados: 2631. Nodos creados: 7137. Nodo actual:
+6,4,3,
+1,2,5,
+0,7,8,
+Nodo padre del actual:
+6,4,3,
+0,2,5,
+1,7,8,
+
+
+Paso 2631. Num. abiertos: 1551. Num cerrados: 2632. Nodos creados: 7139. Nodo actual:
+0,4,3,
+6,2,5,
+1,7,8,
+Nodo padre del actual:
+6,4,3,
+0,2,5,
+1,7,8,
+
+
+Paso 2632. Num. abiertos: 1551. Num cerrados: 2633. Nodos creados: 7141. Nodo actual:
+6,3,5,
+2,4,8,
+1,7,0,
+Nodo padre del actual:
+6,3,5,
+2,4,0,
+1,7,8,
+
+
+Paso 2633. Num. abiertos: 1551. Num cerrados: 2634. Nodos creados: 7143. Nodo actual:
+6,3,5,
+2,0,4,
+1,7,8,
+Nodo padre del actual:
+6,3,5,
+2,4,0,
+1,7,8,
+
+
+Paso 2634. Num. abiertos: 1553. Num cerrados: 2635. Nodos creados: 7147. Nodo actual:
+2,6,0,
+4,7,3,
+1,8,5,
+Nodo padre del actual:
+2,6,3,
+4,7,0,
+1,8,5,
+
+
+Paso 2635. Num. abiertos: 1553. Num cerrados: 2636. Nodos creados: 7149. Nodo actual:
+2,6,3,
+4,0,7,
+1,8,5,
+Nodo padre del actual:
+2,6,3,
+4,7,0,
+1,8,5,
+
+
+Paso 2636. Num. abiertos: 1555. Num cerrados: 2637. Nodos creados: 7153. Nodo actual:
+2,3,5,
+4,6,8,
+1,7,0,
+Nodo padre del actual:
+2,3,5,
+4,6,0,
+1,7,8,
+
+
+Paso 2637. Num. abiertos: 1554. Num cerrados: 2638. Nodos creados: 7155. Nodo actual:
+4,2,3,
+1,6,5,
+0,7,8,
+Nodo padre del actual:
+4,2,3,
+0,6,5,
+1,7,8,
+
+
+Paso 2638. Num. abiertos: 1553. Num cerrados: 2639. Nodos creados: 7157. Nodo actual:
+4,2,3,
+6,0,5,
+1,7,8,
+Nodo padre del actual:
+4,2,3,
+0,6,5,
+1,7,8,
+
+
+Paso 2639. Num. abiertos: 1554. Num cerrados: 2640. Nodos creados: 7161. Nodo actual:
+2,6,3,
+4,0,8,
+1,5,7,
+Nodo padre del actual:
+2,6,3,
+4,5,8,
+1,0,7,
+
+
+Paso 2640. Num. abiertos: 1556. Num cerrados: 2641. Nodos creados: 7165. Nodo actual:
+2,6,3,
+4,5,8,
+0,1,7,
+Nodo padre del actual:
+2,6,3,
+4,5,8,
+1,0,7,
+
+
+Paso 2641. Num. abiertos: 1556. Num cerrados: 2642. Nodos creados: 7167. Nodo actual:
+2,5,6,
+4,0,3,
+1,7,8,
+Nodo padre del actual:
+2,0,6,
+4,5,3,
+1,7,8,
+
+
+Paso 2642. Num. abiertos: 1557. Num cerrados: 2643. Nodos creados: 7171. Nodo actual:
+0,2,6,
+4,5,3,
+1,7,8,
+Nodo padre del actual:
+2,0,6,
+4,5,3,
+1,7,8,
+
+
+Paso 2643. Num. abiertos: 1557. Num cerrados: 2644. Nodos creados: 7173. Nodo actual:
+6,5,3,
+2,0,8,
+1,7,4,
+Nodo padre del actual:
+6,0,3,
+2,5,8,
+1,7,4,
+
+
+Paso 2644. Num. abiertos: 1559. Num cerrados: 2645. Nodos creados: 7177. Nodo actual:
+6,3,0,
+2,5,8,
+1,7,4,
+Nodo padre del actual:
+6,0,3,
+2,5,8,
+1,7,4,
+
+
+Paso 2645. Num. abiertos: 1559. Num cerrados: 2646. Nodos creados: 7179. Nodo actual:
+2,6,3,
+5,7,8,
+1,4,0,
+Nodo padre del actual:
+2,6,3,
+5,7,8,
+1,0,4,
+
+
+Paso 2646. Num. abiertos: 1559. Num cerrados: 2647. Nodos creados: 7181. Nodo actual:
+2,6,3,
+5,7,8,
+0,1,4,
+Nodo padre del actual:
+2,6,3,
+5,7,8,
+1,0,4,
+
+
+Paso 2647. Num. abiertos: 1558. Num cerrados: 2648. Nodos creados: 7183. Nodo actual:
+2,3,0,
+5,6,8,
+1,7,4,
+Nodo padre del actual:
+2,0,3,
+5,6,8,
+1,7,4,
+
+
+Paso 2648. Num. abiertos: 1558. Num cerrados: 2649. Nodos creados: 7185. Nodo actual:
+0,2,3,
+5,6,8,
+1,7,4,
+Nodo padre del actual:
+2,0,3,
+5,6,8,
+1,7,4,
+
+
+Paso 2649. Num. abiertos: 1557. Num cerrados: 2650. Nodos creados: 7187. Nodo actual:
+2,6,3,
+5,8,4,
+1,7,0,
+Nodo padre del actual:
+2,6,3,
+5,8,0,
+1,7,4,
+
+
+Paso 2650. Num. abiertos: 1557. Num cerrados: 2651. Nodos creados: 7189. Nodo actual:
+2,6,0,
+5,8,3,
+1,7,4,
+Nodo padre del actual:
+2,6,3,
+5,8,0,
+1,7,4,
+
+
+Paso 2651. Num. abiertos: 1557. Num cerrados: 2652. Nodos creados: 7191. Nodo actual:
+2,5,0,
+1,4,6,
+7,8,3,
+Nodo padre del actual:
+2,5,6,
+1,4,0,
+7,8,3,
+
+
+Paso 2652. Num. abiertos: 1557. Num cerrados: 2653. Nodos creados: 7193. Nodo actual:
+2,5,6,
+1,0,4,
+7,8,3,
+Nodo padre del actual:
+2,5,6,
+1,4,0,
+7,8,3,
+
+
+Paso 2653. Num. abiertos: 1559. Num cerrados: 2654. Nodos creados: 7197. Nodo actual:
+0,5,6,
+2,4,3,
+1,7,8,
+Nodo padre del actual:
+2,5,6,
+0,4,3,
+1,7,8,
+
+
+Paso 2654. Num. abiertos: 1559. Num cerrados: 2655. Nodos creados: 7199. Nodo actual:
+2,5,6,
+1,0,8,
+7,3,4,
+Nodo padre del actual:
+2,5,6,
+1,3,8,
+7,0,4,
+
+
+Paso 2655. Num. abiertos: 1561. Num cerrados: 2656. Nodos creados: 7203. Nodo actual:
+2,5,6,
+1,3,8,
+0,7,4,
+Nodo padre del actual:
+2,5,6,
+1,3,8,
+7,0,4,
+
+
+Paso 2656. Num. abiertos: 1561. Num cerrados: 2657. Nodos creados: 7205. Nodo actual:
+2,5,6,
+7,0,3,
+4,1,8,
+Nodo padre del actual:
+2,5,6,
+7,1,3,
+4,0,8,
+
+
+Paso 2657. Num. abiertos: 1562. Num cerrados: 2658. Nodos creados: 7209. Nodo actual:
+2,5,6,
+7,1,3,
+4,8,0,
+Nodo padre del actual:
+2,5,6,
+7,1,3,
+4,0,8,
+
+
+Paso 2658. Num. abiertos: 1562. Num cerrados: 2659. Nodos creados: 7211. Nodo actual:
+5,1,6,
+2,0,3,
+7,4,8,
+Nodo padre del actual:
+5,0,6,
+2,1,3,
+7,4,8,
+
+
+Paso 2659. Num. abiertos: 1564. Num cerrados: 2660. Nodos creados: 7215. Nodo actual:
+5,6,0,
+2,1,3,
+7,4,8,
+Nodo padre del actual:
+5,0,6,
+2,1,3,
+7,4,8,
+
+
+Paso 2660. Num. abiertos: 1564. Num cerrados: 2661. Nodos creados: 7217. Nodo actual:
+1,2,6,
+7,0,3,
+4,5,8,
+Nodo padre del actual:
+1,2,6,
+7,5,3,
+4,0,8,
+
+
+Paso 2661. Num. abiertos: 1566. Num cerrados: 2662. Nodos creados: 7221. Nodo actual:
+1,2,6,
+7,5,3,
+4,8,0,
+Nodo padre del actual:
+1,2,6,
+7,5,3,
+4,0,8,
+
+
+Paso 2662. Num. abiertos: 1565. Num cerrados: 2663. Nodos creados: 7223. Nodo actual:
+1,2,6,
+5,4,3,
+7,8,0,
+Nodo padre del actual:
+1,2,6,
+5,4,3,
+7,0,8,
+
+
+Paso 2663. Num. abiertos: 1565. Num cerrados: 2664. Nodos creados: 7225. Nodo actual:
+1,2,6,
+5,4,3,
+0,7,8,
+Nodo padre del actual:
+1,2,6,
+5,4,3,
+7,0,8,
+
+
+Paso 2664. Num. abiertos: 1565. Num cerrados: 2665. Nodos creados: 7227. Nodo actual:
+1,6,0,
+5,2,3,
+7,4,8,
+Nodo padre del actual:
+1,0,6,
+5,2,3,
+7,4,8,
+
+
+Paso 2665. Num. abiertos: 1565. Num cerrados: 2666. Nodos creados: 7229. Nodo actual:
+0,1,6,
+5,2,3,
+7,4,8,
+Nodo padre del actual:
+1,0,6,
+5,2,3,
+7,4,8,
+
+
+Paso 2666. Num. abiertos: 1564. Num cerrados: 2667. Nodos creados: 7231. Nodo actual:
+1,2,6,
+5,3,8,
+7,4,0,
+Nodo padre del actual:
+1,2,6,
+5,3,0,
+7,4,8,
+
+
+Paso 2667. Num. abiertos: 1564. Num cerrados: 2668. Nodos creados: 7233. Nodo actual:
+1,2,0,
+5,3,6,
+7,4,8,
+Nodo padre del actual:
+1,2,6,
+5,3,0,
+7,4,8,
+
+
+Paso 2668. Num. abiertos: 1564. Num cerrados: 2669. Nodos creados: 7235. Nodo actual:
+2,3,5,
+7,6,8,
+4,1,0,
+Nodo padre del actual:
+2,3,5,
+7,6,0,
+4,1,8,
+
+
+Paso 2669. Num. abiertos: 1564. Num cerrados: 2670. Nodos creados: 7237. Nodo actual:
+7,2,3,
+4,6,5,
+0,1,8,
+Nodo padre del actual:
+7,2,3,
+0,6,5,
+4,1,8,
+
+
+Paso 2670. Num. abiertos: 1564. Num cerrados: 2671. Nodos creados: 7239. Nodo actual:
+7,2,3,
+6,0,5,
+4,1,8,
+Nodo padre del actual:
+7,2,3,
+0,6,5,
+4,1,8,
+
+
+Paso 2671. Num. abiertos: 1566. Num cerrados: 2672. Nodos creados: 7243. Nodo actual:
+2,6,3,
+7,0,8,
+4,5,1,
+Nodo padre del actual:
+2,6,3,
+7,5,8,
+4,0,1,
+
+
+Paso 2672. Num. abiertos: 1568. Num cerrados: 2673. Nodos creados: 7247. Nodo actual:
+2,6,3,
+7,5,8,
+0,4,1,
+Nodo padre del actual:
+2,6,3,
+7,5,8,
+4,0,1,
+
+
+Paso 2673. Num. abiertos: 1568. Num cerrados: 2674. Nodos creados: 7249. Nodo actual:
+0,2,6,
+7,5,3,
+4,1,8,
+Nodo padre del actual:
+2,0,6,
+7,5,3,
+4,1,8,
+
+
+Paso 2674. Num. abiertos: 1568. Num cerrados: 2675. Nodos creados: 7251. Nodo actual:
+6,7,3,
+2,0,5,
+4,1,8,
+Nodo padre del actual:
+6,0,3,
+2,7,5,
+4,1,8,
+
+
+Paso 2675. Num. abiertos: 1570. Num cerrados: 2676. Nodos creados: 7255. Nodo actual:
+6,3,0,
+2,7,5,
+4,1,8,
+Nodo padre del actual:
+6,0,3,
+2,7,5,
+4,1,8,
+
+
+Paso 2676. Num. abiertos: 1570. Num cerrados: 2677. Nodos creados: 7257. Nodo actual:
+2,1,6,
+7,0,3,
+4,8,5,
+Nodo padre del actual:
+2,0,6,
+7,1,3,
+4,8,5,
+
+
+Paso 2677. Num. abiertos: 1572. Num cerrados: 2678. Nodos creados: 7261. Nodo actual:
+0,2,6,
+7,1,3,
+4,8,5,
+Nodo padre del actual:
+2,0,6,
+7,1,3,
+4,8,5,
+
+
+Paso 2678. Num. abiertos: 1572. Num cerrados: 2679. Nodos creados: 7263. Nodo actual:
+2,6,3,
+7,8,1,
+4,5,0,
+Nodo padre del actual:
+2,6,3,
+7,8,1,
+4,0,5,
+
+
+Paso 2679. Num. abiertos: 1571. Num cerrados: 2680. Nodos creados: 7265. Nodo actual:
+2,6,3,
+7,8,1,
+0,4,5,
+Nodo padre del actual:
+2,6,3,
+7,8,1,
+4,0,5,
+
+
+Paso 2680. Num. abiertos: 1571. Num cerrados: 2681. Nodos creados: 7267. Nodo actual:
+2,3,0,
+7,6,1,
+4,8,5,
+Nodo padre del actual:
+2,0,3,
+7,6,1,
+4,8,5,
+
+
+Paso 2681. Num. abiertos: 1571. Num cerrados: 2682. Nodos creados: 7269. Nodo actual:
+0,2,3,
+7,6,1,
+4,8,5,
+Nodo padre del actual:
+2,0,3,
+7,6,1,
+4,8,5,
+
+
+Paso 2682. Num. abiertos: 1571. Num cerrados: 2683. Nodos creados: 7271. Nodo actual:
+2,6,3,
+4,7,1,
+0,8,5,
+Nodo padre del actual:
+2,6,3,
+0,7,1,
+4,8,5,
+
+
+Paso 2683. Num. abiertos: 1571. Num cerrados: 2684. Nodos creados: 7273. Nodo actual:
+0,6,3,
+2,7,1,
+4,8,5,
+Nodo padre del actual:
+2,6,3,
+0,7,1,
+4,8,5,
+
+
+Paso 2684. Num. abiertos: 1571. Num cerrados: 2685. Nodos creados: 7275. Nodo actual:
+2,5,8,
+1,3,4,
+7,6,0,
+Nodo padre del actual:
+2,5,8,
+1,3,0,
+7,6,4,
+
+
+Paso 2685. Num. abiertos: 1571. Num cerrados: 2686. Nodos creados: 7277. Nodo actual:
+2,5,8,
+1,0,3,
+7,6,4,
+Nodo padre del actual:
+2,5,8,
+1,3,0,
+7,6,4,
+
+
+Paso 2686. Num. abiertos: 1573. Num cerrados: 2687. Nodos creados: 7281. Nodo actual:
+1,2,5,
+7,3,8,
+0,6,4,
+Nodo padre del actual:
+1,2,5,
+0,3,8,
+7,6,4,
+
+
+Paso 2687. Num. abiertos: 1573. Num cerrados: 2688. Nodos creados: 7283. Nodo actual:
+1,2,5,
+3,0,8,
+7,6,4,
+Nodo padre del actual:
+1,2,5,
+0,3,8,
+7,6,4,
+
+
+Paso 2688. Num. abiertos: 1575. Num cerrados: 2689. Nodos creados: 7287. Nodo actual:
+2,3,5,
+1,8,4,
+0,7,6,
+Nodo padre del actual:
+2,3,5,
+1,8,4,
+7,0,6,
+
+
+Paso 2689. Num. abiertos: 1575. Num cerrados: 2690. Nodos creados: 7289. Nodo actual:
+2,8,3,
+1,0,5,
+7,6,4,
+Nodo padre del actual:
+2,0,3,
+1,8,5,
+7,6,4,
+
+
+Paso 2690. Num. abiertos: 1577. Num cerrados: 2691. Nodos creados: 7293. Nodo actual:
+0,2,3,
+1,8,5,
+7,6,4,
+Nodo padre del actual:
+2,0,3,
+1,8,5,
+7,6,4,
+
+
+Paso 2691. Num. abiertos: 1577. Num cerrados: 2692. Nodos creados: 7295. Nodo actual:
+2,3,5,
+7,0,8,
+6,1,4,
+Nodo padre del actual:
+2,3,5,
+7,1,8,
+6,0,4,
+
+
+Paso 2692. Num. abiertos: 1579. Num cerrados: 2693. Nodos creados: 7299. Nodo actual:
+2,3,5,
+7,1,8,
+6,4,0,
+Nodo padre del actual:
+2,3,5,
+7,1,8,
+6,0,4,
+
+
+Paso 2693. Num. abiertos: 1579. Num cerrados: 2694. Nodos creados: 7301. Nodo actual:
+3,1,5,
+2,0,8,
+7,6,4,
+Nodo padre del actual:
+3,0,5,
+2,1,8,
+7,6,4,
+
+
+Paso 2694. Num. abiertos: 1581. Num cerrados: 2695. Nodos creados: 7305. Nodo actual:
+3,5,0,
+2,1,8,
+7,6,4,
+Nodo padre del actual:
+3,0,5,
+2,1,8,
+7,6,4,
+
+
+Paso 2695. Num. abiertos: 1581. Num cerrados: 2696. Nodos creados: 7307. Nodo actual:
+3,6,5,
+2,0,8,
+1,7,4,
+Nodo padre del actual:
+3,0,5,
+2,6,8,
+1,7,4,
+
+
+Paso 2696. Num. abiertos: 1582. Num cerrados: 2697. Nodos creados: 7311. Nodo actual:
+3,5,0,
+2,6,8,
+1,7,4,
+Nodo padre del actual:
+3,0,5,
+2,6,8,
+1,7,4,
+
+
+Paso 2697. Num. abiertos: 1582. Num cerrados: 2698. Nodos creados: 7313. Nodo actual:
+2,3,5,
+6,7,8,
+1,4,0,
+Nodo padre del actual:
+2,3,5,
+6,7,8,
+1,0,4,
+
+
+Paso 2698. Num. abiertos: 1582. Num cerrados: 2699. Nodos creados: 7315. Nodo actual:
+2,3,5,
+6,7,8,
+0,1,4,
+Nodo padre del actual:
+2,3,5,
+6,7,8,
+1,0,4,
+
+
+Paso 2699. Num. abiertos: 1581. Num cerrados: 2700. Nodos creados: 7317. Nodo actual:
+2,5,0,
+6,3,8,
+1,7,4,
+Nodo padre del actual:
+2,0,5,
+6,3,8,
+1,7,4,
+
+
+Paso 2700. Num. abiertos: 1581. Num cerrados: 2701. Nodos creados: 7319. Nodo actual:
+0,2,5,
+6,3,8,
+1,7,4,
+Nodo padre del actual:
+2,0,5,
+6,3,8,
+1,7,4,
+
+
+Paso 2701. Num. abiertos: 1581. Num cerrados: 2702. Nodos creados: 7321. Nodo actual:
+2,3,5,
+6,8,4,
+1,7,0,
+Nodo padre del actual:
+2,3,5,
+6,8,0,
+1,7,4,
+
+
+Paso 2702. Num. abiertos: 1581. Num cerrados: 2703. Nodos creados: 7323. Nodo actual:
+2,3,0,
+6,8,5,
+1,7,4,
+Nodo padre del actual:
+2,3,5,
+6,8,0,
+1,7,4,
+
+
+Paso 2703. Num. abiertos: 1581. Num cerrados: 2704. Nodos creados: 7325. Nodo actual:
+2,4,3,
+1,0,5,
+7,8,6,
+Nodo padre del actual:
+2,0,3,
+1,4,5,
+7,8,6,
+
+
+Paso 2704. Num. abiertos: 1583. Num cerrados: 2705. Nodos creados: 7329. Nodo actual:
+0,2,3,
+1,4,5,
+7,8,6,
+Nodo padre del actual:
+2,0,3,
+1,4,5,
+7,8,6,
+
+
+Paso 2705. Num. abiertos: 1582. Num cerrados: 2706. Nodos creados: 7331. Nodo actual:
+2,5,0,
+1,3,4,
+7,8,6,
+Nodo padre del actual:
+2,0,5,
+1,3,4,
+7,8,6,
+
+
+Paso 2706. Num. abiertos: 1582. Num cerrados: 2707. Nodos creados: 7333. Nodo actual:
+0,2,5,
+1,3,4,
+7,8,6,
+Nodo padre del actual:
+2,0,5,
+1,3,4,
+7,8,6,
+
+
+Paso 2707. Num. abiertos: 1582. Num cerrados: 2708. Nodos creados: 7335. Nodo actual:
+2,3,5,
+7,1,4,
+0,8,6,
+Nodo padre del actual:
+2,3,5,
+0,1,4,
+7,8,6,
+
+
+Paso 2708. Num. abiertos: 1582. Num cerrados: 2709. Nodos creados: 7337. Nodo actual:
+0,3,5,
+2,1,4,
+7,8,6,
+Nodo padre del actual:
+2,3,5,
+0,1,4,
+7,8,6,
+
+
+Paso 2709. Num. abiertos: 1582. Num cerrados: 2710. Nodos creados: 7339. Nodo actual:
+3,4,5,
+2,0,6,
+1,7,8,
+Nodo padre del actual:
+3,0,5,
+2,4,6,
+1,7,8,
+
+
+Paso 2710. Num. abiertos: 1584. Num cerrados: 2711. Nodos creados: 7343. Nodo actual:
+3,5,0,
+2,4,6,
+1,7,8,
+Nodo padre del actual:
+3,0,5,
+2,4,6,
+1,7,8,
+
+
+Paso 2711. Num. abiertos: 1584. Num cerrados: 2712. Nodos creados: 7345. Nodo actual:
+2,3,5,
+4,7,6,
+1,8,0,
+Nodo padre del actual:
+2,3,5,
+4,7,6,
+1,0,8,
+
+
+Paso 2712. Num. abiertos: 1584. Num cerrados: 2713. Nodos creados: 7347. Nodo actual:
+2,3,5,
+4,7,6,
+0,1,8,
+Nodo padre del actual:
+2,3,5,
+4,7,6,
+1,0,8,
+
+
+Paso 2713. Num. abiertos: 1583. Num cerrados: 2714. Nodos creados: 7349. Nodo actual:
+2,5,0,
+4,3,6,
+1,7,8,
+Nodo padre del actual:
+2,0,5,
+4,3,6,
+1,7,8,
+
+
+Paso 2714. Num. abiertos: 1582. Num cerrados: 2715. Nodos creados: 7351. Nodo actual:
+0,2,5,
+4,3,6,
+1,7,8,
+Nodo padre del actual:
+2,0,5,
+4,3,6,
+1,7,8,
+
+
+Paso 2715. Num. abiertos: 1582. Num cerrados: 2716. Nodos creados: 7353. Nodo actual:
+1,2,5,
+7,0,6,
+4,3,8,
+Nodo padre del actual:
+1,2,5,
+7,3,6,
+4,0,8,
+
+
+Paso 2716. Num. abiertos: 1584. Num cerrados: 2717. Nodos creados: 7357. Nodo actual:
+1,2,5,
+7,3,6,
+4,8,0,
+Nodo padre del actual:
+1,2,5,
+7,3,6,
+4,0,8,
+
+
+Paso 2717. Num. abiertos: 1584. Num cerrados: 2718. Nodos creados: 7359. Nodo actual:
+1,2,5,
+3,4,6,
+7,8,0,
+Nodo padre del actual:
+1,2,5,
+3,4,6,
+7,0,8,
+
+
+Paso 2718. Num. abiertos: 1584. Num cerrados: 2719. Nodos creados: 7361. Nodo actual:
+1,2,5,
+3,4,6,
+0,7,8,
+Nodo padre del actual:
+1,2,5,
+3,4,6,
+7,0,8,
+
+
+Paso 2719. Num. abiertos: 1584. Num cerrados: 2720. Nodos creados: 7363. Nodo actual:
+1,5,0,
+3,2,6,
+7,4,8,
+Nodo padre del actual:
+1,0,5,
+3,2,6,
+7,4,8,
+
+
+Paso 2720. Num. abiertos: 1584. Num cerrados: 2721. Nodos creados: 7365. Nodo actual:
+0,1,5,
+3,2,6,
+7,4,8,
+Nodo padre del actual:
+1,0,5,
+3,2,6,
+7,4,8,
+
+
+Paso 2721. Num. abiertos: 1583. Num cerrados: 2722. Nodos creados: 7367. Nodo actual:
+1,2,5,
+3,6,8,
+7,4,0,
+Nodo padre del actual:
+1,2,5,
+3,6,0,
+7,4,8,
+
+
+Paso 2722. Num. abiertos: 1582. Num cerrados: 2723. Nodos creados: 7369. Nodo actual:
+1,2,0,
+3,6,5,
+7,4,8,
+Nodo padre del actual:
+1,2,5,
+3,6,0,
+7,4,8,
+
+
+Paso 2723. Num. abiertos: 1582. Num cerrados: 2724. Nodos creados: 7371. Nodo actual:
+2,5,0,
+7,3,6,
+4,1,8,
+Nodo padre del actual:
+2,0,5,
+7,3,6,
+4,1,8,
+
+
+Paso 2724. Num. abiertos: 1581. Num cerrados: 2725. Nodos creados: 7373. Nodo actual:
+0,2,5,
+7,3,6,
+4,1,8,
+Nodo padre del actual:
+2,0,5,
+7,3,6,
+4,1,8,
+
+
+Paso 2725. Num. abiertos: 1581. Num cerrados: 2726. Nodos creados: 7375. Nodo actual:
+0,3,5,
+2,7,6,
+4,1,8,
+Nodo padre del actual:
+2,3,5,
+0,7,6,
+4,1,8,
+
+
+Paso 2726. Num. abiertos: 1581. Num cerrados: 2727. Nodos creados: 7377. Nodo actual:
+2,3,0,
+7,1,5,
+4,8,6,
+Nodo padre del actual:
+2,3,5,
+7,1,0,
+4,8,6,
+
+
+Paso 2727. Num. abiertos: 1581. Num cerrados: 2728. Nodos creados: 7379. Nodo actual:
+2,3,5,
+7,0,1,
+4,8,6,
+Nodo padre del actual:
+2,3,5,
+7,1,0,
+4,8,6,
+
+
+Paso 2728. Num. abiertos: 1583. Num cerrados: 2729. Nodos creados: 7383. Nodo actual:
+3,1,5,
+2,4,6,
+7,8,0,
+Nodo padre del actual:
+3,1,5,
+2,4,6,
+7,0,8,
+
+
+Paso 2729. Num. abiertos: 1583. Num cerrados: 2730. Nodos creados: 7385. Nodo actual:
+3,1,5,
+2,4,6,
+0,7,8,
+Nodo padre del actual:
+3,1,5,
+2,4,6,
+7,0,8,
+
+
+Paso 2730. Num. abiertos: 1583. Num cerrados: 2731. Nodos creados: 7387. Nodo actual:
+3,1,5,
+2,6,8,
+7,4,0,
+Nodo padre del actual:
+3,1,5,
+2,6,0,
+7,4,8,
+
+
+Paso 2731. Num. abiertos: 1582. Num cerrados: 2732. Nodos creados: 7389. Nodo actual:
+3,1,0,
+2,6,5,
+7,4,8,
+Nodo padre del actual:
+3,1,5,
+2,6,0,
+7,4,8,
+
+
+Paso 2732. Num. abiertos: 1582. Num cerrados: 2733. Nodos creados: 7391. Nodo actual:
+3,1,5,
+7,2,6,
+0,4,8,
+Nodo padre del actual:
+3,1,5,
+0,2,6,
+7,4,8,
+
+
+Paso 2733. Num. abiertos: 1582. Num cerrados: 2734. Nodos creados: 7393. Nodo actual:
+3,5,6,
+2,1,8,
+7,4,0,
+Nodo padre del actual:
+3,5,6,
+2,1,0,
+7,4,8,
+
+
+Paso 2734. Num. abiertos: 1582. Num cerrados: 2735. Nodos creados: 7395. Nodo actual:
+3,5,6,
+2,0,1,
+7,4,8,
+Nodo padre del actual:
+3,5,6,
+2,1,0,
+7,4,8,
+
+
+Paso 2735. Num. abiertos: 1584. Num cerrados: 2736. Nodos creados: 7399. Nodo actual:
+1,8,4,
+6,5,2,
+7,3,0,
+Nodo padre del actual:
+1,8,4,
+6,5,2,
+7,0,3,
+
+
+Paso 2736. Num. abiertos: 1584. Num cerrados: 2737. Nodos creados: 7401. Nodo actual:
+1,8,4,
+6,5,2,
+0,7,3,
+Nodo padre del actual:
+1,8,4,
+6,5,2,
+7,0,3,
+
+
+Paso 2737. Num. abiertos: 1584. Num cerrados: 2738. Nodos creados: 7403. Nodo actual:
+1,8,4,
+6,2,3,
+7,5,0,
+Nodo padre del actual:
+1,8,4,
+6,2,0,
+7,5,3,
+
+
+Paso 2738. Num. abiertos: 1584. Num cerrados: 2739. Nodos creados: 7405. Nodo actual:
+1,8,0,
+6,2,4,
+7,5,3,
+Nodo padre del actual:
+1,8,4,
+6,2,0,
+7,5,3,
+
+
+Paso 2739. Num. abiertos: 1584. Num cerrados: 2740. Nodos creados: 7407. Nodo actual:
+1,8,4,
+7,6,2,
+0,5,3,
+Nodo padre del actual:
+1,8,4,
+0,6,2,
+7,5,3,
+
+
+Paso 2740. Num. abiertos: 1584. Num cerrados: 2741. Nodos creados: 7409. Nodo actual:
+0,8,4,
+1,6,2,
+7,5,3,
+Nodo padre del actual:
+1,8,4,
+0,6,2,
+7,5,3,
+
+
+Paso 2741. Num. abiertos: 1584. Num cerrados: 2742. Nodos creados: 7411. Nodo actual:
+6,1,4,
+7,8,2,
+0,5,3,
+Nodo padre del actual:
+6,1,4,
+0,8,2,
+7,5,3,
+
+
+Paso 2742. Num. abiertos: 1584. Num cerrados: 2743. Nodos creados: 7413. Nodo actual:
+6,1,4,
+8,0,2,
+7,5,3,
+Nodo padre del actual:
+6,1,4,
+0,8,2,
+7,5,3,
+
+
+Paso 2743. Num. abiertos: 1586. Num cerrados: 2744. Nodos creados: 7417. Nodo actual:
+0,4,2,
+1,5,8,
+6,7,3,
+Nodo padre del actual:
+1,4,2,
+0,5,8,
+6,7,3,
+
+
+Paso 2744. Num. abiertos: 1586. Num cerrados: 2745. Nodos creados: 7419. Nodo actual:
+1,4,2,
+5,0,8,
+6,7,3,
+Nodo padre del actual:
+1,4,2,
+0,5,8,
+6,7,3,
+
+
+Paso 2745. Num. abiertos: 1588. Num cerrados: 2746. Nodos creados: 7423. Nodo actual:
+1,2,8,
+6,4,3,
+7,5,0,
+Nodo padre del actual:
+1,2,8,
+6,4,0,
+7,5,3,
+
+
+Paso 2746. Num. abiertos: 1588. Num cerrados: 2747. Nodos creados: 7425. Nodo actual:
+1,2,8,
+6,0,4,
+7,5,3,
+Nodo padre del actual:
+1,2,8,
+6,4,0,
+7,5,3,
+
+
+Paso 2747. Num. abiertos: 1588. Num cerrados: 2748. Nodos creados: 7429. Nodo actual:
+6,1,2,
+7,4,8,
+0,5,3,
+Nodo padre del actual:
+6,1,2,
+0,4,8,
+7,5,3,
+
+
+Paso 2748. Num. abiertos: 1588. Num cerrados: 2749. Nodos creados: 7431. Nodo actual:
+1,4,2,
+7,0,8,
+5,6,3,
+Nodo padre del actual:
+1,4,2,
+7,6,8,
+5,0,3,
+
+
+Paso 2749. Num. abiertos: 1590. Num cerrados: 2750. Nodos creados: 7435. Nodo actual:
+1,4,2,
+7,6,8,
+5,3,0,
+Nodo padre del actual:
+1,4,2,
+7,6,8,
+5,0,3,
+
+
+Paso 2750. Num. abiertos: 1590. Num cerrados: 2751. Nodos creados: 7437. Nodo actual:
+4,6,2,
+1,0,8,
+7,5,3,
+Nodo padre del actual:
+4,0,2,
+1,6,8,
+7,5,3,
+
+
+Paso 2751. Num. abiertos: 1591. Num cerrados: 2752. Nodos creados: 7441. Nodo actual:
+4,2,0,
+1,6,8,
+7,5,3,
+Nodo padre del actual:
+4,0,2,
+1,6,8,
+7,5,3,
+
+
+Paso 2752. Num. abiertos: 1591. Num cerrados: 2753. Nodos creados: 7443. Nodo actual:
+4,8,2,
+1,7,3,
+6,5,0,
+Nodo padre del actual:
+4,8,2,
+1,7,3,
+6,0,5,
+
+
+Paso 2753. Num. abiertos: 1591. Num cerrados: 2754. Nodos creados: 7445. Nodo actual:
+4,8,2,
+1,7,3,
+0,6,5,
+Nodo padre del actual:
+4,8,2,
+1,7,3,
+6,0,5,
+
+
+Paso 2754. Num. abiertos: 1591. Num cerrados: 2755. Nodos creados: 7447. Nodo actual:
+4,8,2,
+1,3,5,
+6,7,0,
+Nodo padre del actual:
+4,8,2,
+1,3,0,
+6,7,5,
+
+
+Paso 2755. Num. abiertos: 1591. Num cerrados: 2756. Nodos creados: 7449. Nodo actual:
+4,8,0,
+1,3,2,
+6,7,5,
+Nodo padre del actual:
+4,8,2,
+1,3,0,
+6,7,5,
+
+
+Paso 2756. Num. abiertos: 1591. Num cerrados: 2757. Nodos creados: 7451. Nodo actual:
+4,8,2,
+6,1,3,
+0,7,5,
+Nodo padre del actual:
+4,8,2,
+0,1,3,
+6,7,5,
+
+
+Paso 2757. Num. abiertos: 1591. Num cerrados: 2758. Nodos creados: 7453. Nodo actual:
+0,8,2,
+4,1,3,
+6,7,5,
+Nodo padre del actual:
+4,8,2,
+0,1,3,
+6,7,5,
+
+
+Paso 2758. Num. abiertos: 1591. Num cerrados: 2759. Nodos creados: 7455. Nodo actual:
+4,2,3,
+1,8,5,
+6,7,0,
+Nodo padre del actual:
+4,2,3,
+1,8,0,
+6,7,5,
+
+
+Paso 2759. Num. abiertos: 1591. Num cerrados: 2760. Nodos creados: 7457. Nodo actual:
+4,2,3,
+1,0,8,
+6,7,5,
+Nodo padre del actual:
+4,2,3,
+1,8,0,
+6,7,5,
+
+
+Paso 2760. Num. abiertos: 1593. Num cerrados: 2761. Nodos creados: 7461. Nodo actual:
+1,4,0,
+8,7,2,
+6,5,3,
+Nodo padre del actual:
+1,4,2,
+8,7,0,
+6,5,3,
+
+
+Paso 2761. Num. abiertos: 1593. Num cerrados: 2762. Nodos creados: 7463. Nodo actual:
+1,4,2,
+8,0,7,
+6,5,3,
+Nodo padre del actual:
+1,4,2,
+8,7,0,
+6,5,3,
+
+
+Paso 2762. Num. abiertos: 1595. Num cerrados: 2763. Nodos creados: 7467. Nodo actual:
+8,1,2,
+6,4,3,
+0,7,5,
+Nodo padre del actual:
+8,1,2,
+0,4,3,
+6,7,5,
+
+
+Paso 2763. Num. abiertos: 1595. Num cerrados: 2764. Nodos creados: 7469. Nodo actual:
+8,1,2,
+4,0,3,
+6,7,5,
+Nodo padre del actual:
+8,1,2,
+0,4,3,
+6,7,5,
+
+
+Paso 2764. Num. abiertos: 1596. Num cerrados: 2765. Nodos creados: 7473. Nodo actual:
+1,4,2,
+8,0,5,
+6,3,7,
+Nodo padre del actual:
+1,4,2,
+8,3,5,
+6,0,7,
+
+
+Paso 2765. Num. abiertos: 1598. Num cerrados: 2766. Nodos creados: 7477. Nodo actual:
+1,4,2,
+8,3,5,
+0,6,7,
+Nodo padre del actual:
+1,4,2,
+8,3,5,
+6,0,7,
+
+
+Paso 2766. Num. abiertos: 1598. Num cerrados: 2767. Nodos creados: 7479. Nodo actual:
+0,1,4,
+8,3,2,
+6,7,5,
+Nodo padre del actual:
+1,0,4,
+8,3,2,
+6,7,5,
+
+
+Paso 2767. Num. abiertos: 1598. Num cerrados: 2768. Nodos creados: 7481. Nodo actual:
+1,2,5,
+6,4,8,
+7,3,0,
+Nodo padre del actual:
+1,2,5,
+6,4,0,
+7,3,8,
+
+
+Paso 2768. Num. abiertos: 1598. Num cerrados: 2769. Nodos creados: 7483. Nodo actual:
+1,2,5,
+6,0,4,
+7,3,8,
+Nodo padre del actual:
+1,2,5,
+6,4,0,
+7,3,8,
+
+
+Paso 2769. Num. abiertos: 1599. Num cerrados: 2770. Nodos creados: 7487. Nodo actual:
+6,1,2,
+7,4,5,
+0,3,8,
+Nodo padre del actual:
+6,1,2,
+0,4,5,
+7,3,8,
+
+
+Paso 2770. Num. abiertos: 1599. Num cerrados: 2771. Nodos creados: 7489. Nodo actual:
+1,5,4,
+6,0,2,
+7,3,8,
+Nodo padre del actual:
+1,0,4,
+6,5,2,
+7,3,8,
+
+
+Paso 2771. Num. abiertos: 1600. Num cerrados: 2772. Nodos creados: 7493. Nodo actual:
+0,1,4,
+6,5,2,
+7,3,8,
+Nodo padre del actual:
+1,0,4,
+6,5,2,
+7,3,8,
+
+
+Paso 2772. Num. abiertos: 1600. Num cerrados: 2773. Nodos creados: 7495. Nodo actual:
+1,4,2,
+7,0,5,
+3,6,8,
+Nodo padre del actual:
+1,4,2,
+7,6,5,
+3,0,8,
+
+
+Paso 2773. Num. abiertos: 1602. Num cerrados: 2774. Nodos creados: 7499. Nodo actual:
+1,4,2,
+7,6,5,
+3,8,0,
+Nodo padre del actual:
+1,4,2,
+7,6,5,
+3,0,8,
+
+
+Paso 2774. Num. abiertos: 1602. Num cerrados: 2775. Nodos creados: 7501. Nodo actual:
+4,6,2,
+1,0,5,
+7,3,8,
+Nodo padre del actual:
+4,0,2,
+1,6,5,
+7,3,8,
+
+
+Paso 2775. Num. abiertos: 1603. Num cerrados: 2776. Nodos creados: 7505. Nodo actual:
+4,2,0,
+1,6,5,
+7,3,8,
+Nodo padre del actual:
+4,0,2,
+1,6,5,
+7,3,8,
+
+
+Paso 2776. Num. abiertos: 1603. Num cerrados: 2777. Nodos creados: 7507. Nodo actual:
+4,3,2,
+1,0,5,
+6,7,8,
+Nodo padre del actual:
+4,0,2,
+1,3,5,
+6,7,8,
+
+
+Paso 2777. Num. abiertos: 1605. Num cerrados: 2778. Nodos creados: 7511. Nodo actual:
+4,2,0,
+1,3,5,
+6,7,8,
+Nodo padre del actual:
+4,0,2,
+1,3,5,
+6,7,8,
+
+
+Paso 2778. Num. abiertos: 1605. Num cerrados: 2779. Nodos creados: 7513. Nodo actual:
+1,4,2,
+3,7,5,
+6,8,0,
+Nodo padre del actual:
+1,4,2,
+3,7,5,
+6,0,8,
+
+
+Paso 2779. Num. abiertos: 1605. Num cerrados: 2780. Nodos creados: 7515. Nodo actual:
+1,4,2,
+3,7,5,
+0,6,8,
+Nodo padre del actual:
+1,4,2,
+3,7,5,
+6,0,8,
+
+
+Paso 2780. Num. abiertos: 1604. Num cerrados: 2781. Nodos creados: 7517. Nodo actual:
+1,2,0,
+3,4,5,
+6,7,8,
+Nodo padre del actual:
+1,0,2,
+3,4,5,
+6,7,8,
+
+
+Paso 2781. Num. abiertos: 1603. Num cerrados: 2782. Nodos creados: 7519. Nodo actual:
+0,1,2,
+3,4,5,
+6,7,8,
+Nodo padre del actual:
+1,0,2,
+3,4,5,
+6,7,8,
+
+
