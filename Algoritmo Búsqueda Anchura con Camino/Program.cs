@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace PuzzleIA_01
@@ -321,25 +322,27 @@ namespace PuzzleIA_01
 
 
 
-            Nodo solucion = BusquedaEnAnchura(nodoInicial);
-
-            if (solucion != null)
+            if(BusquedaEnAnchura(nodoInicial))
             {
-                //Console.WriteLine("SE HA ENCONTRADO EL NODO META:\n" + solucion.Dibujar());
+                Console.WriteLine("\n¡¡¡Puzzle resuelto con éxito!!!\n");
             }
             else
             {
-                Console.WriteLine("No se ha encontrado la solución");
+                Console.WriteLine("\nNo se ha encontrado solución al puzzle\n");
             }
 
             Console.WriteLine("Ejecución finalizada");
             Console.ReadKey();
-
         }
 
 
 
-        static Nodo BusquedaEnAnchura(Nodo nodoInicial)
+        /// <summary>
+        /// Realiza una búsqueda en anchura de la solución
+        /// </summary>
+        /// <param name="nodoInicial"></param>
+        /// <returns>true si la búsqueda ha obtenido la solución / false si no es así</returns>
+        static bool BusquedaEnAnchura(Nodo nodoInicial)
         {
             List<Nodo> nodosAbiertos = new List<Nodo>();
             List<Nodo> nodosCerrados = new List<Nodo>();
@@ -348,7 +351,8 @@ namespace PuzzleIA_01
             //Fichero interno donde se irá guardando el proceso de búsqueda
             StreamWriter ficheroPruebas = new StreamWriter("comprobaciones.txt");
 
-            Console.WriteLine("Buscando en anchura...");            
+            Console.WriteLine("Buscando la solución por el método de Búsqueda en anchura.\n" + 
+                "El proceso puede tardar unos minutos, ten paciencia...\n");            
 
 
             nodosAbiertos.Add(nodoInicial);
@@ -357,12 +361,11 @@ namespace PuzzleIA_01
             int numeroPasadas = 0, nodosCreados = 1; //Variables para escribir en el fichero de control interno
 
             while (nodosAbiertos.Count > 0)
-            {
-                //Console.WriteLine("Nodos abiertos al principio: " + nodosAbiertos.Count);
+            {                
                 //Copia en actual el primer nodo Abierto
                 nodoActual.CopiaEstado(nodosAbiertos[0]);
 
-                if(nodosAbiertos[0].Padre() != null)//Guarda el padre del nodo actual para obtener el camino
+                if(nodosAbiertos[0].Padre() != null)//Guarda el padre del nodo actual para conservar el camino
                     nodoActual.EstableceNodoPadre(nodosAbiertos[0].Padre());
                 //Guarda los valores de control en el fichero interno
                 if(nodoActual.Padre() != null)
@@ -380,15 +383,11 @@ namespace PuzzleIA_01
                 nodosCerrados.Add(nodoACerrar);
                 
 
-                //Si el nodo actual es el META finaliza con éxito
+                //Si el nodo actual es el META se muestra la solución obtenida (camino) y devuelve confirmación del éxito
                 if (nodoActual.EsMeta())
                 {
-                    ficheroPruebas.Close();
-
                     RecorreCamino(nodosCerrados, nodoActual);
-
-
-                    return nodoActual;
+                    return true;
                 }
                 else //Si todavía no se ha llegado al nodo meta
                 {
@@ -396,23 +395,14 @@ namespace PuzzleIA_01
                     List<Nodo> posiblesSucesores = new List<Nodo>();
                     posiblesSucesores = nodoActual.ObtenerSucesores();
 
-                    nodosCreados += posiblesSucesores.Count;                    
+                    nodosCreados += posiblesSucesores.Count;//Para el fichero de control interno                    
 
                     //Se añaden al final de la lista de Abiertos todos los posibles sucesores que no
                     //estén ya ni en la lista de Abiertos ni en la de Cerrados
                     foreach (Nodo n in posiblesSucesores)
                     {
-                        n.EstableceNodoPadre(nodoActual);//Guarda el nodo padre para poder recuperar el camino
-
-                        /*//Si algún sucesor ya es el META, se finaliza con éxito
-                        if (n.EsMeta())
-                        {
-                            ficheroPruebas.Close();
-                            
-                            RecorreCamino(nodosCerrados, n);
-
-                            return n;
-                        }*/
+                        n.EstableceNodoPadre(nodoActual);//Guarda antes el nodo padre para poder recuperar el camino
+                       
 
                         if (!EstaEnLaLista(n, nodosCerrados) && !EstaEnLaLista(n, nodosAbiertos))
                         {                            
@@ -424,12 +414,18 @@ namespace PuzzleIA_01
 
             ficheroPruebas.Close();//Se cierra el fichero de control interno
 
-            //Si se llega al final sin encontrar la solución
-            return null;
+            //Se llega aquí sin obtener solución
+            return false;            
         }
 
 
 
+        /// <summary>
+        /// Comprueba si un nodo está en una lista de nodos
+        /// </summary>
+        /// <param name="nodoAComprobar"></param>
+        /// <param name="listaDeNodos"></param>
+        /// <returns></returns>
         static bool EstaEnLaLista(Nodo nodoAComprobar, List<Nodo> listaDeNodos)
         {
             foreach (Nodo n in listaDeNodos)
@@ -441,72 +437,75 @@ namespace PuzzleIA_01
         }
 
 
+        /// <summary>
+        /// Busca el camino recorrido hasta llegar al nodo final y lo muestra por pantalla
+        /// </summary>
+        /// <param name="nodosVisitados">Lista de nodos cerrados (los visitados durante la búsqueda)</param>
+        /// <param name="nodoFinal">Nodo final (será el de partida para la obtención del camino)</param>
         static void RecorreCamino(List<Nodo> nodosVisitados, Nodo nodoFinal)
         {
-            List<Nodo> caminoInverso = new List<Nodo>();
+            List<Nodo> caminoInverso = new List<Nodo>();//El camino se creará en orden inverso al que se recorre
 
-            Nodo nodoPadre = new Nodo();
+            Nodo nodoPadre = new Nodo();//Nodo padre
 
-            Nodo nuevoNodo = new Nodo();
+            Nodo nuevoNodo = new Nodo();//Nodo temporal
 
-            caminoInverso.Add(nodoFinal);
+            caminoInverso.Add(nodoFinal);//Añade al camino el último de los nodos del mismo
 
             if (nodoFinal.Padre() != null)
             {
-               
+               //Añade al camino su nodo padre 
                 nodoPadre.CopiaEstado(nodoFinal.Padre());
                 nuevoNodo.CopiaEstado(nodoPadre);
                 caminoInverso.Add(nuevoNodo);
-                Console.WriteLine("Entra aquí, y añade a: " + nodoFinal.Padre().Dibujar());
-            }
+                //Console.WriteLine("Entra aquí, y añade a: " + nodoFinal.Padre().Dibujar());
+            }            
 
-            foreach (Nodo nod in caminoInverso)
+            //Console.WriteLine("Número de nodos visitados: " + nodosVisitados.Count);
+
+            while (nodoPadre != null)//Mientras haya algún nodo padre del último que se añadió al camino
             {
-                Console.WriteLine(nod.Dibujar() + "\n");
-            }
+                //Console.WriteLine("Buscando a:\n" + nodoPadre.Dibujar());
 
-            Console.WriteLine("Número de nodos visitados: " + nodosVisitados.Count);
-
-            while (nodoPadre != null)
-            {
-                Console.WriteLine("Buscando a:\n" + nodoPadre.Dibujar());
-
-                foreach (Nodo n in nodosVisitados)
+                foreach (Nodo n in nodosVisitados)//Recorre todos los nodos en busca actual
                 {                    
                     if (nodoPadre != null && n.EsIgualA(nodoPadre))
                     {
-                        if(n.Padre() != null)
-                            Console.WriteLine("Se ha localizado:\n" + nodoPadre.Dibujar() + "Su padre es:\n" + n.Padre().Dibujar());
+                        //if(n.Padre() != null)
+                        //  Console.WriteLine("Se ha localizado:\n" + nodoPadre.Dibujar() + "Su padre es:\n" + n.Padre().Dibujar());
+
+                        //Si lo encuentra, comprueba si a su vez éste tiene un padre, en cuyo caso añade este último al camino
                         if (n.Padre() != null)
                         {  
-                            Console.WriteLine("Añadiendo al camino a:\n" + n.Padre().Dibujar());
+                            //Console.WriteLine("Añadiendo al camino a:\n" + n.Padre().Dibujar());
                             Nodo nodoCamino = new Nodo();
                             nodoCamino.CopiaEstado(n.Padre());
                             caminoInverso.Add(nodoCamino);
-
-                            foreach (Nodo nod in caminoInverso)
-                            {
-                                Console.WriteLine(nod.Dibujar() + "\n");
-                            }
-
+                                                     
+                            //Cambia el nodo actual por su padre para seguir comprobando
                             nodoPadre.CopiaEstado(n.Padre());
                         }
-                        else
+                        else //Cuando el nodo actual no tenga padre, será porque se ha llegado al último del camino inverso
                         {
-                            nodoPadre = null;
+                            nodoPadre = null; //Se asigna el valor nulo, lo que provocará a su vez la salida del bucle
                         }
                     }
                 }
             }
 
-            Console.WriteLine("Número de nodos en el camino: " + caminoInverso.Count);           
+            //Console.WriteLine("Número de nodos en el camino: " + caminoInverso.Count);           
 
-            
+            //Creado el camino, se recorre en orden contrario para mostrar la solución al puzzle
+
+            Console.WriteLine("\nSe ha encontrado una solución. Pulsa una tecla para verla");
+            Console.ReadKey();
+
             for(int i = caminoInverso.Count - 1; i >= 0; i--)
             {
-                Console.WriteLine(caminoInverso[i].Dibujar() + "\n");
+                Console.Clear();
+                Console.WriteLine("\n======\n" + caminoInverso[i].Dibujar() + "======");
+                Thread.Sleep(1500); //Hace una pausa
             }
-
         }
     }
 }
