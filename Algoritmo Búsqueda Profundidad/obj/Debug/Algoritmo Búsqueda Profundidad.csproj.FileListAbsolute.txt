@@ -1,0 +1,7 @@
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\bin\Debug\Algoritmo Búsqueda Profundidad.exe.config
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\bin\Debug\Algoritmo Búsqueda Profundidad.exe
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\bin\Debug\Algoritmo Búsqueda Profundidad.pdb
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\obj\Debug\Algoritmo Búsqueda Profundidad.csproj.AssemblyReference.cache
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\obj\Debug\Algoritmo Búsqueda Profundidad.csproj.CoreCompileInputs.cache
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\obj\Debug\Algoritmo Búsqueda Profundidad.exe
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\obj\Debug\Algoritmo Búsqueda Profundidad.pdb
