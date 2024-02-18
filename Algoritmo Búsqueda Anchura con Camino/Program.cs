@@ -78,7 +78,10 @@ namespace PuzzleIA_01
             {
                 for (int columna = 0; columna < 3; columna++)
                 {
-                    nodoDibujado += casillas[fila, columna] + ",";
+                    if(casillas[fila, columna] != 0)
+                        nodoDibujado += " " + casillas[fila, columna] + " ";
+                    else
+                        nodoDibujado += "-" + casillas[fila, columna] + "-";
                 }
                 nodoDibujado += "\n";
             }
@@ -498,14 +501,15 @@ namespace PuzzleIA_01
             //Creado el camino, se recorre en orden contrario para mostrar la solución al puzzle
 
             Console.WriteLine("\nSe ha encontrado una solución. Pulsa una tecla para verla");
-            Console.ReadKey();
+            Console.ReadKey();            
 
             for(int i = caminoInverso.Count - 1; i >= 0; i--)
-            {
+            {                
+                Thread.Sleep(1500); //Hace una pausa                
                 Console.Clear();
-                Console.WriteLine("\n======\n" + caminoInverso[i].Dibujar() + "======");
-                Thread.Sleep(1500); //Hace una pausa
-            }
+                Console.SetCursorPosition(0, 1);
+                Console.WriteLine("\n=========\n" + caminoInverso[i].Dibujar() + "=========");                
+            }            
         }
     }
 }
