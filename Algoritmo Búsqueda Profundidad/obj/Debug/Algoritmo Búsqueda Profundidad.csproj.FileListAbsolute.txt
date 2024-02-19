@@ -12,3 +12,10 @@ C:\Users\Gendiskan\Proyectos\Ejercicios IA\Ejercicios-Inteligencia-Artificial\Al
 C:\Users\Gendiskan\Proyectos\Ejercicios IA\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\obj\Debug\Algoritmo Búsqueda Profundidad.csproj.CoreCompileInputs.cache
 C:\Users\Gendiskan\Proyectos\Ejercicios IA\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\obj\Debug\Algoritmo Búsqueda Profundidad.exe
 C:\Users\Gendiskan\Proyectos\Ejercicios IA\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\obj\Debug\Algoritmo Búsqueda Profundidad.pdb
+D:\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\bin\Debug\Algoritmo Búsqueda Profundidad.exe.config
+D:\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\bin\Debug\Algoritmo Búsqueda Profundidad.exe
+D:\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\bin\Debug\Algoritmo Búsqueda Profundidad.pdb
+D:\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\obj\Debug\Algoritmo Búsqueda Profundidad.csproj.AssemblyReference.cache
+D:\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\obj\Debug\Algoritmo Búsqueda Profundidad.csproj.CoreCompileInputs.cache
+D:\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\obj\Debug\Algoritmo Búsqueda Profundidad.exe
+D:\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Profundidad\obj\Debug\Algoritmo Búsqueda Profundidad.pdb

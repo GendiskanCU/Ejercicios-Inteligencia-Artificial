@@ -317,9 +317,9 @@ namespace PuzzleIA_01
     {
         static void Main(string[] args)
         {
-            Nodo nodoInicial = new Nodo(1, 0, 2,
-                                        3, 4, 5,
-                                        7, 6, 8);
+            Nodo nodoInicial = new Nodo(0, 1, 3,
+                                        2, 4, 6,
+                                        5, 7, 8);
 
             Console.WriteLine("NODO INICIAL:\n" + nodoInicial.Dibujar());
 
@@ -461,23 +461,15 @@ namespace PuzzleIA_01
                 //Añade al camino su nodo padre 
                 nodoPadre.CopiaEstado(nodoFinal.Padre());
                 nuevoNodo.CopiaEstado(nodoPadre);
-                caminoInverso.Add(nuevoNodo);
-                //Console.WriteLine("Entra aquí, y añade a: " + nodoFinal.Padre().Dibujar());
-            }
-
-            //Console.WriteLine("Número de nodos visitados: " + nodosVisitados.Count);
+                caminoInverso.Add(nuevoNodo);                
+            }            
 
             while (nodoPadre != null)//Mientras haya algún nodo padre del último que se añadió al camino
             {
-                //Console.WriteLine("Buscando a:\n" + nodoPadre.Dibujar());
-
                 foreach (Nodo n in nodosVisitados)//Recorre todos los nodos en busca actual
                 {
                     if (nodoPadre != null && n.EsIgualA(nodoPadre))
-                    {
-                        //if(n.Padre() != null)
-                        //  Console.WriteLine("Se ha localizado:\n" + nodoPadre.Dibujar() + "Su padre es:\n" + n.Padre().Dibujar());
-
+                    {                        
                         //Si lo encuentra, comprueba si a su vez éste tiene un padre, en cuyo caso añade este último al camino
                         if (n.Padre() != null)
                         {
@@ -505,10 +497,7 @@ namespace PuzzleIA_01
             Console.ReadKey();
 
             for (int i = caminoInverso.Count - 1; i >= 0; i--)
-            {
-                //Thread.Sleep(300); //Hace una pausa                
-                //Console.Clear();
-                //Console.SetCursorPosition(0, 1);
+            {                
                 Console.WriteLine("\n=========\n" + caminoInverso[i].Dibujar() + "=========");
             }
         }

@@ -12,3 +12,10 @@ C:\Users\Gendiskan\Proyectos\Ejercicios IA\Ejercicios-Inteligencia-Artificial\Al
 C:\Users\Gendiskan\Proyectos\Ejercicios IA\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\obj\Debug\Algoritmo Búsqueda Anchura con Camino.csproj.CoreCompileInputs.cache
 C:\Users\Gendiskan\Proyectos\Ejercicios IA\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\obj\Debug\Algoritmo Búsqueda Anchura con Camino.exe
 C:\Users\Gendiskan\Proyectos\Ejercicios IA\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\obj\Debug\Algoritmo Búsqueda Anchura con Camino.pdb
+D:\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\bin\Debug\Algoritmo Búsqueda Anchura con Camino.exe.config
+D:\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\bin\Debug\Algoritmo Búsqueda Anchura con Camino.exe
+D:\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\bin\Debug\Algoritmo Búsqueda Anchura con Camino.pdb
+D:\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\obj\Debug\Algoritmo Búsqueda Anchura con Camino.csproj.AssemblyReference.cache
+D:\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\obj\Debug\Algoritmo Búsqueda Anchura con Camino.csproj.CoreCompileInputs.cache
+D:\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\obj\Debug\Algoritmo Búsqueda Anchura con Camino.exe
+D:\Unity\Ejercicios-Inteligencia-Artificial\Algoritmo Búsqueda Anchura con Camino\obj\Debug\Algoritmo Búsqueda Anchura con Camino.pdb

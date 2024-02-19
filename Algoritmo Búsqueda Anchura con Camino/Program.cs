@@ -504,11 +504,11 @@ namespace PuzzleIA_01
             Console.ReadKey();            
 
             for(int i = caminoInverso.Count - 1; i >= 0; i--)
-            {                
-                Thread.Sleep(1500); //Hace una pausa                
+            {                                 
                 Console.Clear();
                 Console.SetCursorPosition(0, 1);
-                Console.WriteLine("\n=========\n" + caminoInverso[i].Dibujar() + "=========");                
+                Console.WriteLine("\n=========\n" + caminoInverso[i].Dibujar() + "=========");
+                Thread.Sleep(1500); //Hace una pausa  
             }            
         }
     }
