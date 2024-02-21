@@ -1,0 +1,7 @@
+D:\DATOS\Documents\Unity\PRIA\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\bin\Debug\Búsqueda informada A asterisco.exe.config
+D:\DATOS\Documents\Unity\PRIA\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\bin\Debug\Búsqueda informada A asterisco.exe
+D:\DATOS\Documents\Unity\PRIA\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\bin\Debug\Búsqueda informada A asterisco.pdb
+D:\DATOS\Documents\Unity\PRIA\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\obj\Debug\Búsqueda informada A asterisco.csproj.AssemblyReference.cache
+D:\DATOS\Documents\Unity\PRIA\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\obj\Debug\Búsqueda informada A asterisco.csproj.CoreCompileInputs.cache
+D:\DATOS\Documents\Unity\PRIA\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\obj\Debug\Búsqueda informada A asterisco.exe
+D:\DATOS\Documents\Unity\PRIA\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\obj\Debug\Búsqueda informada A asterisco.pdb
