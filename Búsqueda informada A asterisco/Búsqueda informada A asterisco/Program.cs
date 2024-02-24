@@ -76,8 +76,7 @@ namespace PuzzleIA_01
         /// <param name="padre"></param>
         public void EstableceNodoPadre(Nodo padre)
         {
-            nodoPadre = new Nodo(padre);
-            //nodoPadre.CopiaEstado(padre);
+            nodoPadre = new Nodo(padre);            
         }
 
         /// <summary>
@@ -227,9 +226,7 @@ namespace PuzzleIA_01
         public Nodo Sucesor(int filaActual, int columnaActual, int filaNueva, int columnaNueva)
         {
             //Crea un nuevo nodo temporal para trabajar con él sin modificar el original
-            Nodo nodoTemporal = new Nodo(this);
-            //Copia el estado del nodo original al temporal
-            //nodoTemporal.CopiaEstado(this);
+            Nodo nodoTemporal = new Nodo(this);            
 
             //Guarda temporalmente el valor que hay en la casilla donde el hueco se va a mover
             int temporal = nodoTemporal.casillas[filaNueva, columnaNueva];
@@ -264,8 +261,7 @@ namespace PuzzleIA_01
                 filaNuevaHueco = filaActualHueco + 1;
                 columnaNuevaHueco = columnaActualHueco;
 
-                Nodo sucesorAbajo = new Nodo(this.Sucesor(filaActualHueco, columnaActualHueco, filaNuevaHueco, columnaNuevaHueco));
-                //sucesorAbajo.CopiaEstado(this.Sucesor(filaActualHueco, columnaActualHueco, filaNuevaHueco, columnaNuevaHueco));
+                Nodo sucesorAbajo = new Nodo(this.Sucesor(filaActualHueco, columnaActualHueco, filaNuevaHueco, columnaNuevaHueco));                
 
                 //Se añade el sucesor recién creado a la lista de nodos sucesores
                 sucesores.Add(sucesorAbajo);
@@ -280,8 +276,7 @@ namespace PuzzleIA_01
                 filaNuevaHueco = filaActualHueco - 1;
                 columnaNuevaHueco = columnaActualHueco;
 
-                Nodo sucesorArriba = new Nodo(this.Sucesor(filaActualHueco, columnaActualHueco, filaNuevaHueco, columnaNuevaHueco));
-                //sucesorArriba.CopiaEstado(this.Sucesor(filaActualHueco, columnaActualHueco, filaNuevaHueco, columnaNuevaHueco));
+                Nodo sucesorArriba = new Nodo(this.Sucesor(filaActualHueco, columnaActualHueco, filaNuevaHueco, columnaNuevaHueco));                
 
                 //Se añade el sucesor recién creado a la lista de nodos sucesores
                 sucesores.Add(sucesorArriba);
@@ -296,8 +291,7 @@ namespace PuzzleIA_01
                 filaNuevaHueco = filaActualHueco;
                 columnaNuevaHueco = columnaActualHueco + 1;
 
-                Nodo sucesorDerecha = new Nodo(this.Sucesor(filaActualHueco, columnaActualHueco, filaNuevaHueco, columnaNuevaHueco));
-                //sucesorDerecha.CopiaEstado(this.Sucesor(filaActualHueco, columnaActualHueco, filaNuevaHueco, columnaNuevaHueco));
+                Nodo sucesorDerecha = new Nodo(this.Sucesor(filaActualHueco, columnaActualHueco, filaNuevaHueco, columnaNuevaHueco));               
 
                 //Se añade el sucesor recién creado a la lista de nodos sucesores
                 sucesores.Add(sucesorDerecha);
@@ -312,8 +306,7 @@ namespace PuzzleIA_01
                 filaNuevaHueco = filaActualHueco;
                 columnaNuevaHueco = columnaActualHueco - 1;
 
-                Nodo sucesorIzquierda = new Nodo(this.Sucesor(filaActualHueco, columnaActualHueco, filaNuevaHueco, columnaNuevaHueco));
-                //sucesorIzquierda.CopiaEstado(this.Sucesor(filaActualHueco, columnaActualHueco, filaNuevaHueco, columnaNuevaHueco));
+                Nodo sucesorIzquierda = new Nodo(this.Sucesor(filaActualHueco, columnaActualHueco, filaNuevaHueco, columnaNuevaHueco));                
 
                 //Se añade el sucesor recién creado a la lista de nodos sucesores
                 sucesores.Add(sucesorIzquierda);
