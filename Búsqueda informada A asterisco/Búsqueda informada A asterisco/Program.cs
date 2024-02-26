@@ -314,6 +314,28 @@ namespace PuzzleIA_01
 
             return sucesores;
         }
+
+        /// <summary>
+        /// Devuelve la puntuación A* del nodo actual, la cual se calculará sumando el número de dígitos que
+        /// NO están todavía en la posición que les correspondería si se tratara del nodo Meta. Por tanto, a menor
+        /// puntuación, más cerca se puede decir que estará este nodo de la solución final
+        /// </summary>
+        /// <returns></returns>
+        public int ObtenerPuntuacionA()
+        {
+            int valor = 0;
+            int puntuacion = 0;
+            for (int fila = 0; fila < 3; fila++)
+            {
+                for (int columna = 0; columna < 3; columna++)
+                {
+                    if (valor != casillas[fila, columna])
+                        puntuacion++;
+                    valor++;
+                }
+            }
+            return puntuacion;
+        }
     }
 
 
@@ -324,15 +346,15 @@ namespace PuzzleIA_01
     {
         static void Main(string[] args)
         {
-            Nodo nodoInicial = new Nodo(0, 1, 3,
-                                        2, 4, 6,
-                                        5, 7, 8);
+            Nodo nodoInicial = new Nodo(6, 5, 4,
+                                        1, 3, 2,
+                                        8, 0, 7);
 
             Console.WriteLine("NODO INICIAL:\n" + nodoInicial.Dibujar());
 
+            Console.WriteLine("PUNTUACIÓN A*: " + nodoInicial.ObtenerPuntuacionA() + "\n");
 
-
-            if (BusquedaEnProfundidad(nodoInicial))
+            if (BusquedaInformada(nodoInicial))
             {
                 Console.WriteLine("\n¡¡¡Puzzle resuelto con éxito!!!\n");
             }
@@ -352,7 +374,7 @@ namespace PuzzleIA_01
         /// </summary>
         /// <param name="nodoInicial"></param>
         /// <returns>true si la búsqueda ha obtenido la solución / false si no es así</returns>
-        static bool BusquedaEnProfundidad(Nodo nodoInicial)
+        static bool BusquedaInformada(Nodo nodoInicial)
         {
             List<Nodo> nodosAbiertos = new List<Nodo>();
             List<Nodo> nodosCerrados = new List<Nodo>();
@@ -361,7 +383,7 @@ namespace PuzzleIA_01
             //Fichero interno donde se irá guardando el proceso de búsqueda
             StreamWriter ficheroPruebas = new StreamWriter("comprobaciones.txt");
 
-            Console.WriteLine("Buscando la solución por el método de Búsqueda en profundidad.\n" +
+            Console.WriteLine("Buscando la solución por el método de algoritmo de búsqueda A*.\n" +
                 "El proceso puede tardar varios minutos, ten paciencia...\n");
 
 
@@ -372,23 +394,22 @@ namespace PuzzleIA_01
 
             while (nodosAbiertos.Count > 0)
             {
-                int posUltimoNodo = nodosAbiertos.Count - 1;
-                //Copia en actual el último nodo Abierto
-                nodoActual.CopiaEstado(nodosAbiertos[posUltimoNodo]);
+                
+                //Copia en actual el primer nodo en Abiertos
+                nodoActual.CopiaEstado(nodosAbiertos[0]);
 
-                if (nodosAbiertos[posUltimoNodo].Padre() != null)//Guarda el padre del nodo actual para conservar el camino
-                    nodoActual.EstableceNodoPadre(nodosAbiertos[posUltimoNodo].Padre());
+                if (nodosAbiertos[0].Padre() != null)//Guarda el padre del nodo actual para conservar el camino
+                    nodoActual.EstableceNodoPadre(nodosAbiertos[0].Padre());
                 //Guarda los valores de control en el fichero interno
                 if (nodoActual.Padre() != null)
                     ficheroPruebas.WriteLine("Paso " + ++numeroPasadas + ". Num. abiertos: " + nodosAbiertos.Count + ". Num cerrados: " + nodosCerrados.Count +
                     ". Nodos creados: " + nodosCreados + ". Nodo actual:\n" + nodoActual.Dibujar() + "Nodo padre del actual:\n" + nodoActual.Padre().Dibujar() + "\n");
 
-                //Elimina el último nodo de la lista de Abiertos
-                nodosAbiertos.RemoveAt(posUltimoNodo);
+                //Elimina el primer nodo de la lista de Abiertos
+                nodosAbiertos.RemoveAt(0);
 
                 //Añade el nodo actual a la lista de Cerrados
-                Nodo nodoACerrar = new Nodo(nodoActual);//Utiliza el constructor de copia
-                //nodoACerrar.CopiaEstado(nodoActual);
+                Nodo nodoACerrar = new Nodo(nodoActual);//Utiliza el constructor de copia                
                 if (nodoActual.Padre() != null)
                     nodoACerrar.EstableceNodoPadre(nodoActual.Padre());
                 nodosCerrados.Add(nodoACerrar);
@@ -408,7 +429,7 @@ namespace PuzzleIA_01
 
                     nodosCreados += posiblesSucesores.Count;//Para el fichero de control interno                    
 
-                    //Se añaden al final de la lista de Abiertos todos los posibles sucesores que no
+                    //Se añaden a la lista de Abiertos todos los posibles sucesores que no
                     //estén ya ni en la lista de Abiertos ni en la de Cerrados
                     foreach (Nodo n in posiblesSucesores)
                     {
@@ -417,7 +438,8 @@ namespace PuzzleIA_01
 
                         if (!EstaEnLaLista(n, nodosCerrados) && !EstaEnLaLista(n, nodosAbiertos))
                         {
-                            nodosAbiertos.Add(n);
+                            //Insertará el nodo en el lugar que le corresponda de la lista, según su puntuación A*
+                            InsertaEnLaLista(nodosAbiertos ,n);
                         }
                     }
                 }
@@ -430,6 +452,34 @@ namespace PuzzleIA_01
         }
 
 
+
+
+        /// <summary>
+        /// Inserta en la lista el nodo recibido, atendiendo a su puntuación A*, de tal forma que a menor
+        /// puntuación un nodo estará antes en la lista
+        /// </summary>
+        /// <param name="lista"></param>
+        /// <param name="nodo"></param>
+        static void InsertaEnLaLista(List<Nodo> lista, Nodo nodo)
+        {
+            //Si la lista está vacía, directamente inserta el nodo
+            if (lista.Count == 0)
+                lista.Add(nodo);
+            else
+            {
+                int puntuacionNuevoNodo = nodo.ObtenerPuntuacionA();
+                //Si la lista tiene nodos, los recorrerá hasta encontrar alguno con mayor o igual puntuación
+                //que el que se va a insertar, insertando éste justo en esa posición para que se sitúe antes en la lista
+                for(int pos = 0; pos < lista.Count; pos++)
+                {
+                    if(puntuacionNuevoNodo <= lista[pos].ObtenerPuntuacionA())
+                    {
+                        lista.Insert(pos, nodo);
+                        break;//Deja de buscar
+                    }
+                }
+            }
+        }
 
         /// <summary>
         /// Comprueba si un nodo está en una lista de nodos
@@ -505,7 +555,10 @@ namespace PuzzleIA_01
 
             for (int i = caminoInverso.Count - 1; i >= 0; i--)
             {
+                Console.Clear();
+                Console.SetCursorPosition(0, 1);
                 Console.WriteLine("\n=========\n" + caminoInverso[i].Dibujar() + "=========");
+                Thread.Sleep(500);
             }
         }
     }

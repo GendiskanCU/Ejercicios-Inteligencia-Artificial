@@ -12,3 +12,10 @@ C:\Users\Gendiskan\Proyectos\Ejercicios IA\Ejercicios-Inteligencia-Artificial\B�
 C:\Users\Gendiskan\Proyectos\Ejercicios IA\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\obj\Debug\Búsqueda informada A asterisco.csproj.CoreCompileInputs.cache
 C:\Users\Gendiskan\Proyectos\Ejercicios IA\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\obj\Debug\Búsqueda informada A asterisco.exe
 C:\Users\Gendiskan\Proyectos\Ejercicios IA\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\obj\Debug\Búsqueda informada A asterisco.pdb
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\bin\Debug\Búsqueda informada A asterisco.exe.config
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\bin\Debug\Búsqueda informada A asterisco.exe
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\bin\Debug\Búsqueda informada A asterisco.pdb
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\obj\Debug\Búsqueda informada A asterisco.csproj.AssemblyReference.cache
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\obj\Debug\Búsqueda informada A asterisco.csproj.CoreCompileInputs.cache
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\obj\Debug\Búsqueda informada A asterisco.exe
+C:\Trabajo actual\Unity\Ejercicios-Inteligencia-Artificial\Búsqueda informada A asterisco\Búsqueda informada A asterisco\obj\Debug\Búsqueda informada A asterisco.pdb
